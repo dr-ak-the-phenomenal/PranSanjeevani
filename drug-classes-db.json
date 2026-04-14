@@ -1,0 +1,1814 @@
+[
+  {
+    "id": "21",
+    "name": "Anaphylaxis"
+  },
+  {
+    "id": "68",
+    "name": "Intracellular antibiotic"
+  },
+  {
+    "id": "648",
+    "name": "Glycopeptide"
+  },
+  {
+    "id": "64",
+    "name": "Fourth generation Cephalosporins"
+  },
+  {
+    "id": "63",
+    "name": "First generation Cephalosporins"
+  },
+  {
+    "id": "565",
+    "name": "Eye Anti-Infectives & Antiseptics"
+  },
+  {
+    "id": "566",
+    "name": "Ear Anti-Infectives & Antiseptics"
+  },
+  {
+    "id": "62",
+    "name": "Combined anti- Tubercular Preparations"
+  },
+  {
+    "id": "61",
+    "name": "Broad spectrum penicillins"
+  },
+  {
+    "id": "60",
+    "name": "Benzylpenicillin & Phenoxymethyl penicillin"
+  },
+  {
+    "id": "59",
+    "name": "Anti-Tubercular Chemotherapeutics"
+  },
+  {
+    "id": "58",
+    "name": "Anti-Tubercular Antibiotics"
+  },
+  {
+    "id": "57",
+    "name": "Anti-Leprotic drugs"
+  },
+  {
+    "id": "56",
+    "name": "Aminoglycosides"
+  },
+  {
+    "id": "55",
+    "name": "4-Quinolone preparations"
+  },
+  {
+    "id": "49",
+    "name": "Non depolarizing muscle relaxants"
+  },
+  {
+    "id": "639",
+    "name": "Tyrosine Kinase Inhibitor"
+  },
+  {
+    "id": "449",
+    "name": "Silymarin"
+  },
+  {
+    "id": "456",
+    "name": "Salmon Calcitonin"
+  },
+  {
+    "id": "455",
+    "name": "Purified Soybean Oil"
+  },
+  {
+    "id": "620",
+    "name": "Oxidising agent with antibacterial and antiviral properties"
+  },
+  {
+    "id": "451",
+    "name": "Nitrous Oxide 98 % Gas"
+  },
+  {
+    "id": "453",
+    "name": "Nicotine"
+  },
+  {
+    "id": "615",
+    "name": "Haemostatics"
+  },
+  {
+    "id": "611",
+    "name": "Haematopoietic Agents"
+  },
+  {
+    "id": "634",
+    "name": "Farnesoid X Receptor Agonists"
+  },
+  {
+    "id": "452",
+    "name": "Black Seed Oil"
+  },
+  {
+    "id": "448",
+    "name": "loversol"
+  },
+  {
+    "id": "443",
+    "name": "lopanoic Acid"
+  },
+  {
+    "id": "447",
+    "name": "lopamidol"
+  },
+  {
+    "id": "446",
+    "name": "lohexol"
+  },
+  {
+    "id": "445",
+    "name": "lodixanol"
+  },
+  {
+    "id": "441",
+    "name": "Gadoversetamide"
+  },
+  {
+    "id": "442",
+    "name": "Gadodiamide"
+  },
+  {
+    "id": "444",
+    "name": "Barium Sulphate"
+  },
+  {
+    "id": "638",
+    "name": "Pyrrolopyrimidines"
+  },
+  {
+    "id": "440",
+    "name": "Other preparations"
+  },
+  {
+    "id": "640",
+    "name": "Immunomodulator"
+  },
+  {
+    "id": "645",
+    "name": "Herbal and Nutraceuticals"
+  },
+  {
+    "id": "439",
+    "name": "Contrast medium for diagnostic procedures"
+  },
+  {
+    "id": "636",
+    "name": "Carboxylic acids and derivatives"
+  },
+  {
+    "id": "607",
+    "name": "Thyroid drugs & hormone"
+  },
+  {
+    "id": "606",
+    "name": "Anti-thyroid drugs"
+  },
+  {
+    "id": "617",
+    "name": "Trophic Hormones & Related Synthetic Drugs"
+  },
+  {
+    "id": "605",
+    "name": "Growth hormone antagonist"
+  },
+  {
+    "id": "604",
+    "name": "Drugs affecting (inhibiting) gonadotrophin"
+  },
+  {
+    "id": "603",
+    "name": "Hormone preparations for other uses"
+  },
+  {
+    "id": "601",
+    "name": "Drugs for Milk suppression"
+  },
+  {
+    "id": "602",
+    "name": "Drugs for menopausal symptoms: Hormone replacement therapy"
+  },
+  {
+    "id": "600",
+    "name": "Drugs for Infertility"
+  },
+  {
+    "id": "599",
+    "name": "Drugs for Growth failure"
+  },
+  {
+    "id": "598",
+    "name": "Calcium Regulator"
+  },
+  {
+    "id": "597",
+    "name": "Oral Contraceptive preparations"
+  },
+  {
+    "id": "596",
+    "name": "Male Sex hormones (Androgens)"
+  },
+  {
+    "id": "595",
+    "name": "Hormonal Implants"
+  },
+  {
+    "id": "594",
+    "name": "Gonadotropin-releasing hormone (GnRH) antagonist"
+  },
+  {
+    "id": "593",
+    "name": "Female Sex hormones"
+  },
+  {
+    "id": "608",
+    "name": "Emergency Contraceptive Pill"
+  },
+  {
+    "id": "592",
+    "name": "Anabolic steroid (Androgens)"
+  },
+  {
+    "id": "591",
+    "name": "Aldose reductase inhibitor"
+  },
+  {
+    "id": "590",
+    "name": "Adjunct anti-epileptic drugs"
+  },
+  {
+    "id": "589",
+    "name": "Glucocorticoids"
+  },
+  {
+    "id": "588",
+    "name": "Short Acting Insulin"
+  },
+  {
+    "id": "587",
+    "name": "Rapid Acting Insulin"
+  },
+  {
+    "id": "586",
+    "name": "Medium Acting Insulin"
+  },
+  {
+    "id": "585",
+    "name": "Long Acting Insulin"
+  },
+  {
+    "id": "584",
+    "name": "GLP-1 receptor agonists"
+  },
+  {
+    "id": "583",
+    "name": "Combination Insulin"
+  },
+  {
+    "id": "582",
+    "name": "Thiazolidinedione Group"
+  },
+  {
+    "id": "581",
+    "name": "Sulfonylureas"
+  },
+  {
+    "id": "580",
+    "name": "Sodium-glucose Cotransporter-2 (SGLT2) Inhibitors"
+  },
+  {
+    "id": "579",
+    "name": "Meglitinide Analogues"
+  },
+  {
+    "id": "578",
+    "name": "Dipeptidyl Peptidase-4 (DPP-4) inhibitor"
+  },
+  {
+    "id": "577",
+    "name": "Combination Oral hypoglycemic preparations"
+  },
+  {
+    "id": "576",
+    "name": "Biguanides"
+  },
+  {
+    "id": "612",
+    "name": "Alpha-Glucosidase inhibitor"
+  },
+  {
+    "id": "564",
+    "name": "Preparations for Oral Ulceration & Inflammation"
+  },
+  {
+    "id": "153",
+    "name": "Non-steroidal Anti-inflammatory Drugs (NSAIDs)"
+  },
+  {
+    "id": "152",
+    "name": "Non-Opioid Analgesics"
+  },
+  {
+    "id": "491",
+    "name": "Respiratory stimulants: analeptics"
+  },
+  {
+    "id": "490",
+    "name": "Pulmonary surfactants"
+  },
+  {
+    "id": "660",
+    "name": "Non-prostanoid IP prostacyclin receptor agonist"
+  },
+  {
+    "id": "489",
+    "name": "Cough suppressant"
+  },
+  {
+    "id": "488",
+    "name": "Cough expectorants & mucolytics"
+  },
+  {
+    "id": "487",
+    "name": "Combined cough suppressants"
+  },
+  {
+    "id": "486",
+    "name": "Combined cough expectorants"
+  },
+  {
+    "id": "485",
+    "name": "Theophylline & related drugs"
+  },
+  {
+    "id": "484",
+    "name": "Short-acting selective & β2-adrenoceptor stimulants"
+  },
+  {
+    "id": "483",
+    "name": "Respiratory corticosteroids"
+  },
+  {
+    "id": "481",
+    "name": "Methyl xanthine derivatives"
+  },
+  {
+    "id": "480",
+    "name": "Long-acting selective β-adrenoceptor stimulants"
+  },
+  {
+    "id": "479",
+    "name": "Leukotriene receptor antagonists"
+  },
+  {
+    "id": "478",
+    "name": "Cromoglycate & related drugs"
+  },
+  {
+    "id": "477",
+    "name": "Combined bronchodilators"
+  },
+  {
+    "id": "637",
+    "name": "Bronchodilator"
+  },
+  {
+    "id": "476",
+    "name": "Antihistamines anti-allergies & hypo-sensitisation"
+  },
+  {
+    "id": "475",
+    "name": "Anticholinergic bronchodilators"
+  },
+  {
+    "id": "471",
+    "name": "Topical anti-inflammatory preparations"
+  },
+  {
+    "id": "470",
+    "name": "Enzymes"
+  },
+  {
+    "id": "659",
+    "name": "Painkiller Muscle Relaxant"
+  },
+  {
+    "id": "469",
+    "name": "Locally acting Skeletal Muscle Relaxants"
+  },
+  {
+    "id": "468",
+    "name": "Drugs used in Myasthenia Gravis"
+  },
+  {
+    "id": "467",
+    "name": "Drugs used in Cerebral Palsy"
+  },
+  {
+    "id": "466",
+    "name": "Centrally acting Skeletal Muscle Relaxants"
+  },
+  {
+    "id": "465",
+    "name": "Non-steroidal Anti-inflammatory Drugs (NSAIDs)"
+  },
+  {
+    "id": "462",
+    "name": "Drugs used in Gout"
+  },
+  {
+    "id": "461",
+    "name": "Drugs used for Rheumatoid Arthritis"
+  },
+  {
+    "id": "460",
+    "name": "Disease-modifying antirheumatic drugs (DMARDs)"
+  },
+  {
+    "id": "437",
+    "name": "Urinary Alkalinizing Agent"
+  },
+  {
+    "id": "436",
+    "name": "Systemic Urinary Anti- infective"
+  },
+  {
+    "id": "435",
+    "name": "Other Systemic Anti-infective Effective in Urinary tract infections"
+  },
+  {
+    "id": "434",
+    "name": "Irrigation Solution used in Urological Surgery"
+  },
+  {
+    "id": "656",
+    "name": "Synthetic analogue of ADH"
+  },
+  {
+    "id": "547",
+    "name": "Peritoneal dialysis solution"
+  },
+  {
+    "id": "546",
+    "name": "Other genito-urinary preparations"
+  },
+  {
+    "id": "623",
+    "name": "Multiple gynecological preparation"
+  },
+  {
+    "id": "431",
+    "name": "Haemodialysis solutions"
+  },
+  {
+    "id": "622",
+    "name": "Drugs used in chronic kidney dialysis"
+  },
+  {
+    "id": "430",
+    "name": "Drugs for reduction of serum phosphorus in patients with ESRD"
+  },
+  {
+    "id": "652",
+    "name": "Selective vasopressin V2-receptor antagonist"
+  },
+  {
+    "id": "429",
+    "name": "Drugs used in Vaginal and Vulval condition"
+  },
+  {
+    "id": "428",
+    "name": "Drugs used in Ano-rectal region"
+  },
+  {
+    "id": "427",
+    "name": "Drugs for Erectile Dysfunction"
+  },
+  {
+    "id": "426",
+    "name": "Drugs acting on the Uterus"
+  },
+  {
+    "id": "425",
+    "name": "BPH/ Urinary retention/ Urinary incontinence"
+  },
+  {
+    "id": "424",
+    "name": "Prevention of repeated kidney stone formation"
+  },
+  {
+    "id": "418",
+    "name": "Phlebotonic & Vascular protecting preparation"
+  },
+  {
+    "id": "417",
+    "name": "Compound steroidal preparations"
+  },
+  {
+    "id": "545",
+    "name": "Proton Pump Inhibitor"
+  },
+  {
+    "id": "544",
+    "name": "H2 receptor antagonist"
+  },
+  {
+    "id": "543",
+    "name": "Ulcer protective"
+  },
+  {
+    "id": "542",
+    "name": "Proton Pump Inhibitor"
+  },
+  {
+    "id": "541",
+    "name": "Prostaglandin analogues"
+  },
+  {
+    "id": "540",
+    "name": "Other drugs used for peptic ulcer disease"
+  },
+  {
+    "id": "539",
+    "name": "Motility stimulants/Dopamine antagonist"
+  },
+  {
+    "id": "538",
+    "name": "H2 receptor antagonist"
+  },
+  {
+    "id": "537",
+    "name": "Drugs for Aphthous ulcer"
+  },
+  {
+    "id": "536",
+    "name": "Chelating complex"
+  },
+  {
+    "id": "651",
+    "name": "Candida infections"
+  },
+  {
+    "id": "534",
+    "name": "Anticholinergics (antimuscarinics)/ Anti-spasmodics"
+  },
+  {
+    "id": "535",
+    "name": "Anticholinergics"
+  },
+  {
+    "id": "533",
+    "name": "Anti-dyspeptic/Carminatives"
+  },
+  {
+    "id": "532",
+    "name": "Anti-cholinergic & anti-psychotic combination drugs"
+  },
+  {
+    "id": "531",
+    "name": "Anti H. pylori drugs"
+  },
+  {
+    "id": "530",
+    "name": "Antacids"
+  },
+  {
+    "id": "529",
+    "name": "Proton Pump Inhibitor"
+  },
+  {
+    "id": "528",
+    "name": "H2 receptor antagonist"
+  },
+  {
+    "id": "527",
+    "name": "Antacids"
+  },
+  {
+    "id": "526",
+    "name": "Proton Pump Inhibitor"
+  },
+  {
+    "id": "525",
+    "name": "Antacids"
+  },
+  {
+    "id": "524",
+    "name": "Prokinetic drugs"
+  },
+  {
+    "id": "523",
+    "name": "Anti-emetic drugs"
+  },
+  {
+    "id": "411",
+    "name": "Proton Pump Inhibitor"
+  },
+  {
+    "id": "410",
+    "name": "Motility Stimulants"
+  },
+  {
+    "id": "409",
+    "name": "H2 receptor antagonist"
+  },
+  {
+    "id": "408",
+    "name": "Anti-dyspeptic/Carminatives"
+  },
+  {
+    "id": "407",
+    "name": "Antacids"
+  },
+  {
+    "id": "406",
+    "name": "Water purifying agent"
+  },
+  {
+    "id": "405",
+    "name": "Anti-motility drugs"
+  },
+  {
+    "id": "404",
+    "name": "Anti-diarrhoeal Enzyme"
+  },
+  {
+    "id": "403",
+    "name": "Anti-diarrhoeal Antiprotozoal"
+  },
+  {
+    "id": "402",
+    "name": "Anti-diarrhoeal Antimicrobial drugs"
+  },
+  {
+    "id": "401",
+    "name": "Anti-diarrhoeal"
+  },
+  {
+    "id": "400",
+    "name": "Stool softener"
+  },
+  {
+    "id": "399",
+    "name": "Stimulant purgatives"
+  },
+  {
+    "id": "398",
+    "name": "Other laxative preparations"
+  },
+  {
+    "id": "397",
+    "name": "Osmotic purgatives"
+  },
+  {
+    "id": "396",
+    "name": "Enema & bowel cleansing solution"
+  },
+  {
+    "id": "395",
+    "name": "Combined preparation for constipation"
+  },
+  {
+    "id": "394",
+    "name": "Bulk-forming laxatives"
+  },
+  {
+    "id": "393",
+    "name": "Antacid with laxative action"
+  },
+  {
+    "id": "392",
+    "name": "Abdominal gas adsorbent preparations"
+  },
+  {
+    "id": "416",
+    "name": "Ulcerative Colitis"
+  },
+  {
+    "id": "415",
+    "name": "Drugs for Irritable Bowel Syndrome"
+  },
+  {
+    "id": "655",
+    "name": "Aminosalicylates"
+  },
+  {
+    "id": "391",
+    "name": "Drugs affecting exocrine secretions"
+  },
+  {
+    "id": "390",
+    "name": "Digestive Enzyme"
+  },
+  {
+    "id": "389",
+    "name": "Cholagogues, Cholelitholytics & Hepatic Protectors"
+  },
+  {
+    "id": "388",
+    "name": "Bile acid sequestrants"
+  },
+  {
+    "id": "387",
+    "name": "Anti-gallstones drugs: Bile Acids"
+  },
+  {
+    "id": "375",
+    "name": "Preparations for Ophthalmic diagnosis"
+  },
+  {
+    "id": "372",
+    "name": "Ophthalmic Steroid- anti allergic combined preparations"
+  },
+  {
+    "id": "371",
+    "name": "Ophthalmic Steroid preparations"
+  },
+  {
+    "id": "374",
+    "name": "Other ophthalmic preparations"
+  },
+  {
+    "id": "373",
+    "name": "Ophthalmic steroid - antibiotic combined preparations"
+  },
+  {
+    "id": "370",
+    "name": "Ophthalmic Non-Steroid drugs"
+  },
+  {
+    "id": "369",
+    "name": "Ophthalmic Non-Steroid Combined preparations"
+  },
+  {
+    "id": "562",
+    "name": "Ophthalmic antibacterial drugs"
+  },
+  {
+    "id": "368",
+    "name": "Ophthalmic Anti-viral Products"
+  },
+  {
+    "id": "367",
+    "name": "Ophthalmic Anti-fungal Products"
+  },
+  {
+    "id": "365",
+    "name": "Ophthalmic Anti-allergic preparations"
+  },
+  {
+    "id": "366",
+    "name": "Ophthalmic and Topical antibacterial products"
+  },
+  {
+    "id": "364",
+    "name": "Ocular perioperative drugs"
+  },
+  {
+    "id": "363",
+    "name": "Mydriatic and Cycloplegic agents"
+  },
+  {
+    "id": "362",
+    "name": "Drugs for miotics and glaucoma"
+  },
+  {
+    "id": "361",
+    "name": "Drugs for lens opacification"
+  },
+  {
+    "id": "359",
+    "name": "Drugs for Dry eyes"
+  },
+  {
+    "id": "360",
+    "name": "Drugs for corneal oedema"
+  },
+  {
+    "id": "358",
+    "name": "Drugs for Age-Related Macular Degeneration (AMD)"
+  },
+  {
+    "id": "357",
+    "name": "Antioxidant vitamins & minerals for eye"
+  },
+  {
+    "id": "316",
+    "name": "Nasal Steroid Preparations"
+  },
+  {
+    "id": "317",
+    "name": "Nasal non-steroid Preparation"
+  },
+  {
+    "id": "614",
+    "name": "Nasal Decongestants & Other Nasal Preparations"
+  },
+  {
+    "id": "314",
+    "name": "Nasal Anti-cholinergic (Anti- muscarinic) Preparations"
+  },
+  {
+    "id": "315",
+    "name": "Nasal Anti-histamine preparations"
+  },
+  {
+    "id": "313",
+    "name": "Mast Cell Stabiliser"
+  },
+  {
+    "id": "312",
+    "name": "Decongestant"
+  },
+  {
+    "id": "311",
+    "name": "Oral preparations"
+  },
+  {
+    "id": "613",
+    "name": "Irrigation during various surgical procedures"
+  },
+  {
+    "id": "624",
+    "name": "Anticavity Mouthwash"
+  },
+  {
+    "id": "654",
+    "name": "Cerumenolytic"
+  },
+  {
+    "id": "310",
+    "name": "Aural steroid & antibiotic combined preparations"
+  },
+  {
+    "id": "309",
+    "name": "Aural Anti-fungal preparations"
+  },
+  {
+    "id": "308",
+    "name": "Aural Anti-bacterial preparations"
+  },
+  {
+    "id": "650",
+    "name": "Anti-fungal or anti-bacterial ear drops"
+  },
+  {
+    "id": "304",
+    "name": "Plasma expanders"
+  },
+  {
+    "id": "303",
+    "name": "Oral electrolytes preparations"
+  },
+  {
+    "id": "302",
+    "name": "Intravenous fluid preparations"
+  },
+  {
+    "id": "621",
+    "name": "Electrolytes preparations"
+  },
+  {
+    "id": "301",
+    "name": "Vitamin-K Preparations"
+  },
+  {
+    "id": "300",
+    "name": "Vitamin-E Preparations"
+  },
+  {
+    "id": "299",
+    "name": "Vitamin-D preparations"
+  },
+  {
+    "id": "298",
+    "name": "Vitamin-C Preparations"
+  },
+  {
+    "id": "297",
+    "name": "Vitamin-B preparations"
+  },
+  {
+    "id": "296",
+    "name": "Vitamin-A preparations"
+  },
+  {
+    "id": "560",
+    "name": "Supplements & adjuvant therapy"
+  },
+  {
+    "id": "295",
+    "name": "Parenteral nutritional preparations"
+  },
+  {
+    "id": "646",
+    "name": "Oral nutritional preparations"
+  },
+  {
+    "id": "520",
+    "name": "Multi-vitamin & Multi-mineral combined preparations"
+  },
+  {
+    "id": "290",
+    "name": "Specific mineral preparations"
+  },
+  {
+    "id": "289",
+    "name": "Specific mineral & vitamin combined preparations"
+  },
+  {
+    "id": "647",
+    "name": "Hyperkalaemia Products"
+  },
+  {
+    "id": "288",
+    "name": "Specific combined vitamin preparations"
+  },
+  {
+    "id": "286",
+    "name": "Anti-oxidant Multivitamin preparations"
+  },
+  {
+    "id": "285",
+    "name": "Anti-oxidant Multivitamin Multimineral preparations"
+  },
+  {
+    "id": "519",
+    "name": "Drugs for Osteoarthritis"
+  },
+  {
+    "id": "518",
+    "name": "Corticosteroid"
+  },
+  {
+    "id": "276",
+    "name": "Stimulation of Cartilage formation"
+  },
+  {
+    "id": "274",
+    "name": "Vitamin in bone formation"
+  },
+  {
+    "id": "272",
+    "name": "Minerals in bone formation"
+  },
+  {
+    "id": "273",
+    "name": "Inhibiting bone resorption"
+  },
+  {
+    "id": "271",
+    "name": "Hormone in bone formation by stimulation"
+  },
+  {
+    "id": "270",
+    "name": "Hormone in bone formation by Inhibiting bone resorption"
+  },
+  {
+    "id": "269",
+    "name": "Combined preparations: Inhibiting bone resorption"
+  },
+  {
+    "id": "268",
+    "name": "Bisphosphonate preparations"
+  },
+  {
+    "id": "263",
+    "name": "Drugs for Haemolytic Hypoplastic & Renal Anemia"
+  },
+  {
+    "id": "264",
+    "name": "Drugs for Megaloblastic Anemia"
+  },
+  {
+    "id": "262",
+    "name": "Parenteral Iron Preparations"
+  },
+  {
+    "id": "261",
+    "name": "Oral Iron preparations"
+  },
+  {
+    "id": "260",
+    "name": "Iron, Vitamin & Mineral Combined preparation"
+  },
+  {
+    "id": "259",
+    "name": "Iron & Vitamin Combined preparations"
+  },
+  {
+    "id": "255",
+    "name": "Triamcinolone & Combined preparations"
+  },
+  {
+    "id": "254",
+    "name": "Other Topical corticosteroids"
+  },
+  {
+    "id": "253",
+    "name": "Hydrocortisone & Combined preparations"
+  },
+  {
+    "id": "252",
+    "name": "Fluticasone & combined preparations topical"
+  },
+  {
+    "id": "251",
+    "name": "Fluocinolone & Combined Preparations"
+  },
+  {
+    "id": "250",
+    "name": "Clobetasol / Clobetasone & Combined Preparations"
+  },
+  {
+    "id": "249",
+    "name": "Betamethasone & Combined preparations"
+  },
+  {
+    "id": "248",
+    "name": "Beclomethasone & Combined Preparations"
+  },
+  {
+    "id": "247",
+    "name": "Topical Local Anesthetics"
+  },
+  {
+    "id": "246",
+    "name": "Topical Antihistamines"
+  },
+  {
+    "id": "245",
+    "name": "Local Antipruritic"
+  },
+  {
+    "id": "244",
+    "name": "Topical Antiviral preparations"
+  },
+  {
+    "id": "243",
+    "name": "Topical Antifungal preparations"
+  },
+  {
+    "id": "242",
+    "name": "Topical Antibiotic preparations"
+  },
+  {
+    "id": "241",
+    "name": "Parasiticidal preparations"
+  },
+  {
+    "id": "240",
+    "name": "Other Antifungal preparations"
+  },
+  {
+    "id": "239",
+    "name": "Drugs used in diaper rash"
+  },
+  {
+    "id": "238",
+    "name": "Anti-infective & Anesthetic combined preparations"
+  },
+  {
+    "id": "237",
+    "name": "Other scalp preparations"
+  },
+  {
+    "id": "236",
+    "name": "Medicated Shampoos"
+  },
+  {
+    "id": "235",
+    "name": "Sunblock Preparation"
+  },
+  {
+    "id": "233",
+    "name": "Combined preparations"
+  },
+  {
+    "id": "234",
+    "name": "Topical salicylic preparation"
+  },
+  {
+    "id": "232",
+    "name": "Anti neoplastic preparations"
+  },
+  {
+    "id": "230",
+    "name": "Methoxsalen preparation"
+  },
+  {
+    "id": "229",
+    "name": "Topical urea preparations"
+  },
+  {
+    "id": "228",
+    "name": "Topical retinoid and related preparations"
+  },
+  {
+    "id": "231",
+    "name": "Hydroquinone Preparations"
+  },
+  {
+    "id": "227",
+    "name": "Topical antibiotics for Acne"
+  },
+  {
+    "id": "226",
+    "name": "Topical antibiotic & retinoid preparations"
+  },
+  {
+    "id": "225",
+    "name": "Oral retinoids for Acne"
+  },
+  {
+    "id": "224",
+    "name": "Oral Hormonal preparations for Acne"
+  },
+  {
+    "id": "223",
+    "name": "Benzoyl peroxide, Azelaic acid & other preparations"
+  },
+  {
+    "id": "561",
+    "name": "Acne treatment preparations"
+  },
+  {
+    "id": "220",
+    "name": "Iodine compounds (Anti-septic Preparations)"
+  },
+  {
+    "id": "219",
+    "name": "Crystal violet/ Gentian violet preparations"
+  },
+  {
+    "id": "222",
+    "name": "Dressing products for wounds/burns/ulcers"
+  },
+  {
+    "id": "218",
+    "name": "Chlorhexidine & Chloroxylenol preparations"
+  },
+  {
+    "id": "217",
+    "name": "Bleaching and Disinfectants"
+  },
+  {
+    "id": "216",
+    "name": "Zinc & Combined preparations"
+  },
+  {
+    "id": "215",
+    "name": "Topical Vitamin D & related preparations"
+  },
+  {
+    "id": "214",
+    "name": "Topical retinoid and related preparations"
+  },
+  {
+    "id": "213",
+    "name": "Oral Retinoid preparations"
+  },
+  {
+    "id": "212",
+    "name": "Emollients & combined preparations"
+  },
+  {
+    "id": "211",
+    "name": "Drugs affecting the immune response"
+  },
+  {
+    "id": "210",
+    "name": "Dithranol & combined preparations"
+  },
+  {
+    "id": "209",
+    "name": "Coal-tar preparations"
+  },
+  {
+    "id": "208",
+    "name": "Topical Analgesics"
+  },
+  {
+    "id": "558",
+    "name": "Miscellaneous topical agents"
+  },
+  {
+    "id": "628",
+    "name": "Hair Growth Inhibitor"
+  },
+  {
+    "id": "517",
+    "name": "Statins"
+  },
+  {
+    "id": "516",
+    "name": "Cerebral vasodilator & Neurosensory oxygenator drugs"
+  },
+  {
+    "id": "515",
+    "name": "Calcium-channel blockers"
+  },
+  {
+    "id": "630",
+    "name": "Antiarrhythmic Therapy"
+  },
+  {
+    "id": "514",
+    "name": "Anti-platelet drugs"
+  },
+  {
+    "id": "513",
+    "name": "Anti-coagulants"
+  },
+  {
+    "id": "512",
+    "name": "Angiotensin-ll receptor blocker"
+  },
+  {
+    "id": "510",
+    "name": "Calcium-channel blockers"
+  },
+  {
+    "id": "509",
+    "name": "Angiotensin-ll receptor blocker"
+  },
+  {
+    "id": "190",
+    "name": "Tricyclic Anti-depressant"
+  },
+  {
+    "id": "189",
+    "name": "Miscellaneous prophylactic migraine preparations"
+  },
+  {
+    "id": "188",
+    "name": "Beta-blockers"
+  },
+  {
+    "id": "187",
+    "name": "Anti-histamine Preparations"
+  },
+  {
+    "id": "162",
+    "name": "Non-Benzodiazepine hypnotics"
+  },
+  {
+    "id": "161",
+    "name": "Miscellaneous sedatives & hypnotics"
+  },
+  {
+    "id": "160",
+    "name": "Benzodiazepine sedatives"
+  },
+  {
+    "id": "159",
+    "name": "Benzodiazepine hypnotics"
+  },
+  {
+    "id": "158",
+    "name": "Barbiturates"
+  },
+  {
+    "id": "186",
+    "name": "Piperidinyl-benzisoxazole derivative"
+  },
+  {
+    "id": "185",
+    "name": "Phenothiazine related drugs"
+  },
+  {
+    "id": "184",
+    "name": "Phenothiazine drugs"
+  },
+  {
+    "id": "183",
+    "name": "Butyrophenone drugs"
+  },
+  {
+    "id": "182",
+    "name": "Atypical neuroleptic drugs"
+  },
+  {
+    "id": "181",
+    "name": "Anti-manic drugs"
+  },
+  {
+    "id": "631",
+    "name": "Neurodegenerative Disease Drugs / Neuromuscular Disorder Drugs"
+  },
+  {
+    "id": "180",
+    "name": "Drugs used in substance dependence"
+  },
+  {
+    "id": "179",
+    "name": "CNS stimulant drugs"
+  },
+  {
+    "id": "178",
+    "name": "Appetite suppressant drugs/Anti-obesity drugs"
+  },
+  {
+    "id": "177",
+    "name": "Antidote preparations"
+  },
+  {
+    "id": "176",
+    "name": "Drugs used in tremor, tics & related disorder"
+  },
+  {
+    "id": "175",
+    "name": "Drugs for Dementia"
+  },
+  {
+    "id": "174",
+    "name": "Antiparkinson drugs"
+  },
+  {
+    "id": "173",
+    "name": "Anti-Alzheimer drugs"
+  },
+  {
+    "id": "172",
+    "name": "Drugs used in meniere's diseases"
+  },
+  {
+    "id": "171",
+    "name": "Anti-emetic drugs"
+  },
+  {
+    "id": "170",
+    "name": "Anti vertigo drugs"
+  },
+  {
+    "id": "169",
+    "name": "Primary anti-epileptic drugs"
+  },
+  {
+    "id": "168",
+    "name": "Adjunct anti-epileptic drugs"
+  },
+  {
+    "id": "167",
+    "name": "Tricyclic & related anti-depressant drugs"
+  },
+  {
+    "id": "165",
+    "name": "SSRIs & related anti-depressant drugs"
+  },
+  {
+    "id": "166",
+    "name": "Serotonin-norepinephrine reuptake inhibitor (SNRI)"
+  },
+  {
+    "id": "164",
+    "name": "Combined anxiolytics & anti-depressant drugs"
+  },
+  {
+    "id": "163",
+    "name": "Atypical anti-depressant drugs"
+  },
+  {
+    "id": "157",
+    "name": "Other drugs for migraine"
+  },
+  {
+    "id": "156",
+    "name": "Ergot Alkaloids"
+  },
+  {
+    "id": "155",
+    "name": "5-HT Agonists"
+  },
+  {
+    "id": "139",
+    "name": "Peripheral Vasodilator drugs: Intermittent Claudication"
+  },
+  {
+    "id": "138",
+    "name": "Drugs for muscular energy metabolism"
+  },
+  {
+    "id": "137",
+    "name": "Cerebral vasodilator & Neurosensory oxygenator drugs"
+  },
+  {
+    "id": "136",
+    "name": "Statins"
+  },
+  {
+    "id": "135",
+    "name": "Other lipid regulating drugs"
+  },
+  {
+    "id": "134",
+    "name": "Nicotinic acid group"
+  },
+  {
+    "id": "133",
+    "name": "Fibrates"
+  },
+  {
+    "id": "132",
+    "name": "Ezetimibe"
+  },
+  {
+    "id": "616",
+    "name": "Dyslipidaemic Agents"
+  },
+  {
+    "id": "658",
+    "name": "Adenosine triphosphate-citrate lyase (ACL) inhibitor"
+  },
+  {
+    "id": "508",
+    "name": "Vasodilator antihypertensive drugs"
+  },
+  {
+    "id": "507",
+    "name": "Thiazide diuretics & related drugs"
+  },
+  {
+    "id": "505",
+    "name": "Potassium-sparing diuretics & Aldosterone antagonists"
+  },
+  {
+    "id": "504",
+    "name": "Osmotic diuretics"
+  },
+  {
+    "id": "506",
+    "name": "Potassium-sparing diuretics"
+  },
+  {
+    "id": "503",
+    "name": "Loop diuretics"
+  },
+  {
+    "id": "502",
+    "name": "Endothelin receptor antagonist"
+  },
+  {
+    "id": "501",
+    "name": "Direct Renin Inhibitors"
+  },
+  {
+    "id": "500",
+    "name": "Combined antihypertensive preparations"
+  },
+  {
+    "id": "499",
+    "name": "Centrally acting antihypertensive drugs (central sympatholytic)"
+  },
+  {
+    "id": "498",
+    "name": "Carbonic anhydrase inhibitor"
+  },
+  {
+    "id": "497",
+    "name": "Calcium-channel blockers"
+  },
+  {
+    "id": "496",
+    "name": "Beta-adrenoceptor blocking drugs"
+  },
+  {
+    "id": "559",
+    "name": "Anti-hypertensive"
+  },
+  {
+    "id": "494",
+    "name": "Angiotensin-ll receptor blocker"
+  },
+  {
+    "id": "495",
+    "name": "Angiotensin-converting enzyme (ACE) inhibitors"
+  },
+  {
+    "id": "493",
+    "name": "Alpha and Beta-adrenergic agonist"
+  },
+  {
+    "id": "126",
+    "name": "Alpha and Beta-adrenergic agonist"
+  },
+  {
+    "id": "125",
+    "name": "Alpha adrenoceptor blocking drugs"
+  },
+  {
+    "id": "492",
+    "name": "Alpha adrenoceptor blocking drugs"
+  },
+  {
+    "id": "124",
+    "name": "Vasoconstrictor/Venotonic"
+  },
+  {
+    "id": "123",
+    "name": "Thiazide diuretics & related drugs"
+  },
+  {
+    "id": "661",
+    "name": "Stimulator of soluble guanylate cyclase"
+  },
+  {
+    "id": "122",
+    "name": "Potassium-sparing diuretics"
+  },
+  {
+    "id": "121",
+    "name": "Positive Inotropic drugs"
+  },
+  {
+    "id": "120",
+    "name": "Loop diuretics"
+  },
+  {
+    "id": "119",
+    "name": "Inotropic-sympathomimetics"
+  },
+  {
+    "id": "117",
+    "name": "Angiotensin-ll receptor blocker"
+  },
+  {
+    "id": "118",
+    "name": "Angiotensin-converting enzyme (ACE) inhibitors"
+  },
+  {
+    "id": "112",
+    "name": "Potassium channel blockers"
+  },
+  {
+    "id": "116",
+    "name": "Paroxysmal supraventricular tachycardia (PSVT)"
+  },
+  {
+    "id": "115",
+    "name": "Membrane stabilizing agent (Sodium channel blockers)"
+  },
+  {
+    "id": "114",
+    "name": "Calcium-channel blockers"
+  },
+  {
+    "id": "113",
+    "name": "Anti adrenergic agent (Beta blockers)"
+  },
+  {
+    "id": "111",
+    "name": "Potassium-channel activator"
+  },
+  {
+    "id": "110",
+    "name": "Other Anti-anginal & Anti-ischaemic drugs"
+  },
+  {
+    "id": "109",
+    "name": "Nitrates: Coronary vasodilators"
+  },
+  {
+    "id": "108",
+    "name": "Calcium-channel blockers"
+  },
+  {
+    "id": "107",
+    "name": "Anti-anginal & lipid lowering drugs"
+  },
+  {
+    "id": "106",
+    "name": "Haemostatic drugs"
+  },
+  {
+    "id": "105",
+    "name": "Antihaemophilic factor"
+  },
+  {
+    "id": "104",
+    "name": "Anti-platelet drugs"
+  },
+  {
+    "id": "103",
+    "name": "Anti-fibrinolytic drugs"
+  },
+  {
+    "id": "102",
+    "name": "Parenteral anti-coagulants"
+  },
+  {
+    "id": "101",
+    "name": "Oral Anti-coagulants"
+  },
+  {
+    "id": "100",
+    "name": "Hematopoietic drug"
+  },
+  {
+    "id": "99",
+    "name": "Fibrinolytics (Thrombolytics)"
+  },
+  {
+    "id": "633",
+    "name": "Vaso Protective"
+  },
+  {
+    "id": "482",
+    "name": "Other adrenoceptor stimulants"
+  },
+  {
+    "id": "552",
+    "name": "Targeted Cancer Therapy"
+  },
+  {
+    "id": "551",
+    "name": "Supportive Care Therapy"
+  },
+  {
+    "id": "643",
+    "name": "Protein kinase inhibitor"
+  },
+  {
+    "id": "550",
+    "name": "Immunological Chemotherapy"
+  },
+  {
+    "id": "549",
+    "name": "Hormonal Chemotherapy"
+  },
+  {
+    "id": "553",
+    "name": "Cytotoxic immunosuppressants"
+  },
+  {
+    "id": "548",
+    "name": "Cytotoxic Chemotherapy"
+  },
+  {
+    "id": "88",
+    "name": "Respiratory viral infections (Influenza)"
+  },
+  {
+    "id": "87",
+    "name": "Herpes simplex & Varicella-zoster virus infections"
+  },
+  {
+    "id": "86",
+    "name": "Hepatic viral infections (Hepatitis C)"
+  },
+  {
+    "id": "85",
+    "name": "Hepatic viral infections (Hepatitis B)"
+  },
+  {
+    "id": "83",
+    "name": "Drugs for HIV / Anti-retroviral drugs"
+  },
+  {
+    "id": "609",
+    "name": "Anti-viral drugs"
+  },
+  {
+    "id": "81",
+    "name": "Leishmaniacides"
+  },
+  {
+    "id": "82",
+    "name": "Other Anti-protozoals"
+  },
+  {
+    "id": "80",
+    "name": "Anti-malarial drugs"
+  },
+  {
+    "id": "79",
+    "name": "Amoebicides"
+  },
+  {
+    "id": "78",
+    "name": "Anthelmintic"
+  },
+  {
+    "id": "653",
+    "name": "Echinocandins"
+  },
+  {
+    "id": "77",
+    "name": "Drugs for subcutaneous and mycoses"
+  },
+  {
+    "id": "75",
+    "name": "Third generation Cephalosporins"
+  },
+  {
+    "id": "74",
+    "name": "Tetracycline group of drugs"
+  },
+  {
+    "id": "73",
+    "name": "Sulphonamides & Trimethoprim"
+  },
+  {
+    "id": "72",
+    "name": "Second generation Cephalosporins"
+  },
+  {
+    "id": "71",
+    "name": "Penicillinase-resistant penicillins"
+  },
+  {
+    "id": "69",
+    "name": "Other beta-lactam Antibiotics"
+  },
+  {
+    "id": "618",
+    "name": "Other antibiotic"
+  },
+  {
+    "id": "67",
+    "name": "Mecillinams"
+  },
+  {
+    "id": "610",
+    "name": "Other antibacterial preparation"
+  },
+  {
+    "id": "66",
+    "name": "Macrolides"
+  },
+  {
+    "id": "65",
+    "name": "Long acting penicillin"
+  },
+  {
+    "id": "48",
+    "name": "Depolarizing muscle relaxants"
+  },
+  {
+    "id": "47",
+    "name": "Central Depolarizing muscle relaxants"
+  },
+  {
+    "id": "46",
+    "name": "Regional anesthesia"
+  },
+  {
+    "id": "45",
+    "name": "Local & Surface anesthesia"
+  },
+  {
+    "id": "44",
+    "name": "Opioid analgesics"
+  },
+  {
+    "id": "43",
+    "name": "Non opioid analgesics"
+  },
+  {
+    "id": "42",
+    "name": "General (Intravenous) anesthetics"
+  },
+  {
+    "id": "41",
+    "name": "General (Inhalation) anesthetics"
+  },
+  {
+    "id": "35",
+    "name": "Benzodiazepine antagonist"
+  },
+  {
+    "id": "34",
+    "name": "Anti-cholinesterases"
+  },
+  {
+    "id": "26",
+    "name": "Immunosuppressant"
+  },
+  {
+    "id": "27",
+    "name": "Vaccines, Anti-sera & Immunoglobulin"
+  },
+  {
+    "id": "25",
+    "name": "Sedating Anti-histamine"
+  },
+  {
+    "id": "24",
+    "name": "Non-sedating antihistamines"
+  },
+  {
+    "id": "23",
+    "name": "Corticosteroid"
+  },
+  {
+    "id": "22",
+    "name": "Anti-histamine & decongestant"
+  }
+]

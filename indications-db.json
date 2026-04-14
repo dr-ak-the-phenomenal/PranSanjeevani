@@ -1,0 +1,10217 @@
+[
+  {
+    "id": "2011",
+    "name": "Acrocyanosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2010",
+    "name": "Acquired immunodeficiency syndrome (AIDS)",
+    "genericCount": "10"
+  },
+  {
+    "id": "2009",
+    "name": "Acne vulgaris",
+    "genericCount": "37"
+  },
+  {
+    "id": "3908",
+    "name": "Acne rosacea",
+    "genericCount": "0"
+  },
+  {
+    "id": "2008",
+    "name": "Acidosis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2007",
+    "name": "Acid-related dyspepsia",
+    "genericCount": "6"
+  },
+  {
+    "id": "2006",
+    "name": "Acid regurgitation",
+    "genericCount": "9"
+  },
+  {
+    "id": "2005",
+    "name": "Achalasia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2004",
+    "name": "Absence seizures",
+    "genericCount": "3"
+  },
+  {
+    "id": "2003",
+    "name": "Abscesses",
+    "genericCount": "7"
+  },
+  {
+    "id": "2002",
+    "name": "Abrasion",
+    "genericCount": "5"
+  },
+  {
+    "id": "2001",
+    "name": "Abortion",
+    "genericCount": "5"
+  },
+  {
+    "id": "2000",
+    "name": "Abdominal pain",
+    "genericCount": "6"
+  },
+  {
+    "id": "3637",
+    "name": "Acute and chronic diseases of respiratory tracts",
+    "genericCount": "1"
+  },
+  {
+    "id": "2019",
+    "name": "Acute agitation",
+    "genericCount": "4"
+  },
+  {
+    "id": "2015",
+    "name": "Acute & chronic conjunctivitis",
+    "genericCount": "7"
+  },
+  {
+    "id": "4055",
+    "name": "Active immunization against typhoid fever",
+    "genericCount": "1"
+  },
+  {
+    "id": "4193",
+    "name": "Active immunization against Hepatitis A virus",
+    "genericCount": "0"
+  },
+  {
+    "id": "3976",
+    "name": "Active immunisation for the prevention of pneumonia",
+    "genericCount": "0"
+  },
+  {
+    "id": "4056",
+    "name": "Active immunisation against varicella infection",
+    "genericCount": "1"
+  },
+  {
+    "id": "2014",
+    "name": "Active immunisation against tetanus",
+    "genericCount": "3"
+  },
+  {
+    "id": "4004",
+    "name": "Active immunisation against rabies",
+    "genericCount": "2"
+  },
+  {
+    "id": "3131",
+    "name": "Active immunisation against Poliomyelitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2933",
+    "name": "Active immunisation against mumps",
+    "genericCount": "0"
+  },
+  {
+    "id": "3855",
+    "name": "Active immunisation against hepatitis B",
+    "genericCount": "1"
+  },
+  {
+    "id": "3854",
+    "name": "Active immunisation against hepatitis A",
+    "genericCount": "2"
+  },
+  {
+    "id": "4099",
+    "name": "Active immunisation against diphtheria, tetanus and pertussis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2013",
+    "name": "Actinic keratosis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3775",
+    "name": "Acromegaly and hyperprolactinemia",
+    "genericCount": "0"
+  },
+  {
+    "id": "2012",
+    "name": "Acromegaly",
+    "genericCount": "2"
+  },
+  {
+    "id": "2023",
+    "name": "Acute gonorrheal urethritis",
+    "genericCount": "4"
+  },
+  {
+    "id": "4162",
+    "name": "Acute Exposure to Blood Containing HBsAg",
+    "genericCount": "1"
+  },
+  {
+    "id": "2016",
+    "name": "Acute Exacerbations of Chronic bronchitis",
+    "genericCount": "12"
+  },
+  {
+    "id": "4023",
+    "name": "Acute Evolving Myocardial Infarction",
+    "genericCount": "1"
+  },
+  {
+    "id": "4005",
+    "name": "Acute diarrhoea",
+    "genericCount": "1"
+  },
+  {
+    "id": "3931",
+    "name": "Acute dental infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "4048",
+    "name": "Acute coronary syndromes (unstable angina, non-ST elevation MI, ST elevation MI)",
+    "genericCount": "1"
+  },
+  {
+    "id": "3658",
+    "name": "Acute coronary syndrome",
+    "genericCount": "5"
+  },
+  {
+    "id": "4059",
+    "name": "Acute coronary insufficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "3646",
+    "name": "Acute bronchospasm",
+    "genericCount": "8"
+  },
+  {
+    "id": "2022",
+    "name": "Acute bacterial sinusitis",
+    "genericCount": "8"
+  },
+  {
+    "id": "3711",
+    "name": "Acute bacterial exacerbations of chronic bronchitis",
+    "genericCount": "7"
+  },
+  {
+    "id": "2021",
+    "name": "Acute bacterial ear infections",
+    "genericCount": "5"
+  },
+  {
+    "id": "2020",
+    "name": "Acute asthma",
+    "genericCount": "14"
+  },
+  {
+    "id": "2018",
+    "name": "Acute Ml",
+    "genericCount": "11"
+  },
+  {
+    "id": "2028",
+    "name": "Acute migraine attacks",
+    "genericCount": "10"
+  },
+  {
+    "id": "3710",
+    "name": "Acute maxillary sinusitis",
+    "genericCount": "6"
+  },
+  {
+    "id": "4024",
+    "name": "Acute Massive Pulmonary Embolism",
+    "genericCount": "1"
+  },
+  {
+    "id": "3657",
+    "name": "Acute manic episodes of bipolar disorder",
+    "genericCount": "3"
+  },
+  {
+    "id": "2017",
+    "name": "Acute Lymphocytic Leukemia",
+    "genericCount": "10"
+  },
+  {
+    "id": "4064",
+    "name": "Acute lymphoblastic leukaemia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2027",
+    "name": "Acute lupus erythematosus",
+    "genericCount": "9"
+  },
+  {
+    "id": "3631",
+    "name": "Acute hypovolaemic shock",
+    "genericCount": "1"
+  },
+  {
+    "id": "4058",
+    "name": "Acute hypertension",
+    "genericCount": "1"
+  },
+  {
+    "id": "4179",
+    "name": "Acute hemorrhoidal thrombosis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2026",
+    "name": "Acute heart failure",
+    "genericCount": "18"
+  },
+  {
+    "id": "2025",
+    "name": "Acute graft rejection in renal transplantation",
+    "genericCount": "2"
+  },
+  {
+    "id": "3673",
+    "name": "Acute gouty arthritis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2024",
+    "name": "Acute gout",
+    "genericCount": "10"
+  },
+  {
+    "id": "3946",
+    "name": "Acute and chronic non-infectious conjunctivitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2037",
+    "name": "Acute rheumatic carditis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2036",
+    "name": "Acute renal failure",
+    "genericCount": "7"
+  },
+  {
+    "id": "3716",
+    "name": "Acute purulent conjunctivitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2035",
+    "name": "Acute pulmonary oedema",
+    "genericCount": "5"
+  },
+  {
+    "id": "2034",
+    "name": "Acute psychosis",
+    "genericCount": "7"
+  },
+  {
+    "id": "2033",
+    "name": "Acute promyelocytic leukaemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "4027",
+    "name": "Acute painful shoulder",
+    "genericCount": "1"
+  },
+  {
+    "id": "3952",
+    "name": "Acute pain",
+    "genericCount": "2"
+  },
+  {
+    "id": "2032",
+    "name": "Acute otitis media",
+    "genericCount": "13"
+  },
+  {
+    "id": "4121",
+    "name": "Acute or chronic narrow angle glaucoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "2031",
+    "name": "Acute nonspecific gastroenteritis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3902",
+    "name": "Acute non articular rheumatism",
+    "genericCount": "0"
+  },
+  {
+    "id": "2030",
+    "name": "Acute necrotising ulcerative gingivitis",
+    "genericCount": "6"
+  },
+  {
+    "id": "2029",
+    "name": "Acute myeloid leukaemia",
+    "genericCount": "11"
+  },
+  {
+    "id": "3990",
+    "name": "Acute mucosal infections of the mouth and pharynx",
+    "genericCount": "0"
+  },
+  {
+    "id": "2045",
+    "name": "Adult Respiratory Distress Syndrome",
+    "genericCount": "1"
+  },
+  {
+    "id": "2046",
+    "name": "Adult enuresis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3813",
+    "name": "Adult chronic immune (idiopathic) thrombocytopenic purpura (ITP)",
+    "genericCount": "1"
+  },
+  {
+    "id": "4146",
+    "name": "Adrenocortical insufficiency in Addison’s disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "2044",
+    "name": "Adrenocortical insufficiency",
+    "genericCount": "4"
+  },
+  {
+    "id": "3762",
+    "name": "Adjuvant therapy in cardiovascular disease especially in angina and congestive heart failure",
+    "genericCount": "1"
+  },
+  {
+    "id": "3812",
+    "name": "Adjunct to levodopa treatment in Parkinson's disease",
+    "genericCount": "2"
+  },
+  {
+    "id": "2043",
+    "name": "Adjunct to IVF procedures and other assisted conception techniques",
+    "genericCount": "2"
+  },
+  {
+    "id": "3883",
+    "name": "Adenocarcinoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "2042",
+    "name": "Acute uncomplicated malaria",
+    "genericCount": "5"
+  },
+  {
+    "id": "2041",
+    "name": "Acute trauma",
+    "genericCount": "0"
+  },
+  {
+    "id": "2040",
+    "name": "Acute sore throat",
+    "genericCount": "13"
+  },
+  {
+    "id": "2039",
+    "name": "Acute solar dermatitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "4011",
+    "name": "Acute severe asthma",
+    "genericCount": "0"
+  },
+  {
+    "id": "2038",
+    "name": "Acute salmonellosis",
+    "genericCount": "0"
+  },
+  {
+    "id": "2058",
+    "name": "Alkalinizing agent",
+    "genericCount": "2"
+  },
+  {
+    "id": "2057",
+    "name": "Alcoholism & drug induced hepatotoxicity",
+    "genericCount": "2"
+  },
+  {
+    "id": "2056",
+    "name": "Alcohol withdrawal syndrome",
+    "genericCount": "6"
+  },
+  {
+    "id": "2055",
+    "name": "Alcohol dependence",
+    "genericCount": "3"
+  },
+  {
+    "id": "2054",
+    "name": "Albinism",
+    "genericCount": "1"
+  },
+  {
+    "id": "1999",
+    "name": "AIDS-related Kaposi's sarcoma",
+    "genericCount": "4"
+  },
+  {
+    "id": "4053",
+    "name": "Aid in ophthalmic surgery by staining the anterior capsule of the lens",
+    "genericCount": "1"
+  },
+  {
+    "id": "2053",
+    "name": "Aid in dispersal of extravasated fluids or blood",
+    "genericCount": "1"
+  },
+  {
+    "id": "2051",
+    "name": "Aid controlled ventilation",
+    "genericCount": "2"
+  },
+  {
+    "id": "2050",
+    "name": "Agoraphobia",
+    "genericCount": "6"
+  },
+  {
+    "id": "2049",
+    "name": "Agitation",
+    "genericCount": "5"
+  },
+  {
+    "id": "2048",
+    "name": "Aggression",
+    "genericCount": "1"
+  },
+  {
+    "id": "2047",
+    "name": "Age-related macular degeneration (AMD)",
+    "genericCount": "7"
+  },
+  {
+    "id": "4081",
+    "name": "Age related eye disease",
+    "genericCount": "2"
+  },
+  {
+    "id": "4212",
+    "name": "Allogeneic or autologous haematopoietic progenitor cell transplantation (HPCT)",
+    "genericCount": "1"
+  },
+  {
+    "id": "2071",
+    "name": "Allogeneic bone marrow transplantation",
+    "genericCount": "1"
+  },
+  {
+    "id": "2070",
+    "name": "Allergies",
+    "genericCount": "15"
+  },
+  {
+    "id": "2069",
+    "name": "Allergic skin conditions",
+    "genericCount": "10"
+  },
+  {
+    "id": "2068",
+    "name": "Allergic rhinitis accompanied by nasal congestion",
+    "genericCount": "5"
+  },
+  {
+    "id": "2067",
+    "name": "Allergic rhinitis",
+    "genericCount": "31"
+  },
+  {
+    "id": "3781",
+    "name": "Allergic otitis externa",
+    "genericCount": "0"
+  },
+  {
+    "id": "2066",
+    "name": "Allergic dermatitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "4033",
+    "name": "Allergic contact dermatitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2065",
+    "name": "Allergic conjunctivitis",
+    "genericCount": "25"
+  },
+  {
+    "id": "2064",
+    "name": "Allergic conditions",
+    "genericCount": "16"
+  },
+  {
+    "id": "2063",
+    "name": "Allergic blepharitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2062",
+    "name": "Allergic and inflammatory disorders",
+    "genericCount": "4"
+  },
+  {
+    "id": "2061",
+    "name": "Allergic and inflammatory conditions of the eye",
+    "genericCount": "10"
+  },
+  {
+    "id": "2060",
+    "name": "Allergic and inflammatory conditions of the ear",
+    "genericCount": "5"
+  },
+  {
+    "id": "2059",
+    "name": "Allergic anaphylactic shock",
+    "genericCount": "2"
+  },
+  {
+    "id": "2084",
+    "name": "Anaemia of chronic renal failure",
+    "genericCount": "6"
+  },
+  {
+    "id": "2083",
+    "name": "Anaemia in zidovudine-treated HIV-infected patients",
+    "genericCount": "3"
+  },
+  {
+    "id": "2082",
+    "name": "Anaemia in chemotherapy patients",
+    "genericCount": "1"
+  },
+  {
+    "id": "2081",
+    "name": "Anaemia due to inflammatory bowel disease",
+    "genericCount": "4"
+  },
+  {
+    "id": "2080",
+    "name": "Anaemia",
+    "genericCount": "15"
+  },
+  {
+    "id": "4160",
+    "name": "Amyotrophic lateral sclerosis (ALS)",
+    "genericCount": "0"
+  },
+  {
+    "id": "3955",
+    "name": "Amoebic dysentery",
+    "genericCount": "2"
+  },
+  {
+    "id": "2079",
+    "name": "Amoebiasis",
+    "genericCount": "6"
+  },
+  {
+    "id": "2077",
+    "name": "Amenorrhea- galactorrhea syndrome",
+    "genericCount": "5"
+  },
+  {
+    "id": "3727",
+    "name": "Amblyopia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2076",
+    "name": "Alzheimer’s disease",
+    "genericCount": "8"
+  },
+  {
+    "id": "2075",
+    "name": "Aluminum overload",
+    "genericCount": "1"
+  },
+  {
+    "id": "2074",
+    "name": "Altitude sickness",
+    "genericCount": "2"
+  },
+  {
+    "id": "2073",
+    "name": "Alopecia areata",
+    "genericCount": "5"
+  },
+  {
+    "id": "2095",
+    "name": "Anesthesia adjunct",
+    "genericCount": "1"
+  },
+  {
+    "id": "4097",
+    "name": "Anemia, vitamin & mineral deficiency",
+    "genericCount": "2"
+  },
+  {
+    "id": "2072",
+    "name": "Androgenic alopecia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2094",
+    "name": "Ancylostomiasis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2093",
+    "name": "Anaphylactic shock",
+    "genericCount": "5"
+  },
+  {
+    "id": "2092",
+    "name": "Analgesia during labour",
+    "genericCount": "1"
+  },
+  {
+    "id": "2091",
+    "name": "Analgesia",
+    "genericCount": "6"
+  },
+  {
+    "id": "2090",
+    "name": "Anal pruritus",
+    "genericCount": "7"
+  },
+  {
+    "id": "2089",
+    "name": "Anal or vulvar pruritus",
+    "genericCount": "4"
+  },
+  {
+    "id": "3895",
+    "name": "Anal itching",
+    "genericCount": "0"
+  },
+  {
+    "id": "3893",
+    "name": "Anal fissures, pruritus ani and similar conditions of the anal area",
+    "genericCount": "3"
+  },
+  {
+    "id": "2088",
+    "name": "Anal fissure",
+    "genericCount": "5"
+  },
+  {
+    "id": "2087",
+    "name": "Anaesthesia",
+    "genericCount": "19"
+  },
+  {
+    "id": "2086",
+    "name": "Anaerobic bacterial infections",
+    "genericCount": "4"
+  },
+  {
+    "id": "3819",
+    "name": "Anaemia related to non-myeloid malignant disease chemotherapy",
+    "genericCount": "3"
+  },
+  {
+    "id": "2085",
+    "name": "Anaemia of prematurity",
+    "genericCount": "4"
+  },
+  {
+    "id": "3777",
+    "name": "Antidepressant-induced inorgasmia",
+    "genericCount": "0"
+  },
+  {
+    "id": "2107",
+    "name": "Antibiotic-associated colitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "3925",
+    "name": "Anti-inflammatory or immunosuppressive",
+    "genericCount": "2"
+  },
+  {
+    "id": "4151",
+    "name": "Anti-hypertensive",
+    "genericCount": "2"
+  },
+  {
+    "id": "3927",
+    "name": "Anti - inflammatory treatment",
+    "genericCount": "2"
+  },
+  {
+    "id": "2106",
+    "name": "Anthrax",
+    "genericCount": "5"
+  },
+  {
+    "id": "2105",
+    "name": "Anovulatory infertility",
+    "genericCount": "4"
+  },
+  {
+    "id": "2104",
+    "name": "Anorexia nervosa",
+    "genericCount": "6"
+  },
+  {
+    "id": "2103",
+    "name": "Anorexia and cachexia",
+    "genericCount": "8"
+  },
+  {
+    "id": "2102",
+    "name": "Anogenital warts",
+    "genericCount": "1"
+  },
+  {
+    "id": "2101",
+    "name": "Anogenital pruritus",
+    "genericCount": "7"
+  },
+  {
+    "id": "2100",
+    "name": "Ankylosing spondylitis",
+    "genericCount": "24"
+  },
+  {
+    "id": "4175",
+    "name": "Anitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2099",
+    "name": "Angular cheilitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2098",
+    "name": "Angioplasty",
+    "genericCount": "1"
+  },
+  {
+    "id": "2114",
+    "name": "Artherosclerotic vascular disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "4026",
+    "name": "Arteriovenous Cannulae Occlusion",
+    "genericCount": "1"
+  },
+  {
+    "id": "4154",
+    "name": "Arteriography",
+    "genericCount": "1"
+  },
+  {
+    "id": "4025",
+    "name": "Arterial Thrombosis or Embolism",
+    "genericCount": "1"
+  },
+  {
+    "id": "2112",
+    "name": "Arrhythmias",
+    "genericCount": "8"
+  },
+  {
+    "id": "2111",
+    "name": "Apthous ulcer",
+    "genericCount": "2"
+  },
+  {
+    "id": "3772",
+    "name": "Appetite stimulation",
+    "genericCount": "5"
+  },
+  {
+    "id": "2110",
+    "name": "Apnoea",
+    "genericCount": "2"
+  },
+  {
+    "id": "2109",
+    "name": "Apathy",
+    "genericCount": "1"
+  },
+  {
+    "id": "2108",
+    "name": "Anxiety",
+    "genericCount": "26"
+  },
+  {
+    "id": "3992",
+    "name": "Antiseptic skin cleanser",
+    "genericCount": "4"
+  },
+  {
+    "id": "3761",
+    "name": "Antioxidant",
+    "genericCount": "9"
+  },
+  {
+    "id": "4153",
+    "name": "Angiography",
+    "genericCount": "1"
+  },
+  {
+    "id": "4155",
+    "name": "Angiocardiography",
+    "genericCount": "1"
+  },
+  {
+    "id": "3652",
+    "name": "Angina pectoris",
+    "genericCount": "27"
+  },
+  {
+    "id": "2128",
+    "name": "Athlete’s foot",
+    "genericCount": "6"
+  },
+  {
+    "id": "2127",
+    "name": "Atherosclerosis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2126",
+    "name": "Atelectasis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2125",
+    "name": "Astrocytoma",
+    "genericCount": "5"
+  },
+  {
+    "id": "3639",
+    "name": "Asthmatic bronchitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2124",
+    "name": "Asthma prophylaxis",
+    "genericCount": "6"
+  },
+  {
+    "id": "2123",
+    "name": "Asthma",
+    "genericCount": "39"
+  },
+  {
+    "id": "2122",
+    "name": "Assisted reproductive technologies",
+    "genericCount": "5"
+  },
+  {
+    "id": "2121",
+    "name": "Aspiration pneumonia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2120",
+    "name": "Aspergillosis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2119",
+    "name": "Ascites",
+    "genericCount": "4"
+  },
+  {
+    "id": "2118",
+    "name": "Ascariasis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2117",
+    "name": "Artificially ventilated patients",
+    "genericCount": "0"
+  },
+  {
+    "id": "2116",
+    "name": "Artificial sweetener",
+    "genericCount": "6"
+  },
+  {
+    "id": "2115",
+    "name": "Arthritis",
+    "genericCount": "6"
+  },
+  {
+    "id": "2143",
+    "name": "Backache",
+    "genericCount": "9"
+  },
+  {
+    "id": "2142",
+    "name": "Back pain",
+    "genericCount": "19"
+  },
+  {
+    "id": "2141",
+    "name": "Babesiosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2140",
+    "name": "B-vitamins and Zinc deficiencies",
+    "genericCount": "1"
+  },
+  {
+    "id": "2139",
+    "name": "Auto-immune diseases",
+    "genericCount": "4"
+  },
+  {
+    "id": "2138",
+    "name": "Aural infections",
+    "genericCount": "6"
+  },
+  {
+    "id": "2137",
+    "name": "Auditory vestibular and visual disorder",
+    "genericCount": "1"
+  },
+  {
+    "id": "2136",
+    "name": "Atypical pneumonia",
+    "genericCount": "4"
+  },
+  {
+    "id": "2135",
+    "name": "Attention deficit hyperactivity disorder (ADHD)",
+    "genericCount": "4"
+  },
+  {
+    "id": "2134",
+    "name": "Atrial flutter",
+    "genericCount": "2"
+  },
+  {
+    "id": "2133",
+    "name": "Atrial fibrillation and atrial flutter",
+    "genericCount": "5"
+  },
+  {
+    "id": "2132",
+    "name": "Atrial fibrillation",
+    "genericCount": "7"
+  },
+  {
+    "id": "2131",
+    "name": "Atopic or contact dermatoses",
+    "genericCount": "4"
+  },
+  {
+    "id": "2130",
+    "name": "Atopic eczema",
+    "genericCount": "7"
+  },
+  {
+    "id": "2129",
+    "name": "Atopic dermatitis",
+    "genericCount": "12"
+  },
+  {
+    "id": "2149",
+    "name": "Bacterial Pneumonia caused by Staphylococcus",
+    "genericCount": "3"
+  },
+  {
+    "id": "2158",
+    "name": "Bacterial or fungal vaginal infection",
+    "genericCount": "3"
+  },
+  {
+    "id": "2157",
+    "name": "Bacterial ocular infections",
+    "genericCount": "10"
+  },
+  {
+    "id": "2148",
+    "name": "Bacterial Meningitis caused by Staphylococcus",
+    "genericCount": "3"
+  },
+  {
+    "id": "2156",
+    "name": "Bacterial meningitis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2155",
+    "name": "Bacterial infections",
+    "genericCount": "16"
+  },
+  {
+    "id": "2154",
+    "name": "Bacterial eye infections",
+    "genericCount": "13"
+  },
+  {
+    "id": "2153",
+    "name": "Bacterial endocarditis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2152",
+    "name": "Bacterial ear infections",
+    "genericCount": "15"
+  },
+  {
+    "id": "2151",
+    "name": "Bacterial corneal ulcer",
+    "genericCount": "3"
+  },
+  {
+    "id": "2147",
+    "name": "Bacterial Conjunctivitis",
+    "genericCount": "14"
+  },
+  {
+    "id": "2150",
+    "name": "Bacterial and trichomonal vaginitis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2146",
+    "name": "Bacteraemic pneumonia",
+    "genericCount": "5"
+  },
+  {
+    "id": "2145",
+    "name": "Bacteraemia and meningitis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2144",
+    "name": "Bacteraemia",
+    "genericCount": "14"
+  },
+  {
+    "id": "2171",
+    "name": "Benign prostatic hyperplasia (BPH)",
+    "genericCount": "10"
+  },
+  {
+    "id": "3723",
+    "name": "Benign gastric and duodenal ulceration",
+    "genericCount": "2"
+  },
+  {
+    "id": "2170",
+    "name": "Benign breast disorders",
+    "genericCount": "2"
+  },
+  {
+    "id": "2169",
+    "name": "Bell’s palsy",
+    "genericCount": "6"
+  },
+  {
+    "id": "2168",
+    "name": "Behcet’s syndrome",
+    "genericCount": "11"
+  },
+  {
+    "id": "2167",
+    "name": "Behavioral disturbances",
+    "genericCount": "6"
+  },
+  {
+    "id": "2166",
+    "name": "Bed sore",
+    "genericCount": "3"
+  },
+  {
+    "id": "3885",
+    "name": "Basal cell carcinoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "2165",
+    "name": "Balantidiasis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2164",
+    "name": "Balanced anaesthesia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2163",
+    "name": "Bad breath",
+    "genericCount": "5"
+  },
+  {
+    "id": "2162",
+    "name": "Bacterial vaginosis",
+    "genericCount": "6"
+  },
+  {
+    "id": "2161",
+    "name": "Bacterial skin infections",
+    "genericCount": "7"
+  },
+  {
+    "id": "2160",
+    "name": "Bacterial septicemia",
+    "genericCount": "6"
+  },
+  {
+    "id": "2159",
+    "name": "Bacterial prostatis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2186",
+    "name": "Blepharitis",
+    "genericCount": "8"
+  },
+  {
+    "id": "2185",
+    "name": "Bleeding or blood clotting problems",
+    "genericCount": "4"
+  },
+  {
+    "id": "3930",
+    "name": "Blastocystis hominis infection",
+    "genericCount": "1"
+  },
+  {
+    "id": "2183",
+    "name": "Bladder spasms",
+    "genericCount": "2"
+  },
+  {
+    "id": "2182",
+    "name": "Bladder carcinoma",
+    "genericCount": "6"
+  },
+  {
+    "id": "2181",
+    "name": "Bites",
+    "genericCount": "1"
+  },
+  {
+    "id": "2180",
+    "name": "Bipolar mania",
+    "genericCount": "7"
+  },
+  {
+    "id": "2179",
+    "name": "Bipolar disorder",
+    "genericCount": "13"
+  },
+  {
+    "id": "2178",
+    "name": "Binge eating disorder",
+    "genericCount": "4"
+  },
+  {
+    "id": "2177",
+    "name": "Biliary-tract infections",
+    "genericCount": "4"
+  },
+  {
+    "id": "2176",
+    "name": "Biliary dyskinesia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2175",
+    "name": "Biliary colic",
+    "genericCount": "3"
+  },
+  {
+    "id": "2174",
+    "name": "Beriberi and Wernick’s encephalopathy",
+    "genericCount": "2"
+  },
+  {
+    "id": "4076",
+    "name": "Beriberi and polyneuritis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2173",
+    "name": "Benzodiazepine-induced sedation",
+    "genericCount": "0"
+  },
+  {
+    "id": "2172",
+    "name": "Benzodiazepine overdose",
+    "genericCount": "0"
+  },
+  {
+    "id": "2200",
+    "name": "Bradycardia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3666",
+    "name": "Braces",
+    "genericCount": "1"
+  },
+  {
+    "id": "2198",
+    "name": "Bowel evacuation",
+    "genericCount": "2"
+  },
+  {
+    "id": "2197",
+    "name": "Botulism",
+    "genericCount": "1"
+  },
+  {
+    "id": "2196",
+    "name": "Bone marrow transplantation",
+    "genericCount": "4"
+  },
+  {
+    "id": "2195",
+    "name": "Bone marrow stimulation",
+    "genericCount": "1"
+  },
+  {
+    "id": "2194",
+    "name": "Bone malignancies",
+    "genericCount": "1"
+  },
+  {
+    "id": "2193",
+    "name": "Bone and Joint Infections",
+    "genericCount": "10"
+  },
+  {
+    "id": "2192",
+    "name": "Boils",
+    "genericCount": "6"
+  },
+  {
+    "id": "2191",
+    "name": "Bodyache",
+    "genericCount": "11"
+  },
+  {
+    "id": "2190",
+    "name": "Body dysmorphic disorder",
+    "genericCount": "7"
+  },
+  {
+    "id": "4117",
+    "name": "Block the virus from multiplying",
+    "genericCount": "1"
+  },
+  {
+    "id": "2188",
+    "name": "Blisters",
+    "genericCount": "2"
+  },
+  {
+    "id": "2187",
+    "name": "Blepharospasm",
+    "genericCount": "1"
+  },
+  {
+    "id": "3919",
+    "name": "Burkitt's lymphoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "2213",
+    "name": "Bullous dermatitis herpetiformis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2212",
+    "name": "Bulimia nervosa",
+    "genericCount": "3"
+  },
+  {
+    "id": "2211",
+    "name": "Brucellosis",
+    "genericCount": "6"
+  },
+  {
+    "id": "2210",
+    "name": "Bronchopneumonia",
+    "genericCount": "3"
+  },
+  {
+    "id": "4054",
+    "name": "Bronchodilator",
+    "genericCount": "4"
+  },
+  {
+    "id": "2209",
+    "name": "Bronchitis",
+    "genericCount": "32"
+  },
+  {
+    "id": "2208",
+    "name": "Bronchiectasis",
+    "genericCount": "4"
+  },
+  {
+    "id": "3640",
+    "name": "Bronchial asthma",
+    "genericCount": "4"
+  },
+  {
+    "id": "2207",
+    "name": "Breast pain",
+    "genericCount": "3"
+  },
+  {
+    "id": "2206",
+    "name": "Breast cancers and glioblastoma multiforme of the brain",
+    "genericCount": "1"
+  },
+  {
+    "id": "2205",
+    "name": "Breast cancer in postmenopausal women",
+    "genericCount": "1"
+  },
+  {
+    "id": "2204",
+    "name": "Breast cancer and bone metastases",
+    "genericCount": "2"
+  },
+  {
+    "id": "3655",
+    "name": "Breast cancer",
+    "genericCount": "22"
+  },
+  {
+    "id": "2203",
+    "name": "Breakthrough pain",
+    "genericCount": "1"
+  },
+  {
+    "id": "2202",
+    "name": "Brain tumours",
+    "genericCount": "6"
+  },
+  {
+    "id": "2228",
+    "name": "Calcium deficiency",
+    "genericCount": "8"
+  },
+  {
+    "id": "2227",
+    "name": "Calcium and vitamin D deficiency",
+    "genericCount": "5"
+  },
+  {
+    "id": "2226",
+    "name": "Calcium and vitamin C deficiency",
+    "genericCount": "2"
+  },
+  {
+    "id": "2225",
+    "name": "Calcium and magnesium deficiencies",
+    "genericCount": "2"
+  },
+  {
+    "id": "3698",
+    "name": "Calcium & vitamin D supplement",
+    "genericCount": "0"
+  },
+  {
+    "id": "2219",
+    "name": "Bursitis",
+    "genericCount": "11"
+  },
+  {
+    "id": "2217",
+    "name": "Burns",
+    "genericCount": "17"
+  },
+  {
+    "id": "2215",
+    "name": "Burning, pain and skin inflammations",
+    "genericCount": "1"
+  },
+  {
+    "id": "2216",
+    "name": "Burning sansation",
+    "genericCount": "4"
+  },
+  {
+    "id": "3743",
+    "name": "Burning mouth syndrome",
+    "genericCount": "0"
+  },
+  {
+    "id": "3700",
+    "name": "Burning feet syndrome",
+    "genericCount": "1"
+  },
+  {
+    "id": "2214",
+    "name": "Burning and irritation of the eye",
+    "genericCount": "3"
+  },
+  {
+    "id": "3875",
+    "name": "Burn injury",
+    "genericCount": "0"
+  },
+  {
+    "id": "2201",
+    "name": "Brain abscesses",
+    "genericCount": "5"
+  },
+  {
+    "id": "2237",
+    "name": "Candidal cystitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2236",
+    "name": "Candidal balanitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "4103",
+    "name": "Candidaemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2235",
+    "name": "Candida nappy rash",
+    "genericCount": "0"
+  },
+  {
+    "id": "2234",
+    "name": "Candida albicans",
+    "genericCount": "9"
+  },
+  {
+    "id": "2233",
+    "name": "Cancer therapy-induced hyperuricaemia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2231",
+    "name": "Cancer Prevention",
+    "genericCount": "3"
+  },
+  {
+    "id": "3837",
+    "name": "Cancer patients receiving myelosuppressive chemotherapy",
+    "genericCount": "1"
+  },
+  {
+    "id": "3839",
+    "name": "Cancer patients receiving bone marrow transplant",
+    "genericCount": "1"
+  },
+  {
+    "id": "2232",
+    "name": "Cancer pain",
+    "genericCount": "9"
+  },
+  {
+    "id": "3877",
+    "name": "Cancer",
+    "genericCount": "0"
+  },
+  {
+    "id": "2230",
+    "name": "Caloric feeding",
+    "genericCount": "1"
+  },
+  {
+    "id": "2229",
+    "name": "Callus",
+    "genericCount": "1"
+  },
+  {
+    "id": "3692",
+    "name": "Calcium suppliment",
+    "genericCount": "3"
+  },
+  {
+    "id": "2252",
+    "name": "Cardiovascular disease",
+    "genericCount": "5"
+  },
+  {
+    "id": "2251",
+    "name": "Cardiopulmonary Bypass Surgery",
+    "genericCount": "1"
+  },
+  {
+    "id": "2250",
+    "name": "Cardiomyopathy",
+    "genericCount": "15"
+  },
+  {
+    "id": "2249",
+    "name": "Cardiac stress test",
+    "genericCount": "1"
+  },
+  {
+    "id": "2248",
+    "name": "Cardiac arrhythmias",
+    "genericCount": "5"
+  },
+  {
+    "id": "2247",
+    "name": "Cardiac arrest",
+    "genericCount": "5"
+  },
+  {
+    "id": "2246",
+    "name": "Carcinoma of the colon or rectum",
+    "genericCount": "6"
+  },
+  {
+    "id": "2244",
+    "name": "Carcinoma",
+    "genericCount": "28"
+  },
+  {
+    "id": "2243",
+    "name": "Carbuncles",
+    "genericCount": "3"
+  },
+  {
+    "id": "2242",
+    "name": "Carbon monoxide poisoning",
+    "genericCount": "0"
+  },
+  {
+    "id": "2241",
+    "name": "Carbohydrate nutrient in diabetic patients",
+    "genericCount": "0"
+  },
+  {
+    "id": "2240",
+    "name": "Capillary bleeding",
+    "genericCount": "3"
+  },
+  {
+    "id": "2221",
+    "name": "CAPD associated peritonitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3665",
+    "name": "Canker sores",
+    "genericCount": "2"
+  },
+  {
+    "id": "2239",
+    "name": "Candidiasis",
+    "genericCount": "16"
+  },
+  {
+    "id": "2238",
+    "name": "Candidemia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2265",
+    "name": "Cerebral oedema",
+    "genericCount": "0"
+  },
+  {
+    "id": "2264",
+    "name": "Central retinal vein occlusion",
+    "genericCount": "1"
+  },
+  {
+    "id": "2263",
+    "name": "Central respiratory depression",
+    "genericCount": "1"
+  },
+  {
+    "id": "2262",
+    "name": "Cellulitis",
+    "genericCount": "10"
+  },
+  {
+    "id": "2261",
+    "name": "Cavities",
+    "genericCount": "4"
+  },
+  {
+    "id": "2260",
+    "name": "Catarrh",
+    "genericCount": "8"
+  },
+  {
+    "id": "2259",
+    "name": "Cataract surgery",
+    "genericCount": "2"
+  },
+  {
+    "id": "2258",
+    "name": "Cataract & glaucoma operations",
+    "genericCount": "2"
+  },
+  {
+    "id": "2257",
+    "name": "Cataplexy",
+    "genericCount": "1"
+  },
+  {
+    "id": "2255",
+    "name": "Cat scratch disease",
+    "genericCount": "0"
+  },
+  {
+    "id": "2254",
+    "name": "Carditis",
+    "genericCount": "3"
+  },
+  {
+    "id": "4036",
+    "name": "Cardiovascular risk reduction",
+    "genericCount": "1"
+  },
+  {
+    "id": "2253",
+    "name": "Cardiovascular event prevention",
+    "genericCount": "4"
+  },
+  {
+    "id": "2279",
+    "name": "Chemotherapy induced-neutropenia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2280",
+    "name": "Chemotherapy induced nausea and vomiting",
+    "genericCount": "2"
+  },
+  {
+    "id": "4075",
+    "name": "Cheilosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2278",
+    "name": "Chapped roughened hands",
+    "genericCount": "2"
+  },
+  {
+    "id": "2277",
+    "name": "Chancroid",
+    "genericCount": "1"
+  },
+  {
+    "id": "2276",
+    "name": "Cervicitis and salpingitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2275",
+    "name": "Cervicitis and proctitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2274",
+    "name": "Cervicitis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2273",
+    "name": "Cervical softening and dilatation",
+    "genericCount": "1"
+  },
+  {
+    "id": "2272",
+    "name": "Cervical priming",
+    "genericCount": "0"
+  },
+  {
+    "id": "2271",
+    "name": "Cervical intraepithelial neoplasia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3748",
+    "name": "Cervical dystonia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2270",
+    "name": "Cervical cancer",
+    "genericCount": "4"
+  },
+  {
+    "id": "2269",
+    "name": "Cerebrovascular insufficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "2268",
+    "name": "Cerebrovascular disease",
+    "genericCount": "7"
+  },
+  {
+    "id": "2266",
+    "name": "Cerebral palsy",
+    "genericCount": "8"
+  },
+  {
+    "id": "2267",
+    "name": "Cerebral or pulmonary edema",
+    "genericCount": "1"
+  },
+  {
+    "id": "2294",
+    "name": "Chronic anal fissure",
+    "genericCount": "3"
+  },
+  {
+    "id": "3782",
+    "name": "Choroiditis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3920",
+    "name": "Choriocarcinoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "2292",
+    "name": "Chorea",
+    "genericCount": "1"
+  },
+  {
+    "id": "4172",
+    "name": "Cholestatic liver disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "2289",
+    "name": "Cholecystitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2291",
+    "name": "Cholera",
+    "genericCount": "5"
+  },
+  {
+    "id": "2287",
+    "name": "Chloroquine-resistant falciparum malaria",
+    "genericCount": "1"
+  },
+  {
+    "id": "2286",
+    "name": "Chloasma",
+    "genericCount": "2"
+  },
+  {
+    "id": "2285",
+    "name": "Chlamydial urethritis",
+    "genericCount": "0"
+  },
+  {
+    "id": "2284",
+    "name": "Chlamydial infections",
+    "genericCount": "3"
+  },
+  {
+    "id": "2283",
+    "name": "Chlamydial cervicitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2282",
+    "name": "Children’s growth disorders",
+    "genericCount": "0"
+  },
+  {
+    "id": "2281",
+    "name": "Chickenpox",
+    "genericCount": "7"
+  },
+  {
+    "id": "2306",
+    "name": "Chronic idiopathic constipation",
+    "genericCount": "3"
+  },
+  {
+    "id": "2305",
+    "name": "Chronic hepatitis C",
+    "genericCount": "11"
+  },
+  {
+    "id": "2304",
+    "name": "Chronic hepatitis B",
+    "genericCount": "11"
+  },
+  {
+    "id": "2303",
+    "name": "Chronic gastritis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2293",
+    "name": "Chronic Fatigue Syndrome",
+    "genericCount": "2"
+  },
+  {
+    "id": "2302",
+    "name": "Chronic emphysema",
+    "genericCount": "6"
+  },
+  {
+    "id": "4035",
+    "name": "Chronic cutaneous graft-vs-host disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "2301",
+    "name": "Chronic conjunctivitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2300",
+    "name": "Chronic cholelithiasis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2299",
+    "name": "Chronic bronchitis",
+    "genericCount": "14"
+  },
+  {
+    "id": "2298",
+    "name": "Chronic bacterial prostatitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2297",
+    "name": "Chronic atopic dermatitis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2296",
+    "name": "Chronic asthma",
+    "genericCount": "7"
+  },
+  {
+    "id": "2295",
+    "name": "Chronic anterior uveitis and corneal injury",
+    "genericCount": "2"
+  },
+  {
+    "id": "4006",
+    "name": "Chronic angina",
+    "genericCount": "1"
+  },
+  {
+    "id": "4170",
+    "name": "Chest congestion",
+    "genericCount": "2"
+  },
+  {
+    "id": "3641",
+    "name": "Chronic pneumonia.",
+    "genericCount": "1"
+  },
+  {
+    "id": "3950",
+    "name": "Chronic pain",
+    "genericCount": "2"
+  },
+  {
+    "id": "2316",
+    "name": "Chronic or recurrent bacteriuria",
+    "genericCount": "1"
+  },
+  {
+    "id": "2315",
+    "name": "Chronic open angle glaucoma",
+    "genericCount": "11"
+  },
+  {
+    "id": "2314",
+    "name": "Chronic obstructive pulmonary disease (COPD)",
+    "genericCount": "25"
+  },
+  {
+    "id": "2313",
+    "name": "Chronic myeloid leukaemia",
+    "genericCount": "4"
+  },
+  {
+    "id": "2312",
+    "name": "Chronic myelogenous leukaemia",
+    "genericCount": "5"
+  },
+  {
+    "id": "2311",
+    "name": "Chronic muscle spasticity",
+    "genericCount": "1"
+  },
+  {
+    "id": "4139",
+    "name": "Chronic lymphocytic leukemia",
+    "genericCount": "4"
+  },
+  {
+    "id": "2310",
+    "name": "Chronic lymphocytic leukaemia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2309",
+    "name": "Chronic low back pain",
+    "genericCount": "2"
+  },
+  {
+    "id": "2308",
+    "name": "Chronic iron overload",
+    "genericCount": "2"
+  },
+  {
+    "id": "2307",
+    "name": "Chronic idiopathic urticaria (hives)",
+    "genericCount": "9"
+  },
+  {
+    "id": "4181",
+    "name": "Chronic idiopathic myelofibrosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2327",
+    "name": "Cognitive enhancer",
+    "genericCount": "2"
+  },
+  {
+    "id": "3764",
+    "name": "Cognitive decline",
+    "genericCount": "1"
+  },
+  {
+    "id": "4008",
+    "name": "Cocorticoid induced osteoporosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2326",
+    "name": "Coccidioidomycosis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2222",
+    "name": "CMV infections",
+    "genericCount": "7"
+  },
+  {
+    "id": "2325",
+    "name": "Cluster headache",
+    "genericCount": "11"
+  },
+  {
+    "id": "2323",
+    "name": "Cleansing of the colon",
+    "genericCount": "2"
+  },
+  {
+    "id": "2322",
+    "name": "Cleansing and irrigating the skin or dirty wounds",
+    "genericCount": "2"
+  },
+  {
+    "id": "2321",
+    "name": "Cirrhosis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2320",
+    "name": "Chronic venous disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "2319",
+    "name": "Chronic urticaria",
+    "genericCount": "10"
+  },
+  {
+    "id": "3648",
+    "name": "chronic stable or vasospastic angina",
+    "genericCount": "1"
+  },
+  {
+    "id": "2318",
+    "name": "Chronic stable angina",
+    "genericCount": "2"
+  },
+  {
+    "id": "3674",
+    "name": "Chronic simple lichen",
+    "genericCount": "1"
+  },
+  {
+    "id": "2317",
+    "name": "Chronic renal failure",
+    "genericCount": "13"
+  },
+  {
+    "id": "4009",
+    "name": "Chronic psychoses",
+    "genericCount": "1"
+  },
+  {
+    "id": "2345",
+    "name": "Congestion",
+    "genericCount": "4"
+  },
+  {
+    "id": "2344",
+    "name": "Congenital icthyosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2343",
+    "name": "Congenital adrenal hyperplasia",
+    "genericCount": "4"
+  },
+  {
+    "id": "2342",
+    "name": "Condylomata acuminata",
+    "genericCount": "2"
+  },
+  {
+    "id": "2339",
+    "name": "Complicated UTI",
+    "genericCount": "3"
+  },
+  {
+    "id": "4106",
+    "name": "Complicated skin and skin structure infections",
+    "genericCount": "5"
+  },
+  {
+    "id": "2340",
+    "name": "Complicated and recurrent urinary tract infections",
+    "genericCount": "4"
+  },
+  {
+    "id": "2338",
+    "name": "Community-acquired pneumonia",
+    "genericCount": "15"
+  },
+  {
+    "id": "2337",
+    "name": "Common cold",
+    "genericCount": "13"
+  },
+  {
+    "id": "2335",
+    "name": "Colorectal cancer",
+    "genericCount": "6"
+  },
+  {
+    "id": "2334",
+    "name": "Colonoscopy preparation",
+    "genericCount": "1"
+  },
+  {
+    "id": "2333",
+    "name": "Colonoscopy",
+    "genericCount": "0"
+  },
+  {
+    "id": "2332",
+    "name": "Colonopathies",
+    "genericCount": "1"
+  },
+  {
+    "id": "2331",
+    "name": "Colitis",
+    "genericCount": "6"
+  },
+  {
+    "id": "2330",
+    "name": "Colic",
+    "genericCount": "10"
+  },
+  {
+    "id": "2355",
+    "name": "Corneal protection",
+    "genericCount": "0"
+  },
+  {
+    "id": "2354",
+    "name": "Corneal anesthesia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2353",
+    "name": "Cornea transplant surgery",
+    "genericCount": "0"
+  },
+  {
+    "id": "2223",
+    "name": "COPD",
+    "genericCount": "23"
+  },
+  {
+    "id": "4159",
+    "name": "Conversion of atrial fibrillation/flutter",
+    "genericCount": "0"
+  },
+  {
+    "id": "2352",
+    "name": "Contraception",
+    "genericCount": "14"
+  },
+  {
+    "id": "2351",
+    "name": "Contact dermatitis",
+    "genericCount": "11"
+  },
+  {
+    "id": "2350",
+    "name": "Constipation and bowel irregularity",
+    "genericCount": "4"
+  },
+  {
+    "id": "2349",
+    "name": "Constipation",
+    "genericCount": "38"
+  },
+  {
+    "id": "3847",
+    "name": "Conjunctivitis, blepharitis and blepharoconjunctivitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2348",
+    "name": "Conjunctivitis",
+    "genericCount": "36"
+  },
+  {
+    "id": "2347",
+    "name": "Conjunctival decongestant",
+    "genericCount": "2"
+  },
+  {
+    "id": "2346",
+    "name": "Congestive heart failure",
+    "genericCount": "19"
+  },
+  {
+    "id": "2329",
+    "name": "Cold sores",
+    "genericCount": "2"
+  },
+  {
+    "id": "2328",
+    "name": "Cold",
+    "genericCount": "14"
+  },
+  {
+    "id": "2367",
+    "name": "Crural ulcer",
+    "genericCount": "1"
+  },
+  {
+    "id": "2366",
+    "name": "Crohn’s disease",
+    "genericCount": "11"
+  },
+  {
+    "id": "2365",
+    "name": "Cracked feet",
+    "genericCount": "1"
+  },
+  {
+    "id": "2364",
+    "name": "Cracked and itchy skin",
+    "genericCount": "3"
+  },
+  {
+    "id": "2362",
+    "name": "Cough and runny nose",
+    "genericCount": "9"
+  },
+  {
+    "id": "2363",
+    "name": "Cough and common cold",
+    "genericCount": "13"
+  },
+  {
+    "id": "4107",
+    "name": "Cough",
+    "genericCount": "17"
+  },
+  {
+    "id": "2360",
+    "name": "Corticosteriod-responsive dermatoses",
+    "genericCount": "9"
+  },
+  {
+    "id": "2361",
+    "name": "Corticosteriod responsive dermatoses with secondary infection",
+    "genericCount": "3"
+  },
+  {
+    "id": "2359",
+    "name": "Cortical myoclonus",
+    "genericCount": "1"
+  },
+  {
+    "id": "3649",
+    "name": "Coronary artery disease",
+    "genericCount": "19"
+  },
+  {
+    "id": "2358",
+    "name": "Corns and calluses",
+    "genericCount": "4"
+  },
+  {
+    "id": "2357",
+    "name": "Corns",
+    "genericCount": "2"
+  },
+  {
+    "id": "2356",
+    "name": "Corneal ulcer",
+    "genericCount": "8"
+  },
+  {
+    "id": "2224",
+    "name": "CVD",
+    "genericCount": "2"
+  },
+  {
+    "id": "2377",
+    "name": "Cuts",
+    "genericCount": "7"
+  },
+  {
+    "id": "3872",
+    "name": "Cuteneous candidiasis with superficial bacterial infection",
+    "genericCount": "1"
+  },
+  {
+    "id": "2373",
+    "name": "Cutaneous T-cell lymphoma",
+    "genericCount": "4"
+  },
+  {
+    "id": "4119",
+    "name": "Cutaneous or mucocutaneous mycotic infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "2376",
+    "name": "Cutaneous candidiasis and pityriasis versicolor",
+    "genericCount": "1"
+  },
+  {
+    "id": "2375",
+    "name": "Cutaneous candidiasis",
+    "genericCount": "8"
+  },
+  {
+    "id": "2374",
+    "name": "Cutaneous albinism",
+    "genericCount": "1"
+  },
+  {
+    "id": "3774",
+    "name": "Cushing's and Nelson's syndrome",
+    "genericCount": "0"
+  },
+  {
+    "id": "2372",
+    "name": "Cushing's disease",
+    "genericCount": "0"
+  },
+  {
+    "id": "4204",
+    "name": "Curvature",
+    "genericCount": "1"
+  },
+  {
+    "id": "2371",
+    "name": "Cryptosporidiosis",
+    "genericCount": "3"
+  },
+  {
+    "id": "3857",
+    "name": "Cryptorchidism",
+    "genericCount": "2"
+  },
+  {
+    "id": "2370",
+    "name": "Cryptococcosis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2369",
+    "name": "Cryptococcal meningitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "4177",
+    "name": "Cryptitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "4198",
+    "name": "Deficient protein metabolism",
+    "genericCount": "1"
+  },
+  {
+    "id": "2388",
+    "name": "Deep tissue candida infections",
+    "genericCount": "2"
+  },
+  {
+    "id": "2389",
+    "name": "Deep vein thrombosis",
+    "genericCount": "9"
+  },
+  {
+    "id": "4000",
+    "name": "Deep anesthesia as in cataract extraction",
+    "genericCount": "1"
+  },
+  {
+    "id": "2386",
+    "name": "Darier's disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "2387",
+    "name": "Decubitus or stasis ulcers",
+    "genericCount": "6"
+  },
+  {
+    "id": "2385",
+    "name": "Dandruff",
+    "genericCount": "7"
+  },
+  {
+    "id": "4065",
+    "name": "Daily multivitamin maintenance",
+    "genericCount": "1"
+  },
+  {
+    "id": "4161",
+    "name": "Cytomegalovirus (CMV) retinitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3851",
+    "name": "Cytomegaloviral infections",
+    "genericCount": "0"
+  },
+  {
+    "id": "2384",
+    "name": "Cystoid macular oedema",
+    "genericCount": "4"
+  },
+  {
+    "id": "2383",
+    "name": "Cystitis",
+    "genericCount": "7"
+  },
+  {
+    "id": "2382",
+    "name": "Cystic fibrosis",
+    "genericCount": "7"
+  },
+  {
+    "id": "2381",
+    "name": "Cycloplegia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2380",
+    "name": "Cyclitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "3998",
+    "name": "Cyclical mastalgia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3832",
+    "name": "Dental cavity",
+    "genericCount": "1"
+  },
+  {
+    "id": "2398",
+    "name": "Dental caries",
+    "genericCount": "4"
+  },
+  {
+    "id": "2397",
+    "name": "Dental bleeding",
+    "genericCount": "2"
+  },
+  {
+    "id": "2396",
+    "name": "Dental abscess",
+    "genericCount": "2"
+  },
+  {
+    "id": "3789",
+    "name": "Dementia in alzheimer's disease",
+    "genericCount": "5"
+  },
+  {
+    "id": "2394",
+    "name": "Delirium",
+    "genericCount": "9"
+  },
+  {
+    "id": "2395",
+    "name": "Dementia",
+    "genericCount": "7"
+  },
+  {
+    "id": "2393",
+    "name": "Delayed puberty",
+    "genericCount": "2"
+  },
+  {
+    "id": "4210",
+    "name": "Delay imminent pre-term birth",
+    "genericCount": "1"
+  },
+  {
+    "id": "2392",
+    "name": "Dehydration",
+    "genericCount": "3"
+  },
+  {
+    "id": "2391",
+    "name": "Degenerative joint disease",
+    "genericCount": "3"
+  },
+  {
+    "id": "2390",
+    "name": "Degenerative diseases",
+    "genericCount": "3"
+  },
+  {
+    "id": "2378",
+    "name": "Cyanide poisoning",
+    "genericCount": "2"
+  },
+  {
+    "id": "2379",
+    "name": "Cyanosis",
+    "genericCount": "0"
+  },
+  {
+    "id": "2408",
+    "name": "Dermatomyositis",
+    "genericCount": "6"
+  },
+  {
+    "id": "2407",
+    "name": "Dermatomycoses",
+    "genericCount": "2"
+  },
+  {
+    "id": "2406",
+    "name": "Dermatofibro sarcoma protuberans",
+    "genericCount": "0"
+  },
+  {
+    "id": "3681",
+    "name": "Dermatitis Solaris",
+    "genericCount": "1"
+  },
+  {
+    "id": "2405",
+    "name": "Dermatitis herpetiformis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2404",
+    "name": "Dermatitis",
+    "genericCount": "21"
+  },
+  {
+    "id": "2403",
+    "name": "Depression",
+    "genericCount": "34"
+  },
+  {
+    "id": "3668",
+    "name": "Dentures",
+    "genericCount": "2"
+  },
+  {
+    "id": "2402",
+    "name": "Denture stomatitis",
+    "genericCount": "0"
+  },
+  {
+    "id": "2401",
+    "name": "Denture sores",
+    "genericCount": "4"
+  },
+  {
+    "id": "2400",
+    "name": "Dental surgery",
+    "genericCount": "0"
+  },
+  {
+    "id": "3833",
+    "name": "Dental plaque",
+    "genericCount": "5"
+  },
+  {
+    "id": "2399",
+    "name": "Dental pain",
+    "genericCount": "7"
+  },
+  {
+    "id": "4100",
+    "name": "Dental nerve block",
+    "genericCount": "1"
+  },
+  {
+    "id": "4101",
+    "name": "Dental infiltration anesthesia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3730",
+    "name": "Dental infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "2418",
+    "name": "Diabetic nephropathy",
+    "genericCount": "14"
+  },
+  {
+    "id": "2417",
+    "name": "Diabetic macular edema",
+    "genericCount": "1"
+  },
+  {
+    "id": "2416",
+    "name": "Diabetic ketoacidosis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2415",
+    "name": "Diabetic gastric stasis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2414",
+    "name": "Diabetic foot ulcer",
+    "genericCount": "3"
+  },
+  {
+    "id": "3767",
+    "name": "Diabetic foot infections",
+    "genericCount": "3"
+  },
+  {
+    "id": "2413",
+    "name": "Diabetic coma",
+    "genericCount": "1"
+  },
+  {
+    "id": "2412",
+    "name": "Diabetic angiopathy",
+    "genericCount": "1"
+  },
+  {
+    "id": "2411",
+    "name": "Diabetes mellitus",
+    "genericCount": "46"
+  },
+  {
+    "id": "2410",
+    "name": "Diabetes insipidus",
+    "genericCount": "2"
+  },
+  {
+    "id": "4067",
+    "name": "Development and proper functioning of their vital organs",
+    "genericCount": "1"
+  },
+  {
+    "id": "4094",
+    "name": "Developed to treat the muscle rigidity",
+    "genericCount": "0"
+  },
+  {
+    "id": "2409",
+    "name": "Dermatophytosis",
+    "genericCount": "4"
+  },
+  {
+    "id": "4200",
+    "name": "Dental hypersensitivity",
+    "genericCount": "1"
+  },
+  {
+    "id": "4118",
+    "name": "Direct acting antiviral agent (DAA) against the hepatitis C virus",
+    "genericCount": "1"
+  },
+  {
+    "id": "2432",
+    "name": "Diphtheria",
+    "genericCount": "6"
+  },
+  {
+    "id": "2431",
+    "name": "Diluting or dissolving drugs",
+    "genericCount": "1"
+  },
+  {
+    "id": "2430",
+    "name": "Dilatation of pupil",
+    "genericCount": "3"
+  },
+  {
+    "id": "2429",
+    "name": "Diffuse scleroderma",
+    "genericCount": "2"
+  },
+  {
+    "id": "3753",
+    "name": "Different skin problems (e.g., psoriasis)",
+    "genericCount": "2"
+  },
+  {
+    "id": "2428",
+    "name": "Dietary supplements (Vitamin deficiencies)",
+    "genericCount": "1"
+  },
+  {
+    "id": "2427",
+    "name": "Dietary supplements",
+    "genericCount": "9"
+  },
+  {
+    "id": "2426",
+    "name": "Dietary supplement for infants",
+    "genericCount": "1"
+  },
+  {
+    "id": "2425",
+    "name": "Diarrhoea",
+    "genericCount": "20"
+  },
+  {
+    "id": "2424",
+    "name": "Diaper rash",
+    "genericCount": "9"
+  },
+  {
+    "id": "2423",
+    "name": "Dialysis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2422",
+    "name": "Diagnostic procedures",
+    "genericCount": "3"
+  },
+  {
+    "id": "2421",
+    "name": "Diagnostic ophthalmic procedures",
+    "genericCount": "1"
+  },
+  {
+    "id": "2420",
+    "name": "Diabetic ulcers",
+    "genericCount": "2"
+  },
+  {
+    "id": "2419",
+    "name": "Diabetic neuropathy",
+    "genericCount": "5"
+  },
+  {
+    "id": "3760",
+    "name": "Drug induced Myopathy",
+    "genericCount": "1"
+  },
+  {
+    "id": "2446",
+    "name": "Drug induced extrapyramidal syndrome",
+    "genericCount": "2"
+  },
+  {
+    "id": "2444",
+    "name": "Drug hypersensitivity reactions",
+    "genericCount": "2"
+  },
+  {
+    "id": "2443",
+    "name": "Dracunculiasis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2442",
+    "name": "Down Syndrome",
+    "genericCount": "1"
+  },
+  {
+    "id": "2441",
+    "name": "Dizziness",
+    "genericCount": "4"
+  },
+  {
+    "id": "3636",
+    "name": "Diverticulitis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2440",
+    "name": "Diverticular diseases",
+    "genericCount": "1"
+  },
+  {
+    "id": "2439",
+    "name": "Disturbed biorhythms",
+    "genericCount": "1"
+  },
+  {
+    "id": "2438",
+    "name": "Dissolution of cholesterol rich gallstones",
+    "genericCount": "1"
+  },
+  {
+    "id": "2437",
+    "name": "Disseminated candidiasis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2435",
+    "name": "Disinfection of the skin and hand",
+    "genericCount": "4"
+  },
+  {
+    "id": "2434",
+    "name": "Disinfection",
+    "genericCount": "2"
+  },
+  {
+    "id": "2433",
+    "name": "Discomfort of the eye",
+    "genericCount": "1"
+  },
+  {
+    "id": "3806",
+    "name": "Dysfunctional uterine bleeding (DUB)",
+    "genericCount": "4"
+  },
+  {
+    "id": "2457",
+    "name": "Dysentery",
+    "genericCount": "7"
+  },
+  {
+    "id": "2456",
+    "name": "Dyeing hair",
+    "genericCount": "1"
+  },
+  {
+    "id": "3694",
+    "name": "During infectious diseases and convalescence",
+    "genericCount": "2"
+  },
+  {
+    "id": "2454",
+    "name": "Duodenitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2453",
+    "name": "Duodenal ulcer",
+    "genericCount": "14"
+  },
+  {
+    "id": "3709",
+    "name": "Dryness and pain associated with reduced or abnormal tear production",
+    "genericCount": "1"
+  },
+  {
+    "id": "3815",
+    "name": "Dry skin associated with contact dermatitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2452",
+    "name": "Dry skin",
+    "genericCount": "9"
+  },
+  {
+    "id": "2451",
+    "name": "Dry mouth",
+    "genericCount": "2"
+  },
+  {
+    "id": "2448",
+    "name": "Dry Irritated eyes",
+    "genericCount": "0"
+  },
+  {
+    "id": "2450",
+    "name": "Dry eye",
+    "genericCount": "13"
+  },
+  {
+    "id": "2449",
+    "name": "Dry cough",
+    "genericCount": "7"
+  },
+  {
+    "id": "2445",
+    "name": "Drug overdose",
+    "genericCount": "2"
+  },
+  {
+    "id": "2447",
+    "name": "Drug induced photosensitivity",
+    "genericCount": "3"
+  },
+  {
+    "id": "3696",
+    "name": "Electrolytes or calories or as an alkalinizing agent",
+    "genericCount": "1"
+  },
+  {
+    "id": "2469",
+    "name": "Electrolyte replenisher",
+    "genericCount": "4"
+  },
+  {
+    "id": "2468",
+    "name": "Eczematoid dermatitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2467",
+    "name": "Eczema",
+    "genericCount": "35"
+  },
+  {
+    "id": "2466",
+    "name": "Eclampsia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2465",
+    "name": "Echinococcosis",
+    "genericCount": "4"
+  },
+  {
+    "id": "3725",
+    "name": "Eating disorder",
+    "genericCount": "1"
+  },
+  {
+    "id": "3936",
+    "name": "Early menstrual regulation",
+    "genericCount": "1"
+  },
+  {
+    "id": "2464",
+    "name": "Dysuria",
+    "genericCount": "2"
+  },
+  {
+    "id": "2463",
+    "name": "Dysphoria",
+    "genericCount": "1"
+  },
+  {
+    "id": "2462",
+    "name": "Dyspepsia",
+    "genericCount": "19"
+  },
+  {
+    "id": "2461",
+    "name": "Dyspareunia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2460",
+    "name": "Dysmenorrhoea",
+    "genericCount": "21"
+  },
+  {
+    "id": "2459",
+    "name": "Dyslipidemia",
+    "genericCount": "7"
+  },
+  {
+    "id": "2458",
+    "name": "Dyskeratosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2479",
+    "name": "Endometritis",
+    "genericCount": "10"
+  },
+  {
+    "id": "2478",
+    "name": "Endometriosis",
+    "genericCount": "10"
+  },
+  {
+    "id": "2477",
+    "name": "Endometrial carcinoma",
+    "genericCount": "0"
+  },
+  {
+    "id": "3926",
+    "name": "Endocrine Disorders",
+    "genericCount": "3"
+  },
+  {
+    "id": "2476",
+    "name": "Endocarditis",
+    "genericCount": "8"
+  },
+  {
+    "id": "2475",
+    "name": "End-stage renal failure",
+    "genericCount": "4"
+  },
+  {
+    "id": "3706",
+    "name": "End-of-dose motor fluctuations",
+    "genericCount": "1"
+  },
+  {
+    "id": "2474",
+    "name": "Encephalomyelitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "4196",
+    "name": "Encephalitis virus vaccine",
+    "genericCount": "1"
+  },
+  {
+    "id": "2473",
+    "name": "Empyema",
+    "genericCount": "2"
+  },
+  {
+    "id": "2472",
+    "name": "Emphysema",
+    "genericCount": "11"
+  },
+  {
+    "id": "2471",
+    "name": "Emotional disturbance",
+    "genericCount": "1"
+  },
+  {
+    "id": "2470",
+    "name": "Emergency contraception",
+    "genericCount": "3"
+  },
+  {
+    "id": "4132",
+    "name": "Elevated intraocular pressure",
+    "genericCount": "2"
+  },
+  {
+    "id": "2492",
+    "name": "Epidural analgesia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2491",
+    "name": "Epidural anaesthesia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2490",
+    "name": "Epidural",
+    "genericCount": "1"
+  },
+  {
+    "id": "4113",
+    "name": "Epidermal growth factor receptor (EGFR)",
+    "genericCount": "1"
+  },
+  {
+    "id": "4015",
+    "name": "Envenomation caused by snake bites",
+    "genericCount": "1"
+  },
+  {
+    "id": "2489",
+    "name": "Enuresis",
+    "genericCount": "6"
+  },
+  {
+    "id": "2488",
+    "name": "Enterocolitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2487",
+    "name": "Enterobiasis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2486",
+    "name": "Enteritis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2485",
+    "name": "Enteric fever",
+    "genericCount": "9"
+  },
+  {
+    "id": "3960",
+    "name": "Ensures good eye sight",
+    "genericCount": "1"
+  },
+  {
+    "id": "2484",
+    "name": "Enoxaparin or dalteparin overdosage",
+    "genericCount": "1"
+  },
+  {
+    "id": "2483",
+    "name": "Energy malnutrition",
+    "genericCount": "3"
+  },
+  {
+    "id": "2482",
+    "name": "Endotracheal intubation",
+    "genericCount": "3"
+  },
+  {
+    "id": "2481",
+    "name": "Endophthalmitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2480",
+    "name": "Endometrium cancer",
+    "genericCount": "2"
+  },
+  {
+    "id": "4156",
+    "name": "Excretory urography",
+    "genericCount": "1"
+  },
+  {
+    "id": "2503",
+    "name": "Excessive sweating",
+    "genericCount": "4"
+  },
+  {
+    "id": "2502",
+    "name": "Essential tremor",
+    "genericCount": "3"
+  },
+  {
+    "id": "2501",
+    "name": "Essential thrombocythemia",
+    "genericCount": "3"
+  },
+  {
+    "id": "3651",
+    "name": "Essential hypertension",
+    "genericCount": "7"
+  },
+  {
+    "id": "4021",
+    "name": "Erythrasma",
+    "genericCount": "1"
+  },
+  {
+    "id": "2500",
+    "name": "Erythema nodosum leprosum (Type 2)",
+    "genericCount": "2"
+  },
+  {
+    "id": "2499",
+    "name": "Erythema multiforme",
+    "genericCount": "7"
+  },
+  {
+    "id": "2498",
+    "name": "Erysipeloid",
+    "genericCount": "1"
+  },
+  {
+    "id": "2497",
+    "name": "Erysipelas",
+    "genericCount": "2"
+  },
+  {
+    "id": "2496",
+    "name": "Erosive oesophagitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2495",
+    "name": "Erectile dysfunction",
+    "genericCount": "8"
+  },
+  {
+    "id": "2494",
+    "name": "Episcleritis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2493",
+    "name": "Epilepsy",
+    "genericCount": "18"
+  },
+  {
+    "id": "3688",
+    "name": "Epidural intrathecal anesthesia",
+    "genericCount": "2"
+  },
+  {
+    "id": "3918",
+    "name": "Faecal impaction",
+    "genericCount": "3"
+  },
+  {
+    "id": "2509",
+    "name": "Facilitate lactation",
+    "genericCount": "2"
+  },
+  {
+    "id": "3970",
+    "name": "Facilitate mechanical ventilation in intensive care",
+    "genericCount": "2"
+  },
+  {
+    "id": "3968",
+    "name": "Facilitate endotracheal intubation",
+    "genericCount": "3"
+  },
+  {
+    "id": "4080",
+    "name": "Facial paralysis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2508",
+    "name": "Eye refraction",
+    "genericCount": "1"
+  },
+  {
+    "id": "2507",
+    "name": "Eye irritation",
+    "genericCount": "6"
+  },
+  {
+    "id": "2506",
+    "name": "Eye infections",
+    "genericCount": "10"
+  },
+  {
+    "id": "4082",
+    "name": "Eye health",
+    "genericCount": "2"
+  },
+  {
+    "id": "2505",
+    "name": "Eye allergy",
+    "genericCount": "8"
+  },
+  {
+    "id": "3685",
+    "name": "Exudative ARMD",
+    "genericCount": "1"
+  },
+  {
+    "id": "2504",
+    "name": "Extrapyramidal symptoms",
+    "genericCount": "3"
+  },
+  {
+    "id": "3699",
+    "name": "Extraocular and intraocular irrigating solution during ocular surgical procedure",
+    "genericCount": "0"
+  },
+  {
+    "id": "3953",
+    "name": "Extra-articular disorders",
+    "genericCount": "1"
+  },
+  {
+    "id": "3676",
+    "name": "Exfoliative dermatitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2519",
+    "name": "Fertility",
+    "genericCount": "2"
+  },
+  {
+    "id": "2520",
+    "name": "Fever",
+    "genericCount": "13"
+  },
+  {
+    "id": "4141",
+    "name": "fenestration",
+    "genericCount": "1"
+  },
+  {
+    "id": "2518",
+    "name": "Female infertility",
+    "genericCount": "4"
+  },
+  {
+    "id": "3766",
+    "name": "Female hypogonadism",
+    "genericCount": "1"
+  },
+  {
+    "id": "4203",
+    "name": "Feebleness",
+    "genericCount": "1"
+  },
+  {
+    "id": "2517",
+    "name": "Febrile neutropenia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2516",
+    "name": "Fatty liver",
+    "genericCount": "3"
+  },
+  {
+    "id": "2515",
+    "name": "Fatigue",
+    "genericCount": "3"
+  },
+  {
+    "id": "3962",
+    "name": "Fat carbohydrate metabolism",
+    "genericCount": "1"
+  },
+  {
+    "id": "2511",
+    "name": "Familial mediterranean fever",
+    "genericCount": "1"
+  },
+  {
+    "id": "2514",
+    "name": "Familial hypophosphatemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2513",
+    "name": "Familial hypercholesterolemia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2512",
+    "name": "Familial adenomatous polyposis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2510",
+    "name": "Falciparum malaria",
+    "genericCount": "1"
+  },
+  {
+    "id": "2534",
+    "name": "Following pancreatic surgery",
+    "genericCount": "1"
+  },
+  {
+    "id": "2533",
+    "name": "Folliculitis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2532",
+    "name": "Follicular lymphoma",
+    "genericCount": "6"
+  },
+  {
+    "id": "2531",
+    "name": "Folic acid deficiency",
+    "genericCount": "4"
+  },
+  {
+    "id": "2530",
+    "name": "Folic acid & zinc Deficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "2529",
+    "name": "Fluid replacement",
+    "genericCount": "2"
+  },
+  {
+    "id": "3697",
+    "name": "Fluid and electrolytes replenisher in hypervolemia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2528",
+    "name": "Fluid and electrolyte imbalance",
+    "genericCount": "10"
+  },
+  {
+    "id": "2527",
+    "name": "Flu",
+    "genericCount": "5"
+  },
+  {
+    "id": "2526",
+    "name": "Flatulence",
+    "genericCount": "15"
+  },
+  {
+    "id": "2524",
+    "name": "Fitting of hard contact lenses",
+    "genericCount": "1"
+  },
+  {
+    "id": "2525",
+    "name": "Flaking scalps",
+    "genericCount": "1"
+  },
+  {
+    "id": "2523",
+    "name": "Filariasis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2522",
+    "name": "Fibromyalgia",
+    "genericCount": "8"
+  },
+  {
+    "id": "2521",
+    "name": "Fever blisters",
+    "genericCount": "0"
+  },
+  {
+    "id": "2549",
+    "name": "Fungal otitis externa",
+    "genericCount": "3"
+  },
+  {
+    "id": "2548",
+    "name": "Fungal keratitis",
+    "genericCount": "6"
+  },
+  {
+    "id": "2547",
+    "name": "Fungal infections of the mouth Throat and gut",
+    "genericCount": "1"
+  },
+  {
+    "id": "2546",
+    "name": "Fungal infections",
+    "genericCount": "14"
+  },
+  {
+    "id": "2545",
+    "name": "Fungal eye infections",
+    "genericCount": "3"
+  },
+  {
+    "id": "2544",
+    "name": "Fungal corneal ulcers",
+    "genericCount": "4"
+  },
+  {
+    "id": "3948",
+    "name": "Fungal conjunctivitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2542",
+    "name": "Funduscopy",
+    "genericCount": "1"
+  },
+  {
+    "id": "2541",
+    "name": "Functional rehabilitation after cerebrovascular accidents",
+    "genericCount": "1"
+  },
+  {
+    "id": "2540",
+    "name": "Functional dyspepsia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2539",
+    "name": "Functional diarrhea",
+    "genericCount": "1"
+  },
+  {
+    "id": "2538",
+    "name": "Freckles",
+    "genericCount": "2"
+  },
+  {
+    "id": "2537",
+    "name": "Fracture and joint manipulation",
+    "genericCount": "1"
+  },
+  {
+    "id": "4066",
+    "name": "For growing children",
+    "genericCount": "2"
+  },
+  {
+    "id": "3987",
+    "name": "For degerming skin in hyperalimentation and catheter care",
+    "genericCount": "0"
+  },
+  {
+    "id": "2535",
+    "name": "Food supplement",
+    "genericCount": "1"
+  },
+  {
+    "id": "2564",
+    "name": "Gastric problems",
+    "genericCount": "1"
+  },
+  {
+    "id": "2560",
+    "name": "Gastric Hyperacidity",
+    "genericCount": "5"
+  },
+  {
+    "id": "2563",
+    "name": "Gastric cancer",
+    "genericCount": "9"
+  },
+  {
+    "id": "2562",
+    "name": "Gastric bypass surgery",
+    "genericCount": "1"
+  },
+  {
+    "id": "2561",
+    "name": "Gastric and duodenal ulceration",
+    "genericCount": "7"
+  },
+  {
+    "id": "2559",
+    "name": "Gas gangrene",
+    "genericCount": "3"
+  },
+  {
+    "id": "2557",
+    "name": "Gangrene",
+    "genericCount": "2"
+  },
+  {
+    "id": "3687",
+    "name": "Galactorrhea",
+    "genericCount": "1"
+  },
+  {
+    "id": "2554",
+    "name": "Fusobacterium infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "2553",
+    "name": "Furunculosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2552",
+    "name": "Furuncles",
+    "genericCount": "1"
+  },
+  {
+    "id": "3932",
+    "name": "Fungating tumours",
+    "genericCount": "1"
+  },
+  {
+    "id": "2543",
+    "name": "Fungal UTIs",
+    "genericCount": "1"
+  },
+  {
+    "id": "2550",
+    "name": "Fungal skin infections",
+    "genericCount": "5"
+  },
+  {
+    "id": "2576",
+    "name": "General anaesthesia",
+    "genericCount": "11"
+  },
+  {
+    "id": "2575",
+    "name": "Gastroparesis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2574",
+    "name": "Gastrointestinal tract spasm",
+    "genericCount": "9"
+  },
+  {
+    "id": "2573",
+    "name": "Gastrointestinal tract infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "4136",
+    "name": "Gastrointestinal Stromal Tumors",
+    "genericCount": "1"
+  },
+  {
+    "id": "2572",
+    "name": "Gastrointestinal stromal tumor",
+    "genericCount": "1"
+  },
+  {
+    "id": "2571",
+    "name": "Gastrointestinal hyperacidity",
+    "genericCount": "3"
+  },
+  {
+    "id": "2556",
+    "name": "Gastrointestinal haemorrhage from stress ulceration",
+    "genericCount": "1"
+  },
+  {
+    "id": "2555",
+    "name": "Gastrointestinal haemorrhage",
+    "genericCount": "0"
+  },
+  {
+    "id": "2570",
+    "name": "Gastrointestinal disorders",
+    "genericCount": "4"
+  },
+  {
+    "id": "3972",
+    "name": "Gastrointestinal (Gl) bleeding from stress",
+    "genericCount": "1"
+  },
+  {
+    "id": "2568",
+    "name": "Gastroesophageal reflux disease (GERD)",
+    "genericCount": "17"
+  },
+  {
+    "id": "2569",
+    "name": "Gastroenteritis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2567",
+    "name": "Gastro-enteritis with dehydration",
+    "genericCount": "0"
+  },
+  {
+    "id": "2566",
+    "name": "Gastritis",
+    "genericCount": "14"
+  },
+  {
+    "id": "2565",
+    "name": "Gastric ulcer",
+    "genericCount": "20"
+  },
+  {
+    "id": "2588",
+    "name": "Glaucoma surgery",
+    "genericCount": "0"
+  },
+  {
+    "id": "2587",
+    "name": "Glaucoma",
+    "genericCount": "18"
+  },
+  {
+    "id": "3751",
+    "name": "Glabellar and lateral Canthal lines (cosmetic purpose)",
+    "genericCount": "1"
+  },
+  {
+    "id": "2586",
+    "name": "Gingivitis",
+    "genericCount": "7"
+  },
+  {
+    "id": "2585",
+    "name": "Giardiasis",
+    "genericCount": "6"
+  },
+  {
+    "id": "2584",
+    "name": "Germ cell tumors",
+    "genericCount": "4"
+  },
+  {
+    "id": "2583",
+    "name": "Genitourinary tract infections",
+    "genericCount": "5"
+  },
+  {
+    "id": "2582",
+    "name": "Genitourinary spasm",
+    "genericCount": "2"
+  },
+  {
+    "id": "2581",
+    "name": "Genital warts",
+    "genericCount": "1"
+  },
+  {
+    "id": "2580",
+    "name": "Genital herpes",
+    "genericCount": "4"
+  },
+  {
+    "id": "2578",
+    "name": "Generalized tonic-clonic seizures",
+    "genericCount": "4"
+  },
+  {
+    "id": "2579",
+    "name": "Generalized anxiety disorder",
+    "genericCount": "9"
+  },
+  {
+    "id": "2577",
+    "name": "General weakness",
+    "genericCount": "11"
+  },
+  {
+    "id": "4098",
+    "name": "General kidney & heart transplant",
+    "genericCount": "1"
+  },
+  {
+    "id": "3861",
+    "name": "Guillain-Barre syndrome",
+    "genericCount": "1"
+  },
+  {
+    "id": "2600",
+    "name": "Growth hormone deficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "3671",
+    "name": "Growth and repair of body tissue, bone, skin, teeth & hair.",
+    "genericCount": "2"
+  },
+  {
+    "id": "2599",
+    "name": "Group A Streptococcus infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "3707",
+    "name": "Grazes",
+    "genericCount": "1"
+  },
+  {
+    "id": "3701",
+    "name": "Graying hair",
+    "genericCount": "2"
+  },
+  {
+    "id": "2598",
+    "name": "Graves’ disease",
+    "genericCount": "5"
+  },
+  {
+    "id": "2597",
+    "name": "Granuloma inguinale",
+    "genericCount": "1"
+  },
+  {
+    "id": "2596",
+    "name": "Gram-positive infection",
+    "genericCount": "1"
+  },
+  {
+    "id": "2595",
+    "name": "Gouty arthritis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2594",
+    "name": "Gout",
+    "genericCount": "16"
+  },
+  {
+    "id": "2593",
+    "name": "Gonorrhoea",
+    "genericCount": "20"
+  },
+  {
+    "id": "2592",
+    "name": "Gonococcal urethritis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2591",
+    "name": "Gnathostomiasis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2590",
+    "name": "Gluten enteropathy or sprue",
+    "genericCount": "3"
+  },
+  {
+    "id": "4073",
+    "name": "Glossitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2613",
+    "name": "Haemorrhage",
+    "genericCount": "7"
+  },
+  {
+    "id": "2612",
+    "name": "Haemoptysis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2611",
+    "name": "Haemophilus influenzae type b infection",
+    "genericCount": "3"
+  },
+  {
+    "id": "3834",
+    "name": "Haemophilia A",
+    "genericCount": "0"
+  },
+  {
+    "id": "2610",
+    "name": "Haemodialysis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2609",
+    "name": "Haematuria",
+    "genericCount": "1"
+  },
+  {
+    "id": "4127",
+    "name": "Habitual abortion",
+    "genericCount": "1"
+  },
+  {
+    "id": "2605",
+    "name": "H. pylori infection",
+    "genericCount": "11"
+  },
+  {
+    "id": "2604",
+    "name": "Gynecological infections",
+    "genericCount": "2"
+  },
+  {
+    "id": "2603",
+    "name": "Gynaecomastia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3712",
+    "name": "Gum swelling",
+    "genericCount": "1"
+  },
+  {
+    "id": "2602",
+    "name": "Gum sore",
+    "genericCount": "4"
+  },
+  {
+    "id": "2601",
+    "name": "Gum disease",
+    "genericCount": "6"
+  },
+  {
+    "id": "2589",
+    "name": "Glioblastoma multiforme",
+    "genericCount": "5"
+  },
+  {
+    "id": "2626",
+    "name": "Heartburn & gastritis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2625",
+    "name": "Heartburn",
+    "genericCount": "8"
+  },
+  {
+    "id": "2624",
+    "name": "Heart failure",
+    "genericCount": "30"
+  },
+  {
+    "id": "2623",
+    "name": "Heart disease",
+    "genericCount": "3"
+  },
+  {
+    "id": "4195",
+    "name": "Healthy urinary flow",
+    "genericCount": "2"
+  },
+  {
+    "id": "2622",
+    "name": "Headache",
+    "genericCount": "15"
+  },
+  {
+    "id": "3974",
+    "name": "Head pediculosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2621",
+    "name": "Head lice",
+    "genericCount": "2"
+  },
+  {
+    "id": "2620",
+    "name": "Head injury",
+    "genericCount": "3"
+  },
+  {
+    "id": "2619",
+    "name": "Head & neck cancer",
+    "genericCount": "5"
+  },
+  {
+    "id": "2618",
+    "name": "Hay fever",
+    "genericCount": "7"
+  },
+  {
+    "id": "4034",
+    "name": "Hand and foot eczema",
+    "genericCount": "1"
+  },
+  {
+    "id": "2617",
+    "name": "Hairy cell leukaemia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2616",
+    "name": "Hair loss",
+    "genericCount": "6"
+  },
+  {
+    "id": "2615",
+    "name": "Haemorrhoids (Piles)",
+    "genericCount": "18"
+  },
+  {
+    "id": "2614",
+    "name": "Haemorrhagic cystitis and haematuria",
+    "genericCount": "1"
+  },
+  {
+    "id": "2637",
+    "name": "Hepatic encephalopathy",
+    "genericCount": "5"
+  },
+  {
+    "id": "2636",
+    "name": "Hepatic cirrhosis with ascites and oedema",
+    "genericCount": "2"
+  },
+  {
+    "id": "2635",
+    "name": "Hepatic amoebiasis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2634",
+    "name": "Heparin overdosage",
+    "genericCount": "1"
+  },
+  {
+    "id": "3768",
+    "name": "Hemorrhage",
+    "genericCount": "2"
+  },
+  {
+    "id": "2632",
+    "name": "Hemophilia A",
+    "genericCount": "2"
+  },
+  {
+    "id": "2631",
+    "name": "Hemophilia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2630",
+    "name": "Hemolytic disease of the newborn",
+    "genericCount": "1"
+  },
+  {
+    "id": "2629",
+    "name": "Hemofiltration",
+    "genericCount": "1"
+  },
+  {
+    "id": "3810",
+    "name": "Hemodialysis dependent-chronic kidney disease (HDD-CKD) patients receiving an erythropoietin",
+    "genericCount": "1"
+  },
+  {
+    "id": "2628",
+    "name": "Hemicrania continua",
+    "genericCount": "0"
+  },
+  {
+    "id": "3928",
+    "name": "Hematological and Oncological Disorders",
+    "genericCount": "1"
+  },
+  {
+    "id": "2627",
+    "name": "Helminthiasis",
+    "genericCount": "4"
+  },
+  {
+    "id": "4125",
+    "name": "Helicobacter pylori eradication",
+    "genericCount": "0"
+  },
+  {
+    "id": "2646",
+    "name": "Herpes virus infections",
+    "genericCount": "3"
+  },
+  {
+    "id": "2645",
+    "name": "Herpes simplex keratitis",
+    "genericCount": "9"
+  },
+  {
+    "id": "2644",
+    "name": "Herpes simplex",
+    "genericCount": "8"
+  },
+  {
+    "id": "2643",
+    "name": "Herpes labialis",
+    "genericCount": "8"
+  },
+  {
+    "id": "2642",
+    "name": "Hereditary hemorrhagic telangiectasia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2641",
+    "name": "Hereditary angioedema",
+    "genericCount": "5"
+  },
+  {
+    "id": "4014",
+    "name": "Hepatoprotective and antioxidant activity",
+    "genericCount": "1"
+  },
+  {
+    "id": "4137",
+    "name": "Hepatocellular Carcinoma",
+    "genericCount": "2"
+  },
+  {
+    "id": "3864",
+    "name": "Hepatits A",
+    "genericCount": "1"
+  },
+  {
+    "id": "3814",
+    "name": "Hepatitis C virus related thrombocytopenia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2640",
+    "name": "Hepatitis B virus",
+    "genericCount": "8"
+  },
+  {
+    "id": "2639",
+    "name": "Hepatitis A virus",
+    "genericCount": "4"
+  },
+  {
+    "id": "2638",
+    "name": "Hepatic transplant rejection",
+    "genericCount": "5"
+  },
+  {
+    "id": "3878",
+    "name": "Hepatic insufficiency",
+    "genericCount": "0"
+  },
+  {
+    "id": "2654",
+    "name": "Hodgkin’s disease",
+    "genericCount": "4"
+  },
+  {
+    "id": "3759",
+    "name": "HMG CoA reductase inhibitors",
+    "genericCount": "1"
+  },
+  {
+    "id": "2653",
+    "name": "Hives",
+    "genericCount": "6"
+  },
+  {
+    "id": "2608",
+    "name": "HIV-associated wasting or cachexia",
+    "genericCount": "0"
+  },
+  {
+    "id": "2607",
+    "name": "HIV-associated diarrhoea",
+    "genericCount": "1"
+  },
+  {
+    "id": "2606",
+    "name": "HIV infection",
+    "genericCount": "12"
+  },
+  {
+    "id": "2652",
+    "name": "Histoplasmosis",
+    "genericCount": "4"
+  },
+  {
+    "id": "4060",
+    "name": "Histiocytic lymphoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "2651",
+    "name": "Hirsutism",
+    "genericCount": "3"
+  },
+  {
+    "id": "2650",
+    "name": "High triglyceride",
+    "genericCount": "1"
+  },
+  {
+    "id": "3758",
+    "name": "High Cholesterol",
+    "genericCount": "9"
+  },
+  {
+    "id": "4018",
+    "name": "Hidradenitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2649",
+    "name": "Hiccups",
+    "genericCount": "6"
+  },
+  {
+    "id": "2648",
+    "name": "Herpes zoster ophthalmicus",
+    "genericCount": "2"
+  },
+  {
+    "id": "3910",
+    "name": "Herpes zoster keratitis",
+    "genericCount": "0"
+  },
+  {
+    "id": "2647",
+    "name": "Herpes zoster (shingles)",
+    "genericCount": "5"
+  },
+  {
+    "id": "2671",
+    "name": "Hypereosinophilic syndrome",
+    "genericCount": "4"
+  },
+  {
+    "id": "2670",
+    "name": "Hyperekplexia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2669",
+    "name": "Hypercholesterolaemia",
+    "genericCount": "11"
+  },
+  {
+    "id": "2668",
+    "name": "Hyperchlorhydria",
+    "genericCount": "1"
+  },
+  {
+    "id": "2667",
+    "name": "Hypercalcaemia of malignancy",
+    "genericCount": "2"
+  },
+  {
+    "id": "2666",
+    "name": "Hypercalcaemia",
+    "genericCount": "8"
+  },
+  {
+    "id": "2665",
+    "name": "Hyperaldosteronism",
+    "genericCount": "3"
+  },
+  {
+    "id": "2664",
+    "name": "Hyperactivity disorders",
+    "genericCount": "5"
+  },
+  {
+    "id": "2662",
+    "name": "Hyperacidity",
+    "genericCount": "12"
+  },
+  {
+    "id": "2663",
+    "name": "Hyperactivity",
+    "genericCount": "1"
+  },
+  {
+    "id": "2661",
+    "name": "Hydration",
+    "genericCount": "0"
+  },
+  {
+    "id": "2660",
+    "name": "Human Papillomavirus infection",
+    "genericCount": "3"
+  },
+  {
+    "id": "4165",
+    "name": "Household Exposure to Persons with Acute HBV Infection",
+    "genericCount": "1"
+  },
+  {
+    "id": "2659",
+    "name": "Hot flushes",
+    "genericCount": "7"
+  },
+  {
+    "id": "2658",
+    "name": "Hormone replacement therapy",
+    "genericCount": "5"
+  },
+  {
+    "id": "4013",
+    "name": "Hyperphosphataemia in patients with chronic renal failure",
+    "genericCount": "1"
+  },
+  {
+    "id": "2680",
+    "name": "Hyperphosphataemia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2679",
+    "name": "Hyperparathyroidism",
+    "genericCount": "2"
+  },
+  {
+    "id": "4191",
+    "name": "Hyperlipidemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2678",
+    "name": "Hyperlipidaemia",
+    "genericCount": "10"
+  },
+  {
+    "id": "2677",
+    "name": "Hyperkeratotic and scaling skin conditions",
+    "genericCount": "1"
+  },
+  {
+    "id": "2676",
+    "name": "Hyperkeratotic",
+    "genericCount": "1"
+  },
+  {
+    "id": "2675",
+    "name": "Hyperkeratosis",
+    "genericCount": "2"
+  },
+  {
+    "id": "4169",
+    "name": "Hyperkalemia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2674",
+    "name": "Hyperkalaemia",
+    "genericCount": "4"
+  },
+  {
+    "id": "2673",
+    "name": "Hyperhomocysteinemia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2672",
+    "name": "Hyperhidrosis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2657",
+    "name": "Hookworm infections",
+    "genericCount": "2"
+  },
+  {
+    "id": "2656",
+    "name": "Homozygous familial hypercholesterolemia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2655",
+    "name": "Hodgkin’s lymphoma",
+    "genericCount": "13"
+  },
+  {
+    "id": "2693",
+    "name": "Hypocalcaemia",
+    "genericCount": "6"
+  },
+  {
+    "id": "2692",
+    "name": "Hypoalbuminemia",
+    "genericCount": "0"
+  },
+  {
+    "id": "2691",
+    "name": "Hypnotic",
+    "genericCount": "1"
+  },
+  {
+    "id": "2690",
+    "name": "Hyperuricaemia",
+    "genericCount": "5"
+  },
+  {
+    "id": "2689",
+    "name": "Hypertrophic cardiomyopathy",
+    "genericCount": "4"
+  },
+  {
+    "id": "2688",
+    "name": "Hypertriglyceridaemia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2687",
+    "name": "Hyperthyroidism",
+    "genericCount": "4"
+  },
+  {
+    "id": "2686",
+    "name": "Hypertensive crisis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2684",
+    "name": "Hypersensitivity reactions",
+    "genericCount": "8"
+  },
+  {
+    "id": "2685",
+    "name": "Hypertension",
+    "genericCount": "65"
+  },
+  {
+    "id": "2683",
+    "name": "Hypersecretory conditions",
+    "genericCount": "4"
+  },
+  {
+    "id": "3778",
+    "name": "hyperpyrexia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2682",
+    "name": "Hyperprolactinemia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2681",
+    "name": "Hyperpigmentation",
+    "genericCount": "4"
+  },
+  {
+    "id": "2709",
+    "name": "Hypovolaemia and shock",
+    "genericCount": "1"
+  },
+  {
+    "id": "2708",
+    "name": "Hypothyroidism",
+    "genericCount": "3"
+  },
+  {
+    "id": "2707",
+    "name": "Hypotensive anaesthesia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2705",
+    "name": "Hypoprothrombinemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2706",
+    "name": "Hypotension",
+    "genericCount": "3"
+  },
+  {
+    "id": "2704",
+    "name": "Hypoproteinaemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2703",
+    "name": "Hypophosphataemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2702",
+    "name": "Hypoparathyroidism",
+    "genericCount": "7"
+  },
+  {
+    "id": "2701",
+    "name": "Hyponatraemia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2700",
+    "name": "Hypomagnesemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2699",
+    "name": "Hypokalaemia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2698",
+    "name": "Hypogonadotrophic hypogonadism",
+    "genericCount": "1"
+  },
+  {
+    "id": "2697",
+    "name": "Hypogonadism",
+    "genericCount": "4"
+  },
+  {
+    "id": "2696",
+    "name": "Hypoglycemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2695",
+    "name": "Hypodermoclysis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2694",
+    "name": "Hypocalcemic tetany",
+    "genericCount": "2"
+  },
+  {
+    "id": "3792",
+    "name": "Improves Cardiovascular health (Atherosclerosis, reduce cholesterol)",
+    "genericCount": "1"
+  },
+  {
+    "id": "2722",
+    "name": "Improve skin tone and texture",
+    "genericCount": "1"
+  },
+  {
+    "id": "3957",
+    "name": "Improve appetite and growth of children",
+    "genericCount": "1"
+  },
+  {
+    "id": "2721",
+    "name": "Impetigo and infected dermatitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2720",
+    "name": "Impetigo",
+    "genericCount": "6"
+  },
+  {
+    "id": "4208",
+    "name": "Impaired speech",
+    "genericCount": "1"
+  },
+  {
+    "id": "2719",
+    "name": "Immunodeficiency",
+    "genericCount": "4"
+  },
+  {
+    "id": "3763",
+    "name": "Immune system depression",
+    "genericCount": "1"
+  },
+  {
+    "id": "2718",
+    "name": "Imaging of the Gl tract",
+    "genericCount": "1"
+  },
+  {
+    "id": "2717",
+    "name": "Idiopathic thrombocytopenic purpura",
+    "genericCount": "4"
+  },
+  {
+    "id": "4149",
+    "name": "Idiopathic Pulmonary Fibrosis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2716",
+    "name": "Idiopathic parkinsonism",
+    "genericCount": "12"
+  },
+  {
+    "id": "2715",
+    "name": "Idiopathic intracranial hypertension",
+    "genericCount": "1"
+  },
+  {
+    "id": "3934",
+    "name": "Ideal for those with photodermatoses & reduced skin pigmentation",
+    "genericCount": "3"
+  },
+  {
+    "id": "2714",
+    "name": "Ichthyosis and dry skin conditions",
+    "genericCount": "3"
+  },
+  {
+    "id": "2727",
+    "name": "Increased demand for Calcium and Vitamin C",
+    "genericCount": "1"
+  },
+  {
+    "id": "3821",
+    "name": "Increase yield of autologous blood",
+    "genericCount": "1"
+  },
+  {
+    "id": "3859",
+    "name": "Increase platelet count in patients with idiopathic thrombocytopenic purpura",
+    "genericCount": "1"
+  },
+  {
+    "id": "4007",
+    "name": "Increase bone mass in men with osteoporosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "4049",
+    "name": "Including patients managed medically",
+    "genericCount": "1"
+  },
+  {
+    "id": "3986",
+    "name": "Incisions and other topical lesions",
+    "genericCount": "0"
+  },
+  {
+    "id": "4093",
+    "name": "In vitro fertilization procedures",
+    "genericCount": "0"
+  },
+  {
+    "id": "2725",
+    "name": "In vitro fertilization",
+    "genericCount": "2"
+  },
+  {
+    "id": "3940",
+    "name": "Improving the nutritional status of women throughout the pregnancy",
+    "genericCount": "3"
+  },
+  {
+    "id": "3941",
+    "name": "Improving the nutritional status of women prior to conception",
+    "genericCount": "1"
+  },
+  {
+    "id": "2723",
+    "name": "Improving recovery after stroke",
+    "genericCount": "1"
+  },
+  {
+    "id": "3785",
+    "name": "Improves recovery from central nervous system injuries",
+    "genericCount": "1"
+  },
+  {
+    "id": "2713",
+    "name": "Ichthyosis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2711",
+    "name": "Hypovolemia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2710",
+    "name": "Hypovolaemic shock",
+    "genericCount": "4"
+  },
+  {
+    "id": "2739",
+    "name": "Infections caused by Staphylococcus",
+    "genericCount": "2"
+  },
+  {
+    "id": "2738",
+    "name": "Infections",
+    "genericCount": "6"
+  },
+  {
+    "id": "2737",
+    "name": "Infected wounds & ulcers",
+    "genericCount": "3"
+  },
+  {
+    "id": "3984",
+    "name": "Infected traumatic lesions",
+    "genericCount": "1"
+  },
+  {
+    "id": "3980",
+    "name": "Infected surgical incisions",
+    "genericCount": "1"
+  },
+  {
+    "id": "2736",
+    "name": "Infected eczema",
+    "genericCount": "2"
+  },
+  {
+    "id": "3981",
+    "name": "Infected decubitus or stasis ulcers",
+    "genericCount": "1"
+  },
+  {
+    "id": "2735",
+    "name": "Infected burns",
+    "genericCount": "1"
+  },
+  {
+    "id": "2734",
+    "name": "Infected acne",
+    "genericCount": "2"
+  },
+  {
+    "id": "2733",
+    "name": "Infantile spasms",
+    "genericCount": "6"
+  },
+  {
+    "id": "2732",
+    "name": "Infantile eczema",
+    "genericCount": "0"
+  },
+  {
+    "id": "2731",
+    "name": "Infantile colic",
+    "genericCount": "2"
+  },
+  {
+    "id": "2730",
+    "name": "Induction of anesthesia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2729",
+    "name": "Induction and augmentation of labor",
+    "genericCount": "1"
+  },
+  {
+    "id": "3964",
+    "name": "Increases the carnitine which is responsible of energy production",
+    "genericCount": "1"
+  },
+  {
+    "id": "2728",
+    "name": "Indigestion",
+    "genericCount": "25"
+  },
+  {
+    "id": "3638",
+    "name": "Inflammatory diseases of Rhinopharyngeal tract",
+    "genericCount": "1"
+  },
+  {
+    "id": "2750",
+    "name": "Inflammatory conditions of the palpebral and bulbar conjunctiva",
+    "genericCount": "2"
+  },
+  {
+    "id": "2749",
+    "name": "Inflammatory bowel disease",
+    "genericCount": "7"
+  },
+  {
+    "id": "2748",
+    "name": "Inflammation of the external ear",
+    "genericCount": "3"
+  },
+  {
+    "id": "2747",
+    "name": "Inflammation of the cornea",
+    "genericCount": "8"
+  },
+  {
+    "id": "2746",
+    "name": "Inflammation",
+    "genericCount": "5"
+  },
+  {
+    "id": "2745",
+    "name": "Infiltration anesthesia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3829",
+    "name": "Infertility due to cervical hostility",
+    "genericCount": "1"
+  },
+  {
+    "id": "2744",
+    "name": "Infertility",
+    "genericCount": "12"
+  },
+  {
+    "id": "3780",
+    "name": "Infective otitis externa",
+    "genericCount": "0"
+  },
+  {
+    "id": "2743",
+    "name": "Infective endocarditis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2742",
+    "name": "Infectious disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "2740",
+    "name": "Infections of the lower respiratory tract",
+    "genericCount": "0"
+  },
+  {
+    "id": "4069",
+    "name": "Increases immunity",
+    "genericCount": "4"
+  },
+  {
+    "id": "2761",
+    "name": "Insect stings",
+    "genericCount": "2"
+  },
+  {
+    "id": "4199",
+    "name": "Insect repellent",
+    "genericCount": "1"
+  },
+  {
+    "id": "3684",
+    "name": "Insect bite and skin disease by secondary bacterial infection.",
+    "genericCount": "1"
+  },
+  {
+    "id": "2760",
+    "name": "Insect bites",
+    "genericCount": "11"
+  },
+  {
+    "id": "2759",
+    "name": "Inoperable metastatic breast cancer",
+    "genericCount": "1"
+  },
+  {
+    "id": "2758",
+    "name": "Injury of the pyramidal tract",
+    "genericCount": "1"
+  },
+  {
+    "id": "2757",
+    "name": "Injuries (traumatic shock)",
+    "genericCount": "1"
+  },
+  {
+    "id": "3977",
+    "name": "Ingrown toenails",
+    "genericCount": "1"
+  },
+  {
+    "id": "2756",
+    "name": "Influenza virus vaccine",
+    "genericCount": "2"
+  },
+  {
+    "id": "2755",
+    "name": "Influenza A and B",
+    "genericCount": "2"
+  },
+  {
+    "id": "2754",
+    "name": "Influenza",
+    "genericCount": "9"
+  },
+  {
+    "id": "2753",
+    "name": "Inflammatory skin disorders",
+    "genericCount": "1"
+  },
+  {
+    "id": "2752",
+    "name": "Inflammatory joint disease",
+    "genericCount": "0"
+  },
+  {
+    "id": "2751",
+    "name": "Inflammatory eye disorders",
+    "genericCount": "5"
+  },
+  {
+    "id": "2775",
+    "name": "Invasive aspergillosis",
+    "genericCount": "3"
+  },
+  {
+    "id": "3850",
+    "name": "Intravenous use in MRI to visualize lesions with abnormal vascularity in the brain, spine and associated tissues",
+    "genericCount": "2"
+  },
+  {
+    "id": "2773",
+    "name": "Intrauterine growth retardation",
+    "genericCount": "1"
+  },
+  {
+    "id": "2772",
+    "name": "Intrapartum prophylaxis against group B streptococcal infections",
+    "genericCount": "0"
+  },
+  {
+    "id": "2770",
+    "name": "Intra-abdominal infections",
+    "genericCount": "9"
+  },
+  {
+    "id": "4213",
+    "name": "Intimate hygiene wash",
+    "genericCount": "2"
+  },
+  {
+    "id": "2769",
+    "name": "Intestinal or oropharyngeal candidiasis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2768",
+    "name": "Intestinal hypermotility",
+    "genericCount": "1"
+  },
+  {
+    "id": "2767",
+    "name": "Intestinal candidiasis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2765",
+    "name": "Intestinal amoebiasis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3675",
+    "name": "Intertrigo",
+    "genericCount": "3"
+  },
+  {
+    "id": "3722",
+    "name": "Interstitial cystitis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2764",
+    "name": "Intermittent claudication",
+    "genericCount": "5"
+  },
+  {
+    "id": "2763",
+    "name": "Intermittent angioneurotic dysbasia",
+    "genericCount": "2"
+  },
+  {
+    "id": "3905",
+    "name": "Insomnia associated with anxiety",
+    "genericCount": "3"
+  },
+  {
+    "id": "2762",
+    "name": "Insomnia and sleep disturbances",
+    "genericCount": "24"
+  },
+  {
+    "id": "2781",
+    "name": "Iron, Folic Acid and zinc deficiency during pregnancy and lactation",
+    "genericCount": "5"
+  },
+  {
+    "id": "2788",
+    "name": "Iron supplement",
+    "genericCount": "3"
+  },
+  {
+    "id": "2787",
+    "name": "Iron poisoning",
+    "genericCount": "1"
+  },
+  {
+    "id": "2786",
+    "name": "Iron overload",
+    "genericCount": "2"
+  },
+  {
+    "id": "2785",
+    "name": "Iron deficiency during pregnancy and lactation",
+    "genericCount": "3"
+  },
+  {
+    "id": "2784",
+    "name": "Iron deficiency anemia",
+    "genericCount": "15"
+  },
+  {
+    "id": "2783",
+    "name": "Iron deficiency",
+    "genericCount": "10"
+  },
+  {
+    "id": "2782",
+    "name": "Iron and folic acid deficiency in pregnancy",
+    "genericCount": "1"
+  },
+  {
+    "id": "2780",
+    "name": "Iritis and iridocyclitis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2779",
+    "name": "Iritis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2778",
+    "name": "Iridocyclitis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2777",
+    "name": "Iodine deficiency disorders",
+    "genericCount": "0"
+  },
+  {
+    "id": "2776",
+    "name": "Iodine deficiency",
+    "genericCount": "0"
+  },
+  {
+    "id": "2800",
+    "name": "Itchy or watery eyes",
+    "genericCount": "3"
+  },
+  {
+    "id": "3836",
+    "name": "Itching and pain",
+    "genericCount": "2"
+  },
+  {
+    "id": "2799",
+    "name": "Itching",
+    "genericCount": "15"
+  },
+  {
+    "id": "3691",
+    "name": "Itchiness or irritation around the anus",
+    "genericCount": "1"
+  },
+  {
+    "id": "2798",
+    "name": "Ischemic stroke",
+    "genericCount": "5"
+  },
+  {
+    "id": "2797",
+    "name": "Ischaemic heart disease",
+    "genericCount": "16"
+  },
+  {
+    "id": "2796",
+    "name": "Ischaemic events",
+    "genericCount": "4"
+  },
+  {
+    "id": "2795",
+    "name": "Irritation and discomfort of the eye",
+    "genericCount": "1"
+  },
+  {
+    "id": "2794",
+    "name": "Irritable or spastic colon",
+    "genericCount": "1"
+  },
+  {
+    "id": "2793",
+    "name": "Irritable bowel syndrome and constipation",
+    "genericCount": "2"
+  },
+  {
+    "id": "2792",
+    "name": "Irritable bowel syndrome (IBS)",
+    "genericCount": "17"
+  },
+  {
+    "id": "2791",
+    "name": "Irritability in autism",
+    "genericCount": "1"
+  },
+  {
+    "id": "3732",
+    "name": "Irritability",
+    "genericCount": "2"
+  },
+  {
+    "id": "2790",
+    "name": "Irrigation solution",
+    "genericCount": "4"
+  },
+  {
+    "id": "2789",
+    "name": "Irrigation of the tear ducts",
+    "genericCount": "2"
+  },
+  {
+    "id": "3582",
+    "name": "Iron, Vitamin B and Zinc deficiencies",
+    "genericCount": "1"
+  },
+  {
+    "id": "3708",
+    "name": "Iron, Folic acid, Zinc, Vitamin B & Vitamin C deficiency during pregnancy and lactation",
+    "genericCount": "1"
+  },
+  {
+    "id": "2815",
+    "name": "Keratoconjunctivitis sicca",
+    "genericCount": "0"
+  },
+  {
+    "id": "2814",
+    "name": "Keratoconjunctivitis and recurrent epithelial keratitis due to herpes simplex viruses",
+    "genericCount": "1"
+  },
+  {
+    "id": "2813",
+    "name": "Keratoconjunctivitis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2812",
+    "name": "Keratitis disciformis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2811",
+    "name": "Keratitis",
+    "genericCount": "15"
+  },
+  {
+    "id": "2810",
+    "name": "Kawasaki disease and dermatomyositis sarcoidosis",
+    "genericCount": "5"
+  },
+  {
+    "id": "3860",
+    "name": "Kawasaki disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "2809",
+    "name": "Kaposi's sarcoma",
+    "genericCount": "3"
+  },
+  {
+    "id": "2808",
+    "name": "Juvenile rheumatoid arthritis",
+    "genericCount": "8"
+  },
+  {
+    "id": "2807",
+    "name": "Juvenile idiopathic arthritis",
+    "genericCount": "5"
+  },
+  {
+    "id": "2806",
+    "name": "Joint stiffness",
+    "genericCount": "15"
+  },
+  {
+    "id": "2805",
+    "name": "Joint pain",
+    "genericCount": "17"
+  },
+  {
+    "id": "2804",
+    "name": "Joint inflammations",
+    "genericCount": "4"
+  },
+  {
+    "id": "2803",
+    "name": "Joint and muscular pains",
+    "genericCount": "2"
+  },
+  {
+    "id": "2827",
+    "name": "Leg cramps",
+    "genericCount": "3"
+  },
+  {
+    "id": "2826",
+    "name": "Left ventricular dysfunction",
+    "genericCount": "1"
+  },
+  {
+    "id": "2825",
+    "name": "Latent tetany",
+    "genericCount": "3"
+  },
+  {
+    "id": "4083",
+    "name": "Lactose intolerance such as bloating, flatulence, diarrhea",
+    "genericCount": "1"
+  },
+  {
+    "id": "2824",
+    "name": "Lactation suppression",
+    "genericCount": "1"
+  },
+  {
+    "id": "2823",
+    "name": "Lactation",
+    "genericCount": "4"
+  },
+  {
+    "id": "2822",
+    "name": "Lacrimation",
+    "genericCount": "1"
+  },
+  {
+    "id": "2821",
+    "name": "Lacerations",
+    "genericCount": "0"
+  },
+  {
+    "id": "2820",
+    "name": "Labour induction",
+    "genericCount": "2"
+  },
+  {
+    "id": "3755",
+    "name": "Kidney stones and inflammatory bowel disease (e.g., ulcerative colitis, leaky gut syndrome)",
+    "genericCount": "1"
+  },
+  {
+    "id": "2818",
+    "name": "Kidney cancer",
+    "genericCount": "4"
+  },
+  {
+    "id": "2819",
+    "name": "Kidney disease",
+    "genericCount": "6"
+  },
+  {
+    "id": "2817",
+    "name": "Keratosis pilaris",
+    "genericCount": "3"
+  },
+  {
+    "id": "2816",
+    "name": "Keratosis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2802",
+    "name": "Jock itch",
+    "genericCount": "5"
+  },
+  {
+    "id": "2801",
+    "name": "Jaundice",
+    "genericCount": "5"
+  },
+  {
+    "id": "2839",
+    "name": "Liver cirrhosis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2838",
+    "name": "Listeriosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3749",
+    "name": "Limb spasticity",
+    "genericCount": "1"
+  },
+  {
+    "id": "2837",
+    "name": "Lichen simplex",
+    "genericCount": "3"
+  },
+  {
+    "id": "2836",
+    "name": "Lichen sclerosus",
+    "genericCount": "3"
+  },
+  {
+    "id": "2835",
+    "name": "Lichen planus",
+    "genericCount": "5"
+  },
+  {
+    "id": "3737",
+    "name": "Lichen",
+    "genericCount": "2"
+  },
+  {
+    "id": "2834",
+    "name": "Libido",
+    "genericCount": "5"
+  },
+  {
+    "id": "2833",
+    "name": "Leukemia",
+    "genericCount": "16"
+  },
+  {
+    "id": "4061",
+    "name": "Letterer-Siwe disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "2832",
+    "name": "Leprosy",
+    "genericCount": "2"
+  },
+  {
+    "id": "2831",
+    "name": "Lens opacification",
+    "genericCount": "1"
+  },
+  {
+    "id": "2830",
+    "name": "Leishmaniasis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2829",
+    "name": "Legionnaire’s disease",
+    "genericCount": "2"
+  },
+  {
+    "id": "3729",
+    "name": "Legionellosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "4037",
+    "name": "Lumbago sciatica",
+    "genericCount": "3"
+  },
+  {
+    "id": "2850",
+    "name": "Lubrication",
+    "genericCount": "5"
+  },
+  {
+    "id": "2849",
+    "name": "Lower urinary tract infections",
+    "genericCount": "7"
+  },
+  {
+    "id": "4152",
+    "name": "Lower the blood pressure",
+    "genericCount": "7"
+  },
+  {
+    "id": "2848",
+    "name": "Lower respiratory tract infections",
+    "genericCount": "7"
+  },
+  {
+    "id": "2847",
+    "name": "Low back pain",
+    "genericCount": "10"
+  },
+  {
+    "id": "2846",
+    "name": "Loiasis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2845",
+    "name": "Loeffler's syndrome",
+    "genericCount": "3"
+  },
+  {
+    "id": "2844",
+    "name": "Local pain relief",
+    "genericCount": "3"
+  },
+  {
+    "id": "2843",
+    "name": "Local or regional anesthesia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2842",
+    "name": "Local occular anaesthesia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2841",
+    "name": "Local anaesthesia",
+    "genericCount": "7"
+  },
+  {
+    "id": "2840",
+    "name": "Liver transplant",
+    "genericCount": "1"
+  },
+  {
+    "id": "3769",
+    "name": "Liver disease",
+    "genericCount": "4"
+  },
+  {
+    "id": "2828",
+    "name": "Leg ulcers and pressure sores",
+    "genericCount": "2"
+  },
+  {
+    "id": "4158",
+    "name": "Maintenance of normal sinus rhythm",
+    "genericCount": "0"
+  },
+  {
+    "id": "4070",
+    "name": "Maintain healthy skin, hair, nail, teeth, bone, eye and nervous system",
+    "genericCount": "2"
+  },
+  {
+    "id": "3966",
+    "name": "Maintain anesthesia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2861",
+    "name": "Magnesium sulfate overdose",
+    "genericCount": "1"
+  },
+  {
+    "id": "2860",
+    "name": "Macular Degeneration",
+    "genericCount": "3"
+  },
+  {
+    "id": "3922",
+    "name": "Lymphosarcoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "2859",
+    "name": "Macrocytic anaemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2857",
+    "name": "Lymphoma",
+    "genericCount": "18"
+  },
+  {
+    "id": "2856",
+    "name": "Lymphogranuloma venereum",
+    "genericCount": "1"
+  },
+  {
+    "id": "4062",
+    "name": "Lymphocytic lymphoma",
+    "genericCount": "5"
+  },
+  {
+    "id": "2855",
+    "name": "Lymphocytic leukemia",
+    "genericCount": "2"
+  },
+  {
+    "id": "2854",
+    "name": "Lymphatic filariasis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2853",
+    "name": "Lyme disease",
+    "genericCount": "7"
+  },
+  {
+    "id": "2852",
+    "name": "Lung cancer",
+    "genericCount": "11"
+  },
+  {
+    "id": "2851",
+    "name": "Lung abscess",
+    "genericCount": "5"
+  },
+  {
+    "id": "3884",
+    "name": "Malignant neoplasm",
+    "genericCount": "0"
+  },
+  {
+    "id": "2873",
+    "name": "Malignant melanoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "2872",
+    "name": "Malignant gliomas",
+    "genericCount": "1"
+  },
+  {
+    "id": "2871",
+    "name": "Malignant gastrointestinal stromal tumours",
+    "genericCount": "0"
+  },
+  {
+    "id": "2870",
+    "name": "Malignant effusions",
+    "genericCount": "1"
+  },
+  {
+    "id": "2869",
+    "name": "Malignancy",
+    "genericCount": "3"
+  },
+  {
+    "id": "2868",
+    "name": "Male pattern baldness",
+    "genericCount": "1"
+  },
+  {
+    "id": "2867",
+    "name": "Male infertility",
+    "genericCount": "3"
+  },
+  {
+    "id": "3856",
+    "name": "Male Hypogonadotropic Hypogonadism",
+    "genericCount": "2"
+  },
+  {
+    "id": "2866",
+    "name": "Male hypogonadism",
+    "genericCount": "1"
+  },
+  {
+    "id": "2865",
+    "name": "Malaria prophylaxis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2864",
+    "name": "Malaria",
+    "genericCount": "9"
+  },
+  {
+    "id": "2863",
+    "name": "Major trauma",
+    "genericCount": "1"
+  },
+  {
+    "id": "3630",
+    "name": "Major depressive disorder",
+    "genericCount": "12"
+  },
+  {
+    "id": "2862",
+    "name": "Major depression",
+    "genericCount": "1"
+  },
+  {
+    "id": "2883",
+    "name": "Meniere’s disease",
+    "genericCount": "5"
+  },
+  {
+    "id": "4207",
+    "name": "Memory deficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "2882",
+    "name": "Melioidosis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2881",
+    "name": "Melasma",
+    "genericCount": "4"
+  },
+  {
+    "id": "2880",
+    "name": "Melanoma",
+    "genericCount": "4"
+  },
+  {
+    "id": "2879",
+    "name": "Megaloblastic anaemia",
+    "genericCount": "4"
+  },
+  {
+    "id": "3865",
+    "name": "Measles attack in immunocompromised patients",
+    "genericCount": "1"
+  },
+  {
+    "id": "2878",
+    "name": "Measles",
+    "genericCount": "3"
+  },
+  {
+    "id": "4142",
+    "name": "mastoidectomy",
+    "genericCount": "1"
+  },
+  {
+    "id": "2877",
+    "name": "Mastocytosis",
+    "genericCount": "0"
+  },
+  {
+    "id": "2876",
+    "name": "Mastitis",
+    "genericCount": "0"
+  },
+  {
+    "id": "4138",
+    "name": "Mantle cell lymphoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "2875",
+    "name": "Mania",
+    "genericCount": "3"
+  },
+  {
+    "id": "3880",
+    "name": "Malnutrition",
+    "genericCount": "3"
+  },
+  {
+    "id": "4096",
+    "name": "Malnourished infants",
+    "genericCount": "1"
+  },
+  {
+    "id": "2874",
+    "name": "Malignant pleural mesothelioma",
+    "genericCount": "1"
+  },
+  {
+    "id": "2896",
+    "name": "Menorrhagia",
+    "genericCount": "7"
+  },
+  {
+    "id": "2895",
+    "name": "Menopausal symptoms",
+    "genericCount": "1"
+  },
+  {
+    "id": "2891",
+    "name": "Menopausal HRT",
+    "genericCount": "2"
+  },
+  {
+    "id": "2894",
+    "name": "Menopausal hormone replacement therapy",
+    "genericCount": "1"
+  },
+  {
+    "id": "2893",
+    "name": "Menopausal flushing",
+    "genericCount": "1"
+  },
+  {
+    "id": "2892",
+    "name": "Menopausal atrophic vaginitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2890",
+    "name": "Meningococcemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3939",
+    "name": "Meningococcal Pneumonia",
+    "genericCount": "0"
+  },
+  {
+    "id": "2889",
+    "name": "Meningococcal meningitis and septicaemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2888",
+    "name": "Meningococcal meningitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2887",
+    "name": "Meningococcal infection",
+    "genericCount": "3"
+  },
+  {
+    "id": "2886",
+    "name": "Meningitis and brain abscesses",
+    "genericCount": "1"
+  },
+  {
+    "id": "2885",
+    "name": "Meningitis",
+    "genericCount": "13"
+  },
+  {
+    "id": "2884",
+    "name": "Meningioma",
+    "genericCount": "1"
+  },
+  {
+    "id": "2909",
+    "name": "Migraine",
+    "genericCount": "16"
+  },
+  {
+    "id": "2908",
+    "name": "Middle ear infections (otitis media)",
+    "genericCount": "3"
+  },
+  {
+    "id": "3831",
+    "name": "Micturition complaints",
+    "genericCount": "1"
+  },
+  {
+    "id": "2907",
+    "name": "Microcytic anaemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3985",
+    "name": "Microbial contamination in burns",
+    "genericCount": "0"
+  },
+  {
+    "id": "2906",
+    "name": "Methotrexate toxicity",
+    "genericCount": "1"
+  },
+  {
+    "id": "2902",
+    "name": "Metastatic Testicular Tumors",
+    "genericCount": "1"
+  },
+  {
+    "id": "2905",
+    "name": "Metastatic prostate cancer",
+    "genericCount": "2"
+  },
+  {
+    "id": "2901",
+    "name": "Metastatic Ovarian Tumors",
+    "genericCount": "1"
+  },
+  {
+    "id": "4135",
+    "name": "Metastatic non-small cell lung cancer",
+    "genericCount": "5"
+  },
+  {
+    "id": "2904",
+    "name": "Metastatic melanoma",
+    "genericCount": "2"
+  },
+  {
+    "id": "2903",
+    "name": "Metastatic breast carcinoma",
+    "genericCount": "6"
+  },
+  {
+    "id": "2900",
+    "name": "Metabolic alkalosis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2898",
+    "name": "Menstrual disorders",
+    "genericCount": "4"
+  },
+  {
+    "id": "2897",
+    "name": "Menstrual cramps",
+    "genericCount": "2"
+  },
+  {
+    "id": "3667",
+    "name": "Minor dental procedures",
+    "genericCount": "1"
+  },
+  {
+    "id": "3988",
+    "name": "Minor cuts and wounds",
+    "genericCount": "1"
+  },
+  {
+    "id": "2918",
+    "name": "Minor cuts",
+    "genericCount": "4"
+  },
+  {
+    "id": "2917",
+    "name": "Minor burns",
+    "genericCount": "3"
+  },
+  {
+    "id": "2916",
+    "name": "Mineral supplement",
+    "genericCount": "1"
+  },
+  {
+    "id": "2915",
+    "name": "Mild to moderate pain and fever",
+    "genericCount": "1"
+  },
+  {
+    "id": "2914",
+    "name": "Mild to moderate pain",
+    "genericCount": "5"
+  },
+  {
+    "id": "3647",
+    "name": "Mild to moderate hypertension",
+    "genericCount": "2"
+  },
+  {
+    "id": "3337",
+    "name": "Mild to moderate dementia in Alzheimer’s disease",
+    "genericCount": "2"
+  },
+  {
+    "id": "2913",
+    "name": "Mild diarrhea",
+    "genericCount": "6"
+  },
+  {
+    "id": "2912",
+    "name": "Mild cystitis and spasmodic dysmenorrhoea",
+    "genericCount": "1"
+  },
+  {
+    "id": "4214",
+    "name": "Migraines",
+    "genericCount": "1"
+  },
+  {
+    "id": "2911",
+    "name": "Migraine prophylaxis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3635",
+    "name": "Migraine headache",
+    "genericCount": "2"
+  },
+  {
+    "id": "2910",
+    "name": "Migraine and bipolar disorder",
+    "genericCount": "1"
+  },
+  {
+    "id": "2928",
+    "name": "Mucocutaneous herpes",
+    "genericCount": "1"
+  },
+  {
+    "id": "4041",
+    "name": "Movement disorders",
+    "genericCount": "1"
+  },
+  {
+    "id": "2927",
+    "name": "Mouth ulcers",
+    "genericCount": "3"
+  },
+  {
+    "id": "2926",
+    "name": "Mouth sore",
+    "genericCount": "1"
+  },
+  {
+    "id": "2925",
+    "name": "Mottled hyperpigmentation",
+    "genericCount": "1"
+  },
+  {
+    "id": "2924",
+    "name": "Motion sickness",
+    "genericCount": "11"
+  },
+  {
+    "id": "3826",
+    "name": "Moderate to severe vasomotor symptoms associated with menopause",
+    "genericCount": "3"
+  },
+  {
+    "id": "4042",
+    "name": "Moderate to severe tardive dyskinesia",
+    "genericCount": "1"
+  },
+  {
+    "id": "4084",
+    "name": "Moderate to severe symptoms of uterine fibroids",
+    "genericCount": "2"
+  },
+  {
+    "id": "2923",
+    "name": "Moderate to severe pain",
+    "genericCount": "8"
+  },
+  {
+    "id": "2858",
+    "name": "Ml",
+    "genericCount": "1"
+  },
+  {
+    "id": "2922",
+    "name": "Missed abortion",
+    "genericCount": "2"
+  },
+  {
+    "id": "2921",
+    "name": "Miscarriage",
+    "genericCount": "1"
+  },
+  {
+    "id": "2920",
+    "name": "Miosis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2919",
+    "name": "Minor skin infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "2940",
+    "name": "Musculoskeletal joint pain",
+    "genericCount": "2"
+  },
+  {
+    "id": "2939",
+    "name": "Musculoskeletal and joint disorders",
+    "genericCount": "4"
+  },
+  {
+    "id": "2938",
+    "name": "Muscular hypertension",
+    "genericCount": "1"
+  },
+  {
+    "id": "3703",
+    "name": "Muscular cramps.",
+    "genericCount": "2"
+  },
+  {
+    "id": "2937",
+    "name": "Muscle spasm",
+    "genericCount": "7"
+  },
+  {
+    "id": "2936",
+    "name": "Muscle relaxant in general anesthesia",
+    "genericCount": "2"
+  },
+  {
+    "id": "3969",
+    "name": "Muscle relaxant in general anaesthesia",
+    "genericCount": "3"
+  },
+  {
+    "id": "2935",
+    "name": "Muscle relaxant",
+    "genericCount": "2"
+  },
+  {
+    "id": "3770",
+    "name": "Muscle pain caused by spinal cord injury",
+    "genericCount": "1"
+  },
+  {
+    "id": "2934",
+    "name": "Muscle aches",
+    "genericCount": "7"
+  },
+  {
+    "id": "2932",
+    "name": "Multiple sclerosis",
+    "genericCount": "6"
+  },
+  {
+    "id": "2931",
+    "name": "Multiple myeloma",
+    "genericCount": "5"
+  },
+  {
+    "id": "2930",
+    "name": "Multiple drug resistant pneumonia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2929",
+    "name": "Mucosal candidiasis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3686",
+    "name": "Mucolytic",
+    "genericCount": "1"
+  },
+  {
+    "id": "2957",
+    "name": "Narcolepsy",
+    "genericCount": "3"
+  },
+  {
+    "id": "2956",
+    "name": "Nappy rash",
+    "genericCount": "4"
+  },
+  {
+    "id": "2955",
+    "name": "Nail infections",
+    "genericCount": "2"
+  },
+  {
+    "id": "2954",
+    "name": "Nail fungal infections",
+    "genericCount": "4"
+  },
+  {
+    "id": "2952",
+    "name": "Myxoedema coma",
+    "genericCount": "1"
+  },
+  {
+    "id": "3951",
+    "name": "Myositis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2950",
+    "name": "Myocardial infarction",
+    "genericCount": "26"
+  },
+  {
+    "id": "2949",
+    "name": "Myeloproliferative disorders",
+    "genericCount": "1"
+  },
+  {
+    "id": "4180",
+    "name": "Myelofibrosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2947",
+    "name": "Myelodysplastic disease",
+    "genericCount": "0"
+  },
+  {
+    "id": "2946",
+    "name": "Mydriasis and cycloplegia for refraction",
+    "genericCount": "1"
+  },
+  {
+    "id": "2945",
+    "name": "Mydriasis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2944",
+    "name": "Mycosis fungoides",
+    "genericCount": "3"
+  },
+  {
+    "id": "2943",
+    "name": "Mycoplasma pneumoniae",
+    "genericCount": "1"
+  },
+  {
+    "id": "2942",
+    "name": "Myasthenia gravis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2941",
+    "name": "Musculoskeletal pain",
+    "genericCount": "6"
+  },
+  {
+    "id": "2967",
+    "name": "Neovascular age-related macular degeneration",
+    "genericCount": "1"
+  },
+  {
+    "id": "2966",
+    "name": "Neonatal sepsis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3632",
+    "name": "Neonatal hyperbilirubinaemia",
+    "genericCount": "0"
+  },
+  {
+    "id": "2965",
+    "name": "Neonatal Conjunctivitis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2964",
+    "name": "Negative nitrogen balance",
+    "genericCount": "2"
+  },
+  {
+    "id": "3924",
+    "name": "Neck pain",
+    "genericCount": "2"
+  },
+  {
+    "id": "3961",
+    "name": "Necessary for the normal process in protein",
+    "genericCount": "1"
+  },
+  {
+    "id": "2963",
+    "name": "Nausea and vomiting associated with chemotherapy or radiotherapy",
+    "genericCount": "4"
+  },
+  {
+    "id": "3656",
+    "name": "Nausea and vomiting after surgery",
+    "genericCount": "2"
+  },
+  {
+    "id": "2962",
+    "name": "Nausea and vomiting",
+    "genericCount": "26"
+  },
+  {
+    "id": "2961",
+    "name": "Nausea",
+    "genericCount": "16"
+  },
+  {
+    "id": "2960",
+    "name": "Nasal polyps",
+    "genericCount": "4"
+  },
+  {
+    "id": "2959",
+    "name": "Nasal polyposis",
+    "genericCount": "4"
+  },
+  {
+    "id": "2958",
+    "name": "Nasal congestion",
+    "genericCount": "7"
+  },
+  {
+    "id": "3623",
+    "name": "Neutropenia after cytotoxic chemotherapy",
+    "genericCount": "2"
+  },
+  {
+    "id": "2980",
+    "name": "Neurosyphilis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2981",
+    "name": "Neutropenia",
+    "genericCount": "7"
+  },
+  {
+    "id": "2979",
+    "name": "Neuropathy",
+    "genericCount": "5"
+  },
+  {
+    "id": "2978",
+    "name": "Neuropathic pain",
+    "genericCount": "3"
+  },
+  {
+    "id": "2977",
+    "name": "Neurological disorders",
+    "genericCount": "1"
+  },
+  {
+    "id": "3965",
+    "name": "Neurogenic bladder disorders",
+    "genericCount": "1"
+  },
+  {
+    "id": "2976",
+    "name": "Neuroendocrine tumors",
+    "genericCount": "2"
+  },
+  {
+    "id": "2975",
+    "name": "Neurodermatitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2974",
+    "name": "Neurocysticercosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2973",
+    "name": "Neuroblastoma",
+    "genericCount": "4"
+  },
+  {
+    "id": "2972",
+    "name": "Neuritis of pregnancy",
+    "genericCount": "2"
+  },
+  {
+    "id": "2971",
+    "name": "Neuralgia",
+    "genericCount": "6"
+  },
+  {
+    "id": "2970",
+    "name": "Neural tube defect",
+    "genericCount": "1"
+  },
+  {
+    "id": "2969",
+    "name": "Nephrotic syndrome",
+    "genericCount": "8"
+  },
+  {
+    "id": "2968",
+    "name": "Nephrosis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2988",
+    "name": "Non-Hodgkin lymphoma",
+    "genericCount": "16"
+  },
+  {
+    "id": "2989",
+    "name": "Non-gonococcal urethritis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3808",
+    "name": "Non-dialysis dependent-chronic kidney disease (NDD-CKD) patients receiving an erythropoietin",
+    "genericCount": "1"
+  },
+  {
+    "id": "3809",
+    "name": "Non-dialysis dependent-chronic kidney disease (NDD-CKD) patients not receiving an erythropoietin",
+    "genericCount": "1"
+  },
+  {
+    "id": "4174",
+    "name": "Non-alcoholic steatohepatitis (NASH)",
+    "genericCount": "1"
+  },
+  {
+    "id": "4173",
+    "name": "Non-alcoholic fatty liver disease (NAFLD)",
+    "genericCount": "1"
+  },
+  {
+    "id": "2987",
+    "name": "Non ulcer dyspepsia",
+    "genericCount": "7"
+  },
+  {
+    "id": "3846",
+    "name": "Non ST segment elevation Myocardial Infarction",
+    "genericCount": "2"
+  },
+  {
+    "id": "3741",
+    "name": "Nocturnal myoclonus",
+    "genericCount": "0"
+  },
+  {
+    "id": "2986",
+    "name": "Nocturnal leg cramps",
+    "genericCount": "2"
+  },
+  {
+    "id": "2985",
+    "name": "Nocturnal enuresis",
+    "genericCount": "6"
+  },
+  {
+    "id": "2984",
+    "name": "Nocturia",
+    "genericCount": "1"
+  },
+  {
+    "id": "2983",
+    "name": "Night blindness",
+    "genericCount": "2"
+  },
+  {
+    "id": "2982",
+    "name": "Nicotinic acid deficiency",
+    "genericCount": "0"
+  },
+  {
+    "id": "3000",
+    "name": "Obliterative arteriosclerosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "4206",
+    "name": "Obliquity of male organ.",
+    "genericCount": "1"
+  },
+  {
+    "id": "3645",
+    "name": "Obesity",
+    "genericCount": "10"
+  },
+  {
+    "id": "2999",
+    "name": "Nutritional therapy",
+    "genericCount": "1"
+  },
+  {
+    "id": "3693",
+    "name": "Nutritional supplement of osteoporosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "2998",
+    "name": "Nutritional supplement",
+    "genericCount": "22"
+  },
+  {
+    "id": "2997",
+    "name": "Nutrition",
+    "genericCount": "0"
+  },
+  {
+    "id": "2953",
+    "name": "NSAID-induced ulcers",
+    "genericCount": "5"
+  },
+  {
+    "id": "2996",
+    "name": "Nosocomial pneumonia",
+    "genericCount": "7"
+  },
+  {
+    "id": "2995",
+    "name": "Nonspecific conjunctival irritation",
+    "genericCount": "1"
+  },
+  {
+    "id": "3532",
+    "name": "Nonproductive coughs",
+    "genericCount": "2"
+  },
+  {
+    "id": "2994",
+    "name": "Nonketotic hyperosmolar coma",
+    "genericCount": "5"
+  },
+  {
+    "id": "2993",
+    "name": "Nongonococcal cervicitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "3662",
+    "name": "Nonallergic rhinitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "2992",
+    "name": "Non-tubercular mycobacterial infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "3996",
+    "name": "Non-ST-elevation myocardial infarction (NSTEMI)",
+    "genericCount": "2"
+  },
+  {
+    "id": "3010",
+    "name": "Oedema",
+    "genericCount": "14"
+  },
+  {
+    "id": "4111",
+    "name": "Ocular pain and inflammation",
+    "genericCount": "6"
+  },
+  {
+    "id": "3009",
+    "name": "Ocular pain",
+    "genericCount": "5"
+  },
+  {
+    "id": "3008",
+    "name": "Ocular inflammation",
+    "genericCount": "19"
+  },
+  {
+    "id": "4110",
+    "name": "Ocular infections",
+    "genericCount": "16"
+  },
+  {
+    "id": "3007",
+    "name": "Ocular hypertension",
+    "genericCount": "16"
+  },
+  {
+    "id": "3006",
+    "name": "Ocular and ear inflammation with bacterial infection",
+    "genericCount": "5"
+  },
+  {
+    "id": "3005",
+    "name": "Occular pain and inflammation",
+    "genericCount": "1"
+  },
+  {
+    "id": "4130",
+    "name": "Obstructive sleep apnea (OSA)",
+    "genericCount": "2"
+  },
+  {
+    "id": "3003",
+    "name": "Obstetric analgesia",
+    "genericCount": "10"
+  },
+  {
+    "id": "3002",
+    "name": "Obsessive-compulsive disorder (OCD)",
+    "genericCount": "11"
+  },
+  {
+    "id": "3001",
+    "name": "Obliterative thromboangitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "2991",
+    "name": "Non-small cell lung cancer",
+    "genericCount": "14"
+  },
+  {
+    "id": "2990",
+    "name": "Non-productive cough",
+    "genericCount": "4"
+  },
+  {
+    "id": "3024",
+    "name": "Oral candidiasis or thrush",
+    "genericCount": "2"
+  },
+  {
+    "id": "3023",
+    "name": "Optic neuritis",
+    "genericCount": "6"
+  },
+  {
+    "id": "3021",
+    "name": "Opioid overdosage",
+    "genericCount": "2"
+  },
+  {
+    "id": "3022",
+    "name": "Opioid induced depression",
+    "genericCount": "1"
+  },
+  {
+    "id": "3020",
+    "name": "Opioid dependence",
+    "genericCount": "2"
+  },
+  {
+    "id": "3019",
+    "name": "Ophthalmic surgery",
+    "genericCount": "1"
+  },
+  {
+    "id": "3017",
+    "name": "Open heart surgery",
+    "genericCount": "2"
+  },
+  {
+    "id": "3018",
+    "name": "Open angle glaucoma",
+    "genericCount": "18"
+  },
+  {
+    "id": "3016",
+    "name": "Onychomycosis",
+    "genericCount": "8"
+  },
+  {
+    "id": "3015",
+    "name": "Onchocerciasis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3014",
+    "name": "Oliguric phase of renal failure",
+    "genericCount": "0"
+  },
+  {
+    "id": "3013",
+    "name": "Oestrogen deficiency",
+    "genericCount": "3"
+  },
+  {
+    "id": "3012",
+    "name": "Oesophagitis",
+    "genericCount": "9"
+  },
+  {
+    "id": "3886",
+    "name": "Oesophageal carcinoma",
+    "genericCount": "0"
+  },
+  {
+    "id": "3011",
+    "name": "Oesophageal cancer",
+    "genericCount": "6"
+  },
+  {
+    "id": "3039",
+    "name": "Osteopetrosis or stone bone",
+    "genericCount": "4"
+  },
+  {
+    "id": "3038",
+    "name": "Osteomyelitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3037",
+    "name": "Osteomalacia",
+    "genericCount": "8"
+  },
+  {
+    "id": "3036",
+    "name": "Osteogenic sarcoma",
+    "genericCount": "5"
+  },
+  {
+    "id": "3035",
+    "name": "Osteocalcaemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3033",
+    "name": "Osteoarthritis (degenerative arthritis)",
+    "genericCount": "44"
+  },
+  {
+    "id": "3032",
+    "name": "Osmotic purgative",
+    "genericCount": "2"
+  },
+  {
+    "id": "3031",
+    "name": "Osmotic laxative",
+    "genericCount": "4"
+  },
+  {
+    "id": "3030",
+    "name": "Orthopedics Surgery",
+    "genericCount": "0"
+  },
+  {
+    "id": "3029",
+    "name": "Oropharyngeal candidiasis/Thrush",
+    "genericCount": "0"
+  },
+  {
+    "id": "3028",
+    "name": "Organophosphorous poisoning",
+    "genericCount": "2"
+  },
+  {
+    "id": "3844",
+    "name": "Organic brain syndrome (OBS)",
+    "genericCount": "1"
+  },
+  {
+    "id": "3027",
+    "name": "Organ transplantation",
+    "genericCount": "6"
+  },
+  {
+    "id": "3026",
+    "name": "Oral hygiene",
+    "genericCount": "4"
+  },
+  {
+    "id": "3025",
+    "name": "Oral contraceptives",
+    "genericCount": "18"
+  },
+  {
+    "id": "3055",
+    "name": "Pain and inflammation",
+    "genericCount": "15"
+  },
+  {
+    "id": "3054",
+    "name": "Pain and fever",
+    "genericCount": "7"
+  },
+  {
+    "id": "3053",
+    "name": "Pain",
+    "genericCount": "50"
+  },
+  {
+    "id": "3052",
+    "name": "Paget’s disease of bone",
+    "genericCount": "7"
+  },
+  {
+    "id": "3051",
+    "name": "Ovulation induction",
+    "genericCount": "7"
+  },
+  {
+    "id": "3050",
+    "name": "Overactive bladder",
+    "genericCount": "7"
+  },
+  {
+    "id": "3049",
+    "name": "Over-anticoagulation",
+    "genericCount": "1"
+  },
+  {
+    "id": "3045",
+    "name": "Ovarian hyperstimulation syndrome",
+    "genericCount": "2"
+  },
+  {
+    "id": "3047",
+    "name": "Ovarian failure",
+    "genericCount": "2"
+  },
+  {
+    "id": "3046",
+    "name": "Ovarian cancer",
+    "genericCount": "12"
+  },
+  {
+    "id": "3044",
+    "name": "Otitis media",
+    "genericCount": "18"
+  },
+  {
+    "id": "3043",
+    "name": "Otitis externa",
+    "genericCount": "11"
+  },
+  {
+    "id": "3042",
+    "name": "Otic inflammation",
+    "genericCount": "3"
+  },
+  {
+    "id": "3040",
+    "name": "Osteoporosis",
+    "genericCount": "25"
+  },
+  {
+    "id": "3041",
+    "name": "Otic infections",
+    "genericCount": "8"
+  },
+  {
+    "id": "3068",
+    "name": "Panic disorder",
+    "genericCount": "9"
+  },
+  {
+    "id": "3067",
+    "name": "Panic attack",
+    "genericCount": "9"
+  },
+  {
+    "id": "3066",
+    "name": "Pancreatitis",
+    "genericCount": "8"
+  },
+  {
+    "id": "3065",
+    "name": "Pancreatic insufficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "3064",
+    "name": "Pancreatic cancer",
+    "genericCount": "4"
+  },
+  {
+    "id": "3913",
+    "name": "Palliative treatment of prostatic carcinoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "3914",
+    "name": "Palliative treatment of endometrial and renal carcinoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "3063",
+    "name": "Painful muscle spasm",
+    "genericCount": "4"
+  },
+  {
+    "id": "3062",
+    "name": "Painful bladder syndrome",
+    "genericCount": "4"
+  },
+  {
+    "id": "3061",
+    "name": "Pain or swelling of the cornea",
+    "genericCount": "2"
+  },
+  {
+    "id": "3060",
+    "name": "Pain or irritation of the mouth and throat",
+    "genericCount": "1"
+  },
+  {
+    "id": "3059",
+    "name": "Pain associated with myocardial infarction",
+    "genericCount": "2"
+  },
+  {
+    "id": "3058",
+    "name": "Pain and joint stiffness",
+    "genericCount": "8"
+  },
+  {
+    "id": "3057",
+    "name": "Pain and itching caused by sunburn",
+    "genericCount": "6"
+  },
+  {
+    "id": "3056",
+    "name": "Pain and inflammation associated with musculoskeletal and joint disorders",
+    "genericCount": "6"
+  },
+  {
+    "id": "4040",
+    "name": "Passive immunisation against tetanus",
+    "genericCount": "2"
+  },
+  {
+    "id": "3081",
+    "name": "Partial seizures",
+    "genericCount": "13"
+  },
+  {
+    "id": "3080",
+    "name": "Paroxysmal supraventricular tachycardia",
+    "genericCount": "2"
+  },
+  {
+    "id": "4020",
+    "name": "Paronychia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3079",
+    "name": "Parkinsonism",
+    "genericCount": "6"
+  },
+  {
+    "id": "3078",
+    "name": "Parkinson’s disease",
+    "genericCount": "12"
+  },
+  {
+    "id": "3075",
+    "name": "Parenteral nutrition & hydration",
+    "genericCount": "0"
+  },
+  {
+    "id": "3077",
+    "name": "Parenteral nutrition",
+    "genericCount": "8"
+  },
+  {
+    "id": "3076",
+    "name": "Parenteral fat emulsions",
+    "genericCount": "1"
+  },
+  {
+    "id": "3074",
+    "name": "Paratyphoid fever",
+    "genericCount": "5"
+  },
+  {
+    "id": "3073",
+    "name": "Parathyroid carcinoma",
+    "genericCount": "3"
+  },
+  {
+    "id": "3072",
+    "name": "Parasomnia",
+    "genericCount": "2"
+  },
+  {
+    "id": "3071",
+    "name": "Paralytic ileus and post-operative urinary retention",
+    "genericCount": "3"
+  },
+  {
+    "id": "3070",
+    "name": "Paralytic ileus",
+    "genericCount": "3"
+  },
+  {
+    "id": "3069",
+    "name": "Paracetamol poisoning",
+    "genericCount": "1"
+  },
+  {
+    "id": "4178",
+    "name": "Papillitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "4176",
+    "name": "Perianitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3089",
+    "name": "Perennial or seasonal allergic rhinitis",
+    "genericCount": "18"
+  },
+  {
+    "id": "3091",
+    "name": "Perianal pain and itching",
+    "genericCount": "3"
+  },
+  {
+    "id": "3903",
+    "name": "Percutaneous transluminal coronary angioplasty (PTCA)",
+    "genericCount": "0"
+  },
+  {
+    "id": "3820",
+    "name": "Percutaneous coronary intervention (PCI)",
+    "genericCount": "1"
+  },
+  {
+    "id": "3088",
+    "name": "Peptic ulcer disease",
+    "genericCount": "20"
+  },
+  {
+    "id": "3654",
+    "name": "Pelvic Inflammatory Disease (PID)",
+    "genericCount": "7"
+  },
+  {
+    "id": "3086",
+    "name": "Pelvic cellulitis",
+    "genericCount": "4"
+  },
+  {
+    "id": "3085",
+    "name": "Pediculosis pubis",
+    "genericCount": "3"
+  },
+  {
+    "id": "3084",
+    "name": "Pediculosis capitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "3083",
+    "name": "Pediatric eye examinations",
+    "genericCount": "0"
+  },
+  {
+    "id": "3843",
+    "name": "Patients with Acute Myeloid Leukemia receiving induction or consolidation chemotherapy",
+    "genericCount": "1"
+  },
+  {
+    "id": "3082",
+    "name": "Patent ductus arteriosus",
+    "genericCount": "2"
+  },
+  {
+    "id": "4051",
+    "name": "Passive immunity in the prevention & treatment of tetanus",
+    "genericCount": "1"
+  },
+  {
+    "id": "3102",
+    "name": "Peritonitis",
+    "genericCount": "9"
+  },
+  {
+    "id": "3811",
+    "name": "Peritoneal dialysis dependent-chronic kidney disease (PDD-CKD) patients receiving an erythropoietin",
+    "genericCount": "1"
+  },
+  {
+    "id": "3101",
+    "name": "Peritoneal dialysis",
+    "genericCount": "1"
+  },
+  {
+    "id": "4157",
+    "name": "Peripheral venography",
+    "genericCount": "1"
+  },
+  {
+    "id": "3100",
+    "name": "Peripheral vascular disease",
+    "genericCount": "6"
+  },
+  {
+    "id": "3099",
+    "name": "Peripheral neuropathy",
+    "genericCount": "6"
+  },
+  {
+    "id": "3702",
+    "name": "Peripheral neuritis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3098",
+    "name": "Peripheral neuralgias: Diabetic neuropathy",
+    "genericCount": "12"
+  },
+  {
+    "id": "3097",
+    "name": "Peripheral nerve block",
+    "genericCount": "3"
+  },
+  {
+    "id": "3841",
+    "name": "Peripheral blood progenitor cell collection and therapy",
+    "genericCount": "1"
+  },
+  {
+    "id": "3096",
+    "name": "Peripheral arterial embolism",
+    "genericCount": "1"
+  },
+  {
+    "id": "3094",
+    "name": "Periods of rapid growth childhood",
+    "genericCount": "1"
+  },
+  {
+    "id": "3093",
+    "name": "Periodontitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3765",
+    "name": "Periodontal Disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "4163",
+    "name": "Perinatal Exposure of Infants Born to HBsAg-positive Mothers",
+    "genericCount": "1"
+  },
+  {
+    "id": "3092",
+    "name": "Pericarditis",
+    "genericCount": "4"
+  },
+  {
+    "id": "3115",
+    "name": "Pityriasis versicolor",
+    "genericCount": "9"
+  },
+  {
+    "id": "3114",
+    "name": "Pityriasis rubra pilaris",
+    "genericCount": "4"
+  },
+  {
+    "id": "3113",
+    "name": "Pituitary adenomas",
+    "genericCount": "1"
+  },
+  {
+    "id": "3112",
+    "name": "Pink eye",
+    "genericCount": "1"
+  },
+  {
+    "id": "3795",
+    "name": "pimples and other signs of aging",
+    "genericCount": "4"
+  },
+  {
+    "id": "3111",
+    "name": "Piles",
+    "genericCount": "12"
+  },
+  {
+    "id": "3738",
+    "name": "Photodermatitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3110",
+    "name": "Photoaging",
+    "genericCount": "1"
+  },
+  {
+    "id": "3109",
+    "name": "Phobias",
+    "genericCount": "8"
+  },
+  {
+    "id": "3107",
+    "name": "Pharyngitis and tonsillitis",
+    "genericCount": "5"
+  },
+  {
+    "id": "3106",
+    "name": "Pharyngitis",
+    "genericCount": "16"
+  },
+  {
+    "id": "3105",
+    "name": "Phaeochromocytoma",
+    "genericCount": "2"
+  },
+  {
+    "id": "3104",
+    "name": "Pertussis",
+    "genericCount": "0"
+  },
+  {
+    "id": "3103",
+    "name": "Pernicious anemia",
+    "genericCount": "2"
+  },
+  {
+    "id": "3132",
+    "name": "Polycystic ovarian syndrome",
+    "genericCount": "4"
+  },
+  {
+    "id": "3130",
+    "name": "Poisonings",
+    "genericCount": "1"
+  },
+  {
+    "id": "3627",
+    "name": "Poisoning due to foods, heavy meals & drugs",
+    "genericCount": "1"
+  },
+  {
+    "id": "3129",
+    "name": "Poison sumac",
+    "genericCount": "1"
+  },
+  {
+    "id": "3128",
+    "name": "Poison oak",
+    "genericCount": "1"
+  },
+  {
+    "id": "3127",
+    "name": "Poison ivy",
+    "genericCount": "2"
+  },
+  {
+    "id": "3126",
+    "name": "Pneumonia",
+    "genericCount": "33"
+  },
+  {
+    "id": "3125",
+    "name": "Pneumocystis jiroveci pneumonia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3124",
+    "name": "Pneumococcus species gonorrhoea",
+    "genericCount": "1"
+  },
+  {
+    "id": "3123",
+    "name": "Pneumococcal pneumonia",
+    "genericCount": "3"
+  },
+  {
+    "id": "3122",
+    "name": "Pneumococcal meningitis",
+    "genericCount": "4"
+  },
+  {
+    "id": "3121",
+    "name": "Pneumococcal disease",
+    "genericCount": "0"
+  },
+  {
+    "id": "3120",
+    "name": "Pleural empyema",
+    "genericCount": "1"
+  },
+  {
+    "id": "3119",
+    "name": "Pleural effusions",
+    "genericCount": "3"
+  },
+  {
+    "id": "3118",
+    "name": "Plaque psoriasis",
+    "genericCount": "7"
+  },
+  {
+    "id": "3117",
+    "name": "Plaque",
+    "genericCount": "4"
+  },
+  {
+    "id": "3141",
+    "name": "Post-herpetic neuralgia",
+    "genericCount": "5"
+  },
+  {
+    "id": "3140",
+    "name": "Post-herpetic keratitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3742",
+    "name": "Post traumatic stress disorder (PTSD)",
+    "genericCount": "2"
+  },
+  {
+    "id": "4182",
+    "name": "Post polycythaemia vera myelofibrosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3724",
+    "name": "Post operative inflammation in the eye and ear",
+    "genericCount": "2"
+  },
+  {
+    "id": "3139",
+    "name": "Post myocardial infarction",
+    "genericCount": "3"
+  },
+  {
+    "id": "3138",
+    "name": "Post inflammatory hyperpigmentation",
+    "genericCount": "1"
+  },
+  {
+    "id": "4183",
+    "name": "Post essential thrombocythaemia myelofibrosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3137",
+    "name": "Porphyria cutanea tarda",
+    "genericCount": "2"
+  },
+  {
+    "id": "3136",
+    "name": "Porphyria",
+    "genericCount": "3"
+  },
+  {
+    "id": "3135",
+    "name": "Polymyositis",
+    "genericCount": "7"
+  },
+  {
+    "id": "3134",
+    "name": "Polymorphic light eruption",
+    "genericCount": "1"
+  },
+  {
+    "id": "3133",
+    "name": "Polycythaemia vera",
+    "genericCount": "4"
+  },
+  {
+    "id": "3116",
+    "name": "Plague",
+    "genericCount": "1"
+  },
+  {
+    "id": "3917",
+    "name": "Postoperative pain",
+    "genericCount": "4"
+  },
+  {
+    "id": "3153",
+    "name": "Postoperative ocular inflammation",
+    "genericCount": "2"
+  },
+  {
+    "id": "3152",
+    "name": "Postoperative infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "3151",
+    "name": "Postoperative eye inflammation",
+    "genericCount": "1"
+  },
+  {
+    "id": "3150",
+    "name": "Postoperative bleeding",
+    "genericCount": "1"
+  },
+  {
+    "id": "4057",
+    "name": "Postexposure vaccination",
+    "genericCount": "0"
+  },
+  {
+    "id": "3149",
+    "name": "Postexposure prophylaxis of tetanus",
+    "genericCount": "1"
+  },
+  {
+    "id": "3148",
+    "name": "Posterior segment surgery",
+    "genericCount": "1"
+  },
+  {
+    "id": "3147",
+    "name": "Postcoital contraception",
+    "genericCount": "2"
+  },
+  {
+    "id": "3146",
+    "name": "Post-traumatic stress disorder",
+    "genericCount": "4"
+  },
+  {
+    "id": "3145",
+    "name": "Post-operative wound dressing",
+    "genericCount": "2"
+  },
+  {
+    "id": "3144",
+    "name": "Post-operative pain",
+    "genericCount": "9"
+  },
+  {
+    "id": "3143",
+    "name": "Post-operative nausea and vomiting",
+    "genericCount": "6"
+  },
+  {
+    "id": "2951",
+    "name": "Post-op conditions after strabotomy",
+    "genericCount": "2"
+  },
+  {
+    "id": "3142",
+    "name": "Post-menopausal osteoporosis",
+    "genericCount": "18"
+  },
+  {
+    "id": "3163",
+    "name": "Pregnancy and lactation",
+    "genericCount": "8"
+  },
+  {
+    "id": "3162",
+    "name": "Pregnancy",
+    "genericCount": "7"
+  },
+  {
+    "id": "3901",
+    "name": "Pre-Operative Supplements",
+    "genericCount": "0"
+  },
+  {
+    "id": "3161",
+    "name": "Pre-operative skin disinfection",
+    "genericCount": "1"
+  },
+  {
+    "id": "3160",
+    "name": "Pre-operative scrubbing & washing",
+    "genericCount": "1"
+  },
+  {
+    "id": "3158",
+    "name": "Pre-operative or post-operative sedation",
+    "genericCount": "2"
+  },
+  {
+    "id": "3868",
+    "name": "Pre-operative antimuscarinic agent",
+    "genericCount": "1"
+  },
+  {
+    "id": "3157",
+    "name": "Pre-operative and post-operative skin cleansing",
+    "genericCount": "0"
+  },
+  {
+    "id": "3159",
+    "name": "Pre-eclampsia",
+    "genericCount": "0"
+  },
+  {
+    "id": "3690",
+    "name": "Pre & post operative cough",
+    "genericCount": "1"
+  },
+  {
+    "id": "3156",
+    "name": "Prader Willi syndrome",
+    "genericCount": "0"
+  },
+  {
+    "id": "4148",
+    "name": "Postural hypotension",
+    "genericCount": "1"
+  },
+  {
+    "id": "3848",
+    "name": "Posttraumatic or pre- and postoperative otitis externa",
+    "genericCount": "0"
+  },
+  {
+    "id": "3155",
+    "name": "Postpartum haemorrhage",
+    "genericCount": "3"
+  },
+  {
+    "id": "3154",
+    "name": "Postpartum and post-abortion bleeding",
+    "genericCount": "2"
+  },
+  {
+    "id": "3177",
+    "name": "Prevent kidney stone",
+    "genericCount": "2"
+  },
+  {
+    "id": "3175",
+    "name": "Prevent gout",
+    "genericCount": "1"
+  },
+  {
+    "id": "4030",
+    "name": "Prevent certain types of cancer by blocking the formation of cancer causing substances in the body",
+    "genericCount": "0"
+  },
+  {
+    "id": "4031",
+    "name": "Prevent cardiovascular and immunological disorders",
+    "genericCount": "0"
+  },
+  {
+    "id": "4032",
+    "name": "Prevent aging",
+    "genericCount": "0"
+  },
+  {
+    "id": "3174",
+    "name": "Pressure sores",
+    "genericCount": "5"
+  },
+  {
+    "id": "3172",
+    "name": "Preparation for thyroidectomy",
+    "genericCount": "2"
+  },
+  {
+    "id": "3171",
+    "name": "Preoperative sedation",
+    "genericCount": "4"
+  },
+  {
+    "id": "3717",
+    "name": "Preoperative hand disinfection",
+    "genericCount": "2"
+  },
+  {
+    "id": "3170",
+    "name": "Premenstrual syndrome",
+    "genericCount": "12"
+  },
+  {
+    "id": "3169",
+    "name": "Premenstrual dysmorphic disorder",
+    "genericCount": "4"
+  },
+  {
+    "id": "3904",
+    "name": "Premedication in surgery",
+    "genericCount": "0"
+  },
+  {
+    "id": "3168",
+    "name": "Premature labour",
+    "genericCount": "2"
+  },
+  {
+    "id": "3167",
+    "name": "Premature ejaculation",
+    "genericCount": "14"
+  },
+  {
+    "id": "3166",
+    "name": "Premalignant cervical lesions and cervical cancer",
+    "genericCount": "1"
+  },
+  {
+    "id": "3165",
+    "name": "Pregnancy-associated nausea and vomiting",
+    "genericCount": "7"
+  },
+  {
+    "id": "3185",
+    "name": "Primary amoebic meningoencephalitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3184",
+    "name": "Prevention of typhoid",
+    "genericCount": "0"
+  },
+  {
+    "id": "3182",
+    "name": "Prevention of rejection in organ and tissue transplantation",
+    "genericCount": "1"
+  },
+  {
+    "id": "3830",
+    "name": "Prevention of recurrent UTI and vaginal Infections",
+    "genericCount": "2"
+  },
+  {
+    "id": "3181",
+    "name": "Prevention of measles",
+    "genericCount": "0"
+  },
+  {
+    "id": "3628",
+    "name": "Prevention of itching associated with allergic conjunctivitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3858",
+    "name": "Prevention of infections after bone marrow transplantation",
+    "genericCount": "1"
+  },
+  {
+    "id": "3180",
+    "name": "Prevention of gout and kidney stones",
+    "genericCount": "1"
+  },
+  {
+    "id": "3728",
+    "name": "Prevention of gallstones",
+    "genericCount": "1"
+  },
+  {
+    "id": "4085",
+    "name": "Prevention and treatment of vitamin deficiency in children and infants.",
+    "genericCount": "0"
+  },
+  {
+    "id": "4087",
+    "name": "Prevention & control of bleeding in Factor VIII deficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "4068",
+    "name": "Prevent vitamin deficiency and restore lost vitality after illness",
+    "genericCount": "1"
+  },
+  {
+    "id": "3989",
+    "name": "Prevent the development of infections and permit wound healing",
+    "genericCount": "1"
+  },
+  {
+    "id": "3178",
+    "name": "Prevent nitrogen loss",
+    "genericCount": "1"
+  },
+  {
+    "id": "3672",
+    "name": "Progressive loss of hearing",
+    "genericCount": "1"
+  },
+  {
+    "id": "3915",
+    "name": "Progestogen component in menopausal hormonal replacement therapy",
+    "genericCount": "1"
+  },
+  {
+    "id": "3191",
+    "name": "Productive cough",
+    "genericCount": "5"
+  },
+  {
+    "id": "3190",
+    "name": "Production of mydriasis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3189",
+    "name": "Production of cycloplegia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3866",
+    "name": "Primary rubella in pregnant women",
+    "genericCount": "1"
+  },
+  {
+    "id": "3188",
+    "name": "Proctitis",
+    "genericCount": "5"
+  },
+  {
+    "id": "3187",
+    "name": "Primary ovarian failure",
+    "genericCount": "2"
+  },
+  {
+    "id": "3979",
+    "name": "Primary or secondary topical infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "3739",
+    "name": "Primary irritant and allergic dermatitis (napkin rash)",
+    "genericCount": "3"
+  },
+  {
+    "id": "3659",
+    "name": "Primary hypercholesterolemia",
+    "genericCount": "3"
+  },
+  {
+    "id": "3954",
+    "name": "Primary dysmenorrhoea",
+    "genericCount": "1"
+  },
+  {
+    "id": "3660",
+    "name": "Primary dysbetalipoproteinemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3186",
+    "name": "Primary biliary cirrhosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "4171",
+    "name": "Primary biliary cholangitis (PBC)",
+    "genericCount": "1"
+  },
+  {
+    "id": "3863",
+    "name": "Primary antibodies deficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "3825",
+    "name": "Prophylaxis of osteoporosis in postmenopausal women",
+    "genericCount": "1"
+  },
+  {
+    "id": "4168",
+    "name": "Prophylaxis of organ rejection",
+    "genericCount": "1"
+  },
+  {
+    "id": "4192",
+    "name": "Prophylaxis of omphalitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3852",
+    "name": "Prophylaxis of cytomegaloviral infections",
+    "genericCount": "0"
+  },
+  {
+    "id": "3195",
+    "name": "Prophylaxis of clotting in extracorporeal circulation in haemodialysis or haemofiltration",
+    "genericCount": "1"
+  },
+  {
+    "id": "3942",
+    "name": "Prophylaxis of cardiac graft rejection",
+    "genericCount": "2"
+  },
+  {
+    "id": "3943",
+    "name": "Prophylaxis of acute renal graft rejection",
+    "genericCount": "2"
+  },
+  {
+    "id": "3973",
+    "name": "Prophylaxis for acid aspiration syndrome during induction of anaesthesia",
+    "genericCount": "2"
+  },
+  {
+    "id": "3644",
+    "name": "Prophylaxis and therapy of protein deficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "4072",
+    "name": "Proper development of the baby in pregnant and nursing mothers",
+    "genericCount": "1"
+  },
+  {
+    "id": "3958",
+    "name": "Promotes muscle growth",
+    "genericCount": "1"
+  },
+  {
+    "id": "4211",
+    "name": "Promote the quality and quantity of milk",
+    "genericCount": "1"
+  },
+  {
+    "id": "3194",
+    "name": "Prolonged vomiting",
+    "genericCount": "5"
+  },
+  {
+    "id": "3193",
+    "name": "Prolactinomas",
+    "genericCount": "1"
+  },
+  {
+    "id": "3208",
+    "name": "Pruritus and eczema",
+    "genericCount": "2"
+  },
+  {
+    "id": "3207",
+    "name": "Pruritus",
+    "genericCount": "13"
+  },
+  {
+    "id": "3206",
+    "name": "Pruritic skin conditions",
+    "genericCount": "6"
+  },
+  {
+    "id": "3205",
+    "name": "Prurigo nodularis",
+    "genericCount": "3"
+  },
+  {
+    "id": "3204",
+    "name": "Protozoal infections",
+    "genericCount": "2"
+  },
+  {
+    "id": "3643",
+    "name": "Protein supply for peritoneal nutrition",
+    "genericCount": "1"
+  },
+  {
+    "id": "3876",
+    "name": "Protein deficiency or Sarcopenia",
+    "genericCount": "0"
+  },
+  {
+    "id": "3786",
+    "name": "Protects from Parkinson's disease",
+    "genericCount": "4"
+  },
+  {
+    "id": "3784",
+    "name": "Protects eyes from cataract and age-related macular degeneration (AMD)",
+    "genericCount": "1"
+  },
+  {
+    "id": "3933",
+    "name": "Protection from harmful UV rays",
+    "genericCount": "3"
+  },
+  {
+    "id": "3203",
+    "name": "Protecting against cancer",
+    "genericCount": "1"
+  },
+  {
+    "id": "3202",
+    "name": "Protect sensitive skin",
+    "genericCount": "1"
+  },
+  {
+    "id": "3201",
+    "name": "Prostatitis",
+    "genericCount": "5"
+  },
+  {
+    "id": "3200",
+    "name": "Prostatic or bladder surgery",
+    "genericCount": "1"
+  },
+  {
+    "id": "3199",
+    "name": "Prostate carcinoma",
+    "genericCount": "9"
+  },
+  {
+    "id": "3198",
+    "name": "Prophylaxis of venous thromboembolism during surgery",
+    "genericCount": "1"
+  },
+  {
+    "id": "3219",
+    "name": "Pulmonary arterial hypertension",
+    "genericCount": "6"
+  },
+  {
+    "id": "3218",
+    "name": "Psychotic disorders",
+    "genericCount": "2"
+  },
+  {
+    "id": "3217",
+    "name": "Psychosis",
+    "genericCount": "9"
+  },
+  {
+    "id": "3216",
+    "name": "Psychoses in parkinson’s disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "3215",
+    "name": "Psychoneurosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3214",
+    "name": "Psychogenic amenorrhea",
+    "genericCount": "1"
+  },
+  {
+    "id": "3213",
+    "name": "Psoriatic plaques",
+    "genericCount": "2"
+  },
+  {
+    "id": "3212",
+    "name": "Psoriatic arthritis",
+    "genericCount": "17"
+  },
+  {
+    "id": "3211",
+    "name": "Psoriasis",
+    "genericCount": "38"
+  },
+  {
+    "id": "3210",
+    "name": "Psittacosis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3209",
+    "name": "Pseudohypoparathyroidism (PHP)",
+    "genericCount": "2"
+  },
+  {
+    "id": "3680",
+    "name": "Pruritus ani",
+    "genericCount": "3"
+  },
+  {
+    "id": "3704",
+    "name": "Prophylaxis of uterine atony and excessive bleeding after caesarean section",
+    "genericCount": "2"
+  },
+  {
+    "id": "3197",
+    "name": "Prophylaxis of surgical infections",
+    "genericCount": "3"
+  },
+  {
+    "id": "3771",
+    "name": "Rash and pruritus in a variety of condition",
+    "genericCount": "0"
+  },
+  {
+    "id": "3236",
+    "name": "Rapid eye movement",
+    "genericCount": "0"
+  },
+  {
+    "id": "3235",
+    "name": "Raised intracranial pressure",
+    "genericCount": "0"
+  },
+  {
+    "id": "3715",
+    "name": "Q fever",
+    "genericCount": "4"
+  },
+  {
+    "id": "3234",
+    "name": "Radiographic contrast medium for diagnostic procedures",
+    "genericCount": "2"
+  },
+  {
+    "id": "3230",
+    "name": "Pyogenic & seborrhoeic dermatitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3982",
+    "name": "Pyodermas",
+    "genericCount": "2"
+  },
+  {
+    "id": "3229",
+    "name": "Pyoderma gangrenosum",
+    "genericCount": "5"
+  },
+  {
+    "id": "3228",
+    "name": "Pyoderma",
+    "genericCount": "1"
+  },
+  {
+    "id": "3227",
+    "name": "Pylorospasm",
+    "genericCount": "1"
+  },
+  {
+    "id": "3226",
+    "name": "Pyelonephritis",
+    "genericCount": "10"
+  },
+  {
+    "id": "3224",
+    "name": "Pulmonary thromboembolism",
+    "genericCount": "2"
+  },
+  {
+    "id": "3223",
+    "name": "Pulmonary oedema",
+    "genericCount": "2"
+  },
+  {
+    "id": "3221",
+    "name": "Pulmonary eosinophilia",
+    "genericCount": "8"
+  },
+  {
+    "id": "3220",
+    "name": "Pulmonary embolism",
+    "genericCount": "8"
+  },
+  {
+    "id": "3246",
+    "name": "Reducing cholesterol levels",
+    "genericCount": "3"
+  },
+  {
+    "id": "4150",
+    "name": "Reduce the risk of preterm birth in women",
+    "genericCount": "1"
+  },
+  {
+    "id": "3245",
+    "name": "Reduce the risk of getting HIV-1 infection",
+    "genericCount": "1"
+  },
+  {
+    "id": "3800",
+    "name": "Reduce risk of infertility",
+    "genericCount": "1"
+  },
+  {
+    "id": "4190",
+    "name": "Reduce peristalsis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3244",
+    "name": "Red eye",
+    "genericCount": "3"
+  },
+  {
+    "id": "3240",
+    "name": "Recurrent UTI",
+    "genericCount": "3"
+  },
+  {
+    "id": "3243",
+    "name": "Recurrent unipolar depression",
+    "genericCount": "2"
+  },
+  {
+    "id": "3242",
+    "name": "Recurrent renal stones",
+    "genericCount": "1"
+  },
+  {
+    "id": "3241",
+    "name": "Recurrent miscarriage",
+    "genericCount": "2"
+  },
+  {
+    "id": "4167",
+    "name": "Receiving a kidney transplant",
+    "genericCount": "2"
+  },
+  {
+    "id": "3963",
+    "name": "RBC formation and proper cell functioning",
+    "genericCount": "1"
+  },
+  {
+    "id": "3239",
+    "name": "Raynaud's disease",
+    "genericCount": "3"
+  },
+  {
+    "id": "3238",
+    "name": "Rat bite fever",
+    "genericCount": "1"
+  },
+  {
+    "id": "3237",
+    "name": "Rashes",
+    "genericCount": "5"
+  },
+  {
+    "id": "3257",
+    "name": "Renal cancers",
+    "genericCount": "7"
+  },
+  {
+    "id": "3256",
+    "name": "Renal angiomyolipoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "3255",
+    "name": "Renal and urinary tract infections",
+    "genericCount": "2"
+  },
+  {
+    "id": "4001",
+    "name": "Removal of sutures",
+    "genericCount": "1"
+  },
+  {
+    "id": "4002",
+    "name": "Removal of foreign bodies",
+    "genericCount": "2"
+  },
+  {
+    "id": "4095",
+    "name": "Removal of earwax",
+    "genericCount": "2"
+  },
+  {
+    "id": "3254",
+    "name": "Relieve pain",
+    "genericCount": "12"
+  },
+  {
+    "id": "3252",
+    "name": "Relapsing fever and louse-borne typhus",
+    "genericCount": "2"
+  },
+  {
+    "id": "3251",
+    "name": "Regional anesthesia",
+    "genericCount": "4"
+  },
+  {
+    "id": "3653",
+    "name": "Refractory angina pectoris where nitrate therapy has failed",
+    "genericCount": "1"
+  },
+  {
+    "id": "3250",
+    "name": "Refractive errors",
+    "genericCount": "1"
+  },
+  {
+    "id": "3249",
+    "name": "Reflux oesophagitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "4145",
+    "name": "Reduction of unwanted facial hair in women",
+    "genericCount": "1"
+  },
+  {
+    "id": "3248",
+    "name": "Reduction of raised intracranial pressure",
+    "genericCount": "1"
+  },
+  {
+    "id": "3744",
+    "name": "Resistant depression",
+    "genericCount": "0"
+  },
+  {
+    "id": "3269",
+    "name": "Reproductive tract infection and skin infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "3891",
+    "name": "Replacement therapy in adrenocortical insufficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "3719",
+    "name": "Repairs, restores & protects dry skin & sensitive skin conditions",
+    "genericCount": "1"
+  },
+  {
+    "id": "3268",
+    "name": "Renal tubular acidosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3267",
+    "name": "Renal transplant",
+    "genericCount": "2"
+  },
+  {
+    "id": "3266",
+    "name": "Renal stone",
+    "genericCount": "1"
+  },
+  {
+    "id": "3265",
+    "name": "Renal osteodystrophy",
+    "genericCount": "3"
+  },
+  {
+    "id": "3879",
+    "name": "Renal insufficiency",
+    "genericCount": "0"
+  },
+  {
+    "id": "3264",
+    "name": "Renal impairment",
+    "genericCount": "2"
+  },
+  {
+    "id": "3263",
+    "name": "Renal homotransplantation",
+    "genericCount": "2"
+  },
+  {
+    "id": "3262",
+    "name": "Renal function testing",
+    "genericCount": "0"
+  },
+  {
+    "id": "3261",
+    "name": "Renal disease and vitamin B12 deficiency",
+    "genericCount": "12"
+  },
+  {
+    "id": "3260",
+    "name": "Renal disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "3259",
+    "name": "Renal colic",
+    "genericCount": "7"
+  },
+  {
+    "id": "3258",
+    "name": "Renal cell carcinoma",
+    "genericCount": "7"
+  },
+  {
+    "id": "3283",
+    "name": "Rhinitis",
+    "genericCount": "23"
+  },
+  {
+    "id": "3282",
+    "name": "Rheumatoid arthritis",
+    "genericCount": "59"
+  },
+  {
+    "id": "3281",
+    "name": "Rheumatism strains",
+    "genericCount": "4"
+  },
+  {
+    "id": "3280",
+    "name": "Rheumatic pain",
+    "genericCount": "4"
+  },
+  {
+    "id": "3279",
+    "name": "Rheumatic fever",
+    "genericCount": "3"
+  },
+  {
+    "id": "3278",
+    "name": "Rheumatic disorders",
+    "genericCount": "6"
+  },
+  {
+    "id": "3277",
+    "name": "Rhesus disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "3869",
+    "name": "Reverse residual neuromuscular blockade",
+    "genericCount": "1"
+  },
+  {
+    "id": "3276",
+    "name": "Reversal of neuromuscular blockade",
+    "genericCount": "1"
+  },
+  {
+    "id": "3275",
+    "name": "Retinoblastoma",
+    "genericCount": "3"
+  },
+  {
+    "id": "3274",
+    "name": "Retinal photography",
+    "genericCount": "1"
+  },
+  {
+    "id": "3273",
+    "name": "Retinal hemorrhage",
+    "genericCount": "1"
+  },
+  {
+    "id": "3272",
+    "name": "Resuscitation",
+    "genericCount": "0"
+  },
+  {
+    "id": "3733",
+    "name": "Restlessness",
+    "genericCount": "3"
+  },
+  {
+    "id": "3271",
+    "name": "Restless leg syndrome",
+    "genericCount": "4"
+  },
+  {
+    "id": "3794",
+    "name": "Rrinkles",
+    "genericCount": "3"
+  },
+  {
+    "id": "3294",
+    "name": "Roughness and fine wrinkling of photodamaged skin",
+    "genericCount": "2"
+  },
+  {
+    "id": "3293",
+    "name": "Rough skin",
+    "genericCount": "4"
+  },
+  {
+    "id": "4209",
+    "name": "Rough & defective voice",
+    "genericCount": "1"
+  },
+  {
+    "id": "3292",
+    "name": "Rotavirus diarrhea",
+    "genericCount": "1"
+  },
+  {
+    "id": "3291",
+    "name": "Rosacea melasma",
+    "genericCount": "3"
+  },
+  {
+    "id": "3290",
+    "name": "Rosacea",
+    "genericCount": "8"
+  },
+  {
+    "id": "4043",
+    "name": "Root canal operation",
+    "genericCount": "1"
+  },
+  {
+    "id": "3289",
+    "name": "Rocky mountain spotted fever",
+    "genericCount": "1"
+  },
+  {
+    "id": "3288",
+    "name": "Rigidity",
+    "genericCount": "3"
+  },
+  {
+    "id": "3286",
+    "name": "Rickets",
+    "genericCount": "9"
+  },
+  {
+    "id": "3285",
+    "name": "Riboflavin deficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "3284",
+    "name": "Rhinorrhoea",
+    "genericCount": "4"
+  },
+  {
+    "id": "3270",
+    "name": "Respiratory tract infections",
+    "genericCount": "30"
+  },
+  {
+    "id": "3975",
+    "name": "Respiratory Distress Syndrome (RDS) in premature infants.",
+    "genericCount": "0"
+  },
+  {
+    "id": "3309",
+    "name": "Schistosomiasis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3308",
+    "name": "Scedosporiosis and fusariosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3735",
+    "name": "Scborrhea",
+    "genericCount": "3"
+  },
+  {
+    "id": "3307",
+    "name": "Scaly skin disease",
+    "genericCount": "5"
+  },
+  {
+    "id": "3306",
+    "name": "Scaly or itchy scalps",
+    "genericCount": "3"
+  },
+  {
+    "id": "3305",
+    "name": "Scalp psoriasis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3304",
+    "name": "Scalp disorders",
+    "genericCount": "2"
+  },
+  {
+    "id": "3303",
+    "name": "Scalp and non-scalp psoriasis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3302",
+    "name": "Scaling skin conditions",
+    "genericCount": "2"
+  },
+  {
+    "id": "3300",
+    "name": "Scabies",
+    "genericCount": "7"
+  },
+  {
+    "id": "3299",
+    "name": "Sarcoma",
+    "genericCount": "5"
+  },
+  {
+    "id": "4147",
+    "name": "Salt losing adrenogenital syndrome",
+    "genericCount": "1"
+  },
+  {
+    "id": "3298",
+    "name": "Salmonellosis",
+    "genericCount": "3"
+  },
+  {
+    "id": "3296",
+    "name": "Runny nose",
+    "genericCount": "9"
+  },
+  {
+    "id": "3295",
+    "name": "Rubella",
+    "genericCount": "0"
+  },
+  {
+    "id": "3319",
+    "name": "Secondary hemorrhage",
+    "genericCount": "1"
+  },
+  {
+    "id": "3916",
+    "name": "Secondary amenorrhoea",
+    "genericCount": "4"
+  },
+  {
+    "id": "3983",
+    "name": "Secondarily infected dermatoses",
+    "genericCount": "1"
+  },
+  {
+    "id": "3318",
+    "name": "Second stage of labor",
+    "genericCount": "0"
+  },
+  {
+    "id": "3317",
+    "name": "Seborrhoeic dermatitis",
+    "genericCount": "17"
+  },
+  {
+    "id": "3316",
+    "name": "Seborrheic dermatitis of the scalp",
+    "genericCount": "2"
+  },
+  {
+    "id": "3736",
+    "name": "Seborrhea",
+    "genericCount": "3"
+  },
+  {
+    "id": "4120",
+    "name": "Seasonal allergic rhinitis",
+    "genericCount": "4"
+  },
+  {
+    "id": "3315",
+    "name": "Scurvy",
+    "genericCount": "2"
+  },
+  {
+    "id": "3314",
+    "name": "Scrub typhus",
+    "genericCount": "2"
+  },
+  {
+    "id": "3313",
+    "name": "Scratches",
+    "genericCount": "3"
+  },
+  {
+    "id": "3312",
+    "name": "Scrapes",
+    "genericCount": "3"
+  },
+  {
+    "id": "3311",
+    "name": "Scleritis",
+    "genericCount": "7"
+  },
+  {
+    "id": "3310",
+    "name": "Schizophrenia",
+    "genericCount": "20"
+  },
+  {
+    "id": "4129",
+    "name": "Schizoaffective Disorder",
+    "genericCount": "2"
+  },
+  {
+    "id": "3331",
+    "name": "Serum sickness",
+    "genericCount": "5"
+  },
+  {
+    "id": "3330",
+    "name": "Serious staphylococcal or other gram-positive infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "3642",
+    "name": "Septicemia",
+    "genericCount": "25"
+  },
+  {
+    "id": "3327",
+    "name": "Septic arthritis",
+    "genericCount": "6"
+  },
+  {
+    "id": "3328",
+    "name": "Septic abortion",
+    "genericCount": "4"
+  },
+  {
+    "id": "3670",
+    "name": "Sepsis gonorrhea",
+    "genericCount": "3"
+  },
+  {
+    "id": "3326",
+    "name": "Sepsis",
+    "genericCount": "4"
+  },
+  {
+    "id": "3816",
+    "name": "Senile pruritus",
+    "genericCount": "1"
+  },
+  {
+    "id": "3325",
+    "name": "Senile lentigines",
+    "genericCount": "2"
+  },
+  {
+    "id": "3324",
+    "name": "Seizures associated with lennox-gastaut syndrome",
+    "genericCount": "1"
+  },
+  {
+    "id": "3803",
+    "name": "Seizures",
+    "genericCount": "11"
+  },
+  {
+    "id": "3323",
+    "name": "Sedation",
+    "genericCount": "6"
+  },
+  {
+    "id": "3322",
+    "name": "Secretory neoplasms",
+    "genericCount": "1"
+  },
+  {
+    "id": "3321",
+    "name": "Secondary skin infections",
+    "genericCount": "2"
+  },
+  {
+    "id": "3320",
+    "name": "Secondary hyperparathyroidism",
+    "genericCount": "3"
+  },
+  {
+    "id": "3750",
+    "name": "Severe Primary Axillary Hyperhidrosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3345",
+    "name": "Severe or recurrent respiratory tract infections",
+    "genericCount": "6"
+  },
+  {
+    "id": "3344",
+    "name": "Severe metabolic acidosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3343",
+    "name": "Severe inflammatory skin disorders",
+    "genericCount": "1"
+  },
+  {
+    "id": "3342",
+    "name": "Severe idiopathic short stature",
+    "genericCount": "0"
+  },
+  {
+    "id": "3341",
+    "name": "Severe hypertension",
+    "genericCount": "3"
+  },
+  {
+    "id": "3340",
+    "name": "Severe hemorrhage",
+    "genericCount": "0"
+  },
+  {
+    "id": "3333",
+    "name": "Severe gram-negative infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "3339",
+    "name": "Severe erythema multiforme (Stevens-Johnson syndrome)",
+    "genericCount": "7"
+  },
+  {
+    "id": "3338",
+    "name": "Severe diarrhea",
+    "genericCount": "7"
+  },
+  {
+    "id": "3332",
+    "name": "Severe congestive heart failure",
+    "genericCount": "2"
+  },
+  {
+    "id": "3336",
+    "name": "Severe burns",
+    "genericCount": "1"
+  },
+  {
+    "id": "4010",
+    "name": "Severe bronchospasm",
+    "genericCount": "6"
+  },
+  {
+    "id": "3335",
+    "name": "Severe anxiety disorders",
+    "genericCount": "16"
+  },
+  {
+    "id": "3334",
+    "name": "Severe allergic asthma",
+    "genericCount": "2"
+  },
+  {
+    "id": "4038",
+    "name": "Skin & nervous system",
+    "genericCount": "1"
+  },
+  {
+    "id": "3355",
+    "name": "Skeletal muscle relaxation",
+    "genericCount": "3"
+  },
+  {
+    "id": "3354",
+    "name": "Sjogren’s syndrome",
+    "genericCount": "2"
+  },
+  {
+    "id": "3353",
+    "name": "Sinusitis",
+    "genericCount": "16"
+  },
+  {
+    "id": "3352",
+    "name": "Sickle-cell disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "3351",
+    "name": "Sialorrhea",
+    "genericCount": "1"
+  },
+  {
+    "id": "3923",
+    "name": "Shoulder pain",
+    "genericCount": "2"
+  },
+  {
+    "id": "4205",
+    "name": "Shortness",
+    "genericCount": "2"
+  },
+  {
+    "id": "3350",
+    "name": "Short-term pain relief",
+    "genericCount": "0"
+  },
+  {
+    "id": "3349",
+    "name": "Short bowel syndrome",
+    "genericCount": "0"
+  },
+  {
+    "id": "3348",
+    "name": "Shock",
+    "genericCount": "1"
+  },
+  {
+    "id": "3347",
+    "name": "Shigellosis",
+    "genericCount": "4"
+  },
+  {
+    "id": "4131",
+    "name": "Shift work disorder (SWD)",
+    "genericCount": "1"
+  },
+  {
+    "id": "4164",
+    "name": "Sexual Exposure to an HBsAg-positive Person",
+    "genericCount": "1"
+  },
+  {
+    "id": "3369",
+    "name": "Slit lamp examination",
+    "genericCount": "1"
+  },
+  {
+    "id": "3368",
+    "name": "Skin ulcers and wounds",
+    "genericCount": "1"
+  },
+  {
+    "id": "3367",
+    "name": "Skin rash",
+    "genericCount": "4"
+  },
+  {
+    "id": "3682",
+    "name": "Skin mycosis (athlete's foot, trichophytia)",
+    "genericCount": "1"
+  },
+  {
+    "id": "3366",
+    "name": "Skin moisturization",
+    "genericCount": "3"
+  },
+  {
+    "id": "3364",
+    "name": "Skin irritations",
+    "genericCount": "7"
+  },
+  {
+    "id": "3363",
+    "name": "Skin infections",
+    "genericCount": "11"
+  },
+  {
+    "id": "3362",
+    "name": "Skin healthness",
+    "genericCount": "1"
+  },
+  {
+    "id": "4017",
+    "name": "Skin grafts",
+    "genericCount": "1"
+  },
+  {
+    "id": "3356",
+    "name": "Skin grafting",
+    "genericCount": "1"
+  },
+  {
+    "id": "3361",
+    "name": "Skin fungal infections",
+    "genericCount": "3"
+  },
+  {
+    "id": "3247",
+    "name": "Skin damage from ultraviolet (UV) light",
+    "genericCount": "1"
+  },
+  {
+    "id": "3360",
+    "name": "Skin care",
+    "genericCount": "1"
+  },
+  {
+    "id": "3358",
+    "name": "Skin and wound infections",
+    "genericCount": "0"
+  },
+  {
+    "id": "3956",
+    "name": "Skin and soft tissue infections",
+    "genericCount": "4"
+  },
+  {
+    "id": "3357",
+    "name": "Skin and skin sructure infections",
+    "genericCount": "28"
+  },
+  {
+    "id": "3938",
+    "name": "Solid tumours",
+    "genericCount": "1"
+  },
+  {
+    "id": "3379",
+    "name": "Solar urticaria",
+    "genericCount": "5"
+  },
+  {
+    "id": "3378",
+    "name": "Soft tissue sarcoma",
+    "genericCount": "4"
+  },
+  {
+    "id": "3377",
+    "name": "Soft tissue inflammation",
+    "genericCount": "2"
+  },
+  {
+    "id": "3376",
+    "name": "Soft tissue infections",
+    "genericCount": "4"
+  },
+  {
+    "id": "4201",
+    "name": "Sodium Chloride deficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "3375",
+    "name": "Social phobia",
+    "genericCount": "6"
+  },
+  {
+    "id": "3374",
+    "name": "Social anxiety disorder",
+    "genericCount": "6"
+  },
+  {
+    "id": "3373",
+    "name": "Sneezing",
+    "genericCount": "7"
+  },
+  {
+    "id": "3967",
+    "name": "Smooth muscle spasm of the gastrointestinal disorder",
+    "genericCount": "1"
+  },
+  {
+    "id": "3372",
+    "name": "Smoking cessation aid",
+    "genericCount": "2"
+  },
+  {
+    "id": "3371",
+    "name": "Smoking cessation",
+    "genericCount": "1"
+  },
+  {
+    "id": "3370",
+    "name": "Small cell lung cancer",
+    "genericCount": "7"
+  },
+  {
+    "id": "4202",
+    "name": "Sluggishness",
+    "genericCount": "1"
+  },
+  {
+    "id": "4115",
+    "name": "Spring catarrh",
+    "genericCount": "1"
+  },
+  {
+    "id": "3394",
+    "name": "Sprains",
+    "genericCount": "8"
+  },
+  {
+    "id": "3392",
+    "name": "Spontaneous or elective abortion",
+    "genericCount": "1"
+  },
+  {
+    "id": "3391",
+    "name": "Spondylitis",
+    "genericCount": "12"
+  },
+  {
+    "id": "3389",
+    "name": "Spinal automatism and discopathy",
+    "genericCount": "1"
+  },
+  {
+    "id": "3388",
+    "name": "Spinal anesthesia",
+    "genericCount": "2"
+  },
+  {
+    "id": "3387",
+    "name": "Spermatogenesis induction",
+    "genericCount": "3"
+  },
+  {
+    "id": "3385",
+    "name": "Spasticity and muscle spasms",
+    "genericCount": "2"
+  },
+  {
+    "id": "3384",
+    "name": "Spasticity",
+    "genericCount": "2"
+  },
+  {
+    "id": "3383",
+    "name": "Spastic or irritable colon",
+    "genericCount": "3"
+  },
+  {
+    "id": "3382",
+    "name": "Spasm",
+    "genericCount": "7"
+  },
+  {
+    "id": "3695",
+    "name": "Source of water",
+    "genericCount": "1"
+  },
+  {
+    "id": "3892",
+    "name": "Soreness and discomfort due to hemorrhoids",
+    "genericCount": "2"
+  },
+  {
+    "id": "3381",
+    "name": "Sore throat",
+    "genericCount": "13"
+  },
+  {
+    "id": "3380",
+    "name": "Sore lips",
+    "genericCount": "4"
+  },
+  {
+    "id": "3664",
+    "name": "Sore gums",
+    "genericCount": "1"
+  },
+  {
+    "id": "3405",
+    "name": "Stiffness",
+    "genericCount": "5"
+  },
+  {
+    "id": "3404",
+    "name": "Stiff neck",
+    "genericCount": "2"
+  },
+  {
+    "id": "3403",
+    "name": "Stevens-Johnson syndrome",
+    "genericCount": "5"
+  },
+  {
+    "id": "3402",
+    "name": "Steroid-responsive inflammatory ocular conditions",
+    "genericCount": "7"
+  },
+  {
+    "id": "3994",
+    "name": "Stent thrombosis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3401",
+    "name": "Status epilepticus",
+    "genericCount": "2"
+  },
+  {
+    "id": "3400",
+    "name": "Status asthmaticus",
+    "genericCount": "6"
+  },
+  {
+    "id": "3399",
+    "name": "Staphylococcal skin infections",
+    "genericCount": "2"
+  },
+  {
+    "id": "3398",
+    "name": "Staphylococcal infections resistant to benzylpenicillin",
+    "genericCount": "2"
+  },
+  {
+    "id": "3397",
+    "name": "Staphylococcal infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "3396",
+    "name": "Stable plaque psoriasis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3801",
+    "name": "Stabilize blood sugar",
+    "genericCount": "3"
+  },
+  {
+    "id": "3997",
+    "name": "ST-elevation myocardial infarction (STEMI)",
+    "genericCount": "1"
+  },
+  {
+    "id": "3395",
+    "name": "Squamous cell or testicular tumours",
+    "genericCount": "6"
+  },
+  {
+    "id": "3416",
+    "name": "Stress urinary incontinence",
+    "genericCount": "1"
+  },
+  {
+    "id": "3804",
+    "name": "Stress ulceration of upper Gl",
+    "genericCount": "2"
+  },
+  {
+    "id": "3415",
+    "name": "Streptococcus septicaemia",
+    "genericCount": "2"
+  },
+  {
+    "id": "3414",
+    "name": "Streptococcal pharyngitis or tonsillitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3413",
+    "name": "Streptococcal pharyngitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3796",
+    "name": "Strength and endurance & immune system",
+    "genericCount": "1"
+  },
+  {
+    "id": "3412",
+    "name": "Strabismus",
+    "genericCount": "1"
+  },
+  {
+    "id": "3718",
+    "name": "Strains",
+    "genericCount": "3"
+  },
+  {
+    "id": "3411",
+    "name": "Stomatitis angularis",
+    "genericCount": "4"
+  },
+  {
+    "id": "4074",
+    "name": "Stomatitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3410",
+    "name": "Stomach upset",
+    "genericCount": "1"
+  },
+  {
+    "id": "3409",
+    "name": "Stomach distension",
+    "genericCount": "1"
+  },
+  {
+    "id": "3408",
+    "name": "Stomach carcinoma",
+    "genericCount": "6"
+  },
+  {
+    "id": "3407",
+    "name": "Stings",
+    "genericCount": "2"
+  },
+  {
+    "id": "4123",
+    "name": "Stimulation of follicle growth",
+    "genericCount": "1"
+  },
+  {
+    "id": "3406",
+    "name": "Stimulate ovulation",
+    "genericCount": "2"
+  },
+  {
+    "id": "3426",
+    "name": "Superficial bleeding",
+    "genericCount": "1"
+  },
+  {
+    "id": "3425",
+    "name": "Superficial bacterial infections",
+    "genericCount": "3"
+  },
+  {
+    "id": "3423",
+    "name": "Sunblock",
+    "genericCount": "5"
+  },
+  {
+    "id": "3424",
+    "name": "Sunburn",
+    "genericCount": "8"
+  },
+  {
+    "id": "3422",
+    "name": "Sugar substitute",
+    "genericCount": "1"
+  },
+  {
+    "id": "3726",
+    "name": "Substance abuse disorder",
+    "genericCount": "1"
+  },
+  {
+    "id": "3421",
+    "name": "Subarachnoid haemorrhage",
+    "genericCount": "1"
+  },
+  {
+    "id": "3420",
+    "name": "Subarachnoid anesthesia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3419",
+    "name": "Subacute bacterial endocarditis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3418",
+    "name": "Strongyloidiasis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3650",
+    "name": "Stroke prevention",
+    "genericCount": "10"
+  },
+  {
+    "id": "3867",
+    "name": "Stroke in patients with hypertension and left ventricular hypertrophy.",
+    "genericCount": "2"
+  },
+  {
+    "id": "3634",
+    "name": "Stroke",
+    "genericCount": "26"
+  },
+  {
+    "id": "3417",
+    "name": "Stridor",
+    "genericCount": "0"
+  },
+  {
+    "id": "3873",
+    "name": "Surgery",
+    "genericCount": "0"
+  },
+  {
+    "id": "3435",
+    "name": "Surface disinfection",
+    "genericCount": "1"
+  },
+  {
+    "id": "3436",
+    "name": "Surface anaesthesia",
+    "genericCount": "2"
+  },
+  {
+    "id": "3434",
+    "name": "Supraventricular tachycardia",
+    "genericCount": "3"
+  },
+  {
+    "id": "3433",
+    "name": "Supraventricular arrhythmias",
+    "genericCount": "3"
+  },
+  {
+    "id": "3432",
+    "name": "Supraventricular and ventricular arrhythmias",
+    "genericCount": "3"
+  },
+  {
+    "id": "3431",
+    "name": "Suprapubic pain",
+    "genericCount": "1"
+  },
+  {
+    "id": "4194",
+    "name": "Supports normal prostate function",
+    "genericCount": "3"
+  },
+  {
+    "id": "3889",
+    "name": "Supplement in adrenal insufficiency during moderate or major surgery",
+    "genericCount": "1"
+  },
+  {
+    "id": "3888",
+    "name": "Supplement in adrenal insufficiency during minor surgery under general anaesthesia",
+    "genericCount": "1"
+  },
+  {
+    "id": "4077",
+    "name": "Supplement for intravenous nutrition",
+    "genericCount": "2"
+  },
+  {
+    "id": "3430",
+    "name": "Superficial wounds",
+    "genericCount": "0"
+  },
+  {
+    "id": "3429",
+    "name": "Superficial skin infections",
+    "genericCount": "3"
+  },
+  {
+    "id": "3909",
+    "name": "Superficial punctate keratitis",
+    "genericCount": "0"
+  },
+  {
+    "id": "3428",
+    "name": "Superficial ophthalmic infections",
+    "genericCount": "2"
+  },
+  {
+    "id": "3427",
+    "name": "Superficial dermatophyte infections and pityriasis versicolor",
+    "genericCount": "5"
+  },
+  {
+    "id": "3451",
+    "name": "Systemic hyperfibrinolysis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3450",
+    "name": "Systemic fungal infections",
+    "genericCount": "2"
+  },
+  {
+    "id": "3449",
+    "name": "Syphilis",
+    "genericCount": "7"
+  },
+  {
+    "id": "3448",
+    "name": "Sympathetic nerve block",
+    "genericCount": "2"
+  },
+  {
+    "id": "4019",
+    "name": "Sycosis barbae",
+    "genericCount": "2"
+  },
+  {
+    "id": "3447",
+    "name": "Swine flu",
+    "genericCount": "1"
+  },
+  {
+    "id": "3446",
+    "name": "Sweating feet",
+    "genericCount": "1"
+  },
+  {
+    "id": "3445",
+    "name": "Sweat rash",
+    "genericCount": "1"
+  },
+  {
+    "id": "4197",
+    "name": "Suspected or confirmed COVID-19",
+    "genericCount": "19"
+  },
+  {
+    "id": "4122",
+    "name": "Suspected glaucoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "3444",
+    "name": "Susceptible infections",
+    "genericCount": "17"
+  },
+  {
+    "id": "3438",
+    "name": "Surgical prophylaxis",
+    "genericCount": "11"
+  },
+  {
+    "id": "3441",
+    "name": "Surgical infections",
+    "genericCount": "1"
+  },
+  {
+    "id": "3440",
+    "name": "Surgical incisions",
+    "genericCount": "1"
+  },
+  {
+    "id": "3439",
+    "name": "Surgical anaesthesia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3466",
+    "name": "Testosterone replacement therapy",
+    "genericCount": "3"
+  },
+  {
+    "id": "3465",
+    "name": "Testicular cancer",
+    "genericCount": "4"
+  },
+  {
+    "id": "3935",
+    "name": "Termination of pregnancy upto 9th week (63 days) of gestation",
+    "genericCount": "9"
+  },
+  {
+    "id": "3464",
+    "name": "Termination of pregnancy",
+    "genericCount": "2"
+  },
+  {
+    "id": "3463",
+    "name": "Tension",
+    "genericCount": "4"
+  },
+  {
+    "id": "3462",
+    "name": "Tendonitis",
+    "genericCount": "5"
+  },
+  {
+    "id": "3461",
+    "name": "Teething pain",
+    "genericCount": "2"
+  },
+  {
+    "id": "3460",
+    "name": "Teeth whitening",
+    "genericCount": "2"
+  },
+  {
+    "id": "3459",
+    "name": "Teeth cleaner & brighter",
+    "genericCount": "1"
+  },
+  {
+    "id": "3458",
+    "name": "Tachycardia",
+    "genericCount": "7"
+  },
+  {
+    "id": "3454",
+    "name": "T-cell lymphoma",
+    "genericCount": "0"
+  },
+  {
+    "id": "3453",
+    "name": "Systemic sclerosis",
+    "genericCount": "6"
+  },
+  {
+    "id": "3452",
+    "name": "Systemic lupus erythematosus (SLE)",
+    "genericCount": "14"
+  },
+  {
+    "id": "4022",
+    "name": "Surgical aid in the anterior segment",
+    "genericCount": "3"
+  },
+  {
+    "id": "3437",
+    "name": "Surgery (haemorrhagic shock)",
+    "genericCount": "1"
+  },
+  {
+    "id": "3478",
+    "name": "Thyroid storm",
+    "genericCount": "3"
+  },
+  {
+    "id": "4144",
+    "name": "Thyroid cancer",
+    "genericCount": "0"
+  },
+  {
+    "id": "3476",
+    "name": "Thrush",
+    "genericCount": "1"
+  },
+  {
+    "id": "3993",
+    "name": "Thrombotic cardiovascular (CV) events",
+    "genericCount": "2"
+  },
+  {
+    "id": "3474",
+    "name": "Thromboembolic disorders",
+    "genericCount": "3"
+  },
+  {
+    "id": "3475",
+    "name": "Thromboembolism",
+    "genericCount": "5"
+  },
+  {
+    "id": "3473",
+    "name": "Throat infections",
+    "genericCount": "0"
+  },
+  {
+    "id": "4128",
+    "name": "Threatened premature delivery",
+    "genericCount": "1"
+  },
+  {
+    "id": "4126",
+    "name": "Threatened abortion",
+    "genericCount": "1"
+  },
+  {
+    "id": "3472",
+    "name": "Threatened miscarriage",
+    "genericCount": "1"
+  },
+  {
+    "id": "3471",
+    "name": "Third stage of labour",
+    "genericCount": "1"
+  },
+  {
+    "id": "4045",
+    "name": "Thiamine deficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "3470",
+    "name": "Thiamine and riboflavin deficiency",
+    "genericCount": "2"
+  },
+  {
+    "id": "3978",
+    "name": "Therapeutic dilution of blood",
+    "genericCount": "1"
+  },
+  {
+    "id": "3469",
+    "name": "Thalassaemia",
+    "genericCount": "0"
+  },
+  {
+    "id": "3467",
+    "name": "Tetanus",
+    "genericCount": "6"
+  },
+  {
+    "id": "3488",
+    "name": "Tonsillitis",
+    "genericCount": "15"
+  },
+  {
+    "id": "4003",
+    "name": "Tonometry",
+    "genericCount": "1"
+  },
+  {
+    "id": "3487",
+    "name": "Tonic-clonic status epilepticus",
+    "genericCount": "2"
+  },
+  {
+    "id": "3486",
+    "name": "To reduce the need for allogenic blood tranfusion",
+    "genericCount": "2"
+  },
+  {
+    "id": "4029",
+    "name": "To prevent scurvey, beriberi, pellagra and others",
+    "genericCount": "0"
+  },
+  {
+    "id": "4028",
+    "name": "To develop immune system",
+    "genericCount": "3"
+  },
+  {
+    "id": "3485",
+    "name": "Tinnitus",
+    "genericCount": "2"
+  },
+  {
+    "id": "3683",
+    "name": "Tinea versicolor",
+    "genericCount": "1"
+  },
+  {
+    "id": "3484",
+    "name": "Tinea pedis (athlete’s foot)",
+    "genericCount": "16"
+  },
+  {
+    "id": "3483",
+    "name": "Tinea cruris (jock itch)",
+    "genericCount": "14"
+  },
+  {
+    "id": "3482",
+    "name": "Tinea corporis (ringworm)",
+    "genericCount": "14"
+  },
+  {
+    "id": "3480",
+    "name": "Tic disorders",
+    "genericCount": "1"
+  },
+  {
+    "id": "3481",
+    "name": "Tinea (pityriasis) versicolor",
+    "genericCount": "5"
+  },
+  {
+    "id": "3479",
+    "name": "Thyrotoxicosis",
+    "genericCount": "4"
+  },
+  {
+    "id": "3501",
+    "name": "Transurethral prostatic resection",
+    "genericCount": "0"
+  },
+  {
+    "id": "3874",
+    "name": "Trauma",
+    "genericCount": "2"
+  },
+  {
+    "id": "3456",
+    "name": "Transient ischemic attack",
+    "genericCount": "4"
+  },
+  {
+    "id": "3499",
+    "name": "Transfusion reactions",
+    "genericCount": "4"
+  },
+  {
+    "id": "3498",
+    "name": "Tranquilizer overdoses",
+    "genericCount": "1"
+  },
+  {
+    "id": "3497",
+    "name": "Trachoma",
+    "genericCount": "1"
+  },
+  {
+    "id": "3625",
+    "name": "Tracheostomy care during anaesthesia.",
+    "genericCount": "1"
+  },
+  {
+    "id": "3496",
+    "name": "Tracheolaryngitis",
+    "genericCount": "0"
+  },
+  {
+    "id": "3495",
+    "name": "Toxoplasmosis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3494",
+    "name": "Toxocariasis",
+    "genericCount": "3"
+  },
+  {
+    "id": "3731",
+    "name": "Toxic shock syndrome",
+    "genericCount": "1"
+  },
+  {
+    "id": "3779",
+    "name": "Toxaemia",
+    "genericCount": "0"
+  },
+  {
+    "id": "3493",
+    "name": "Tourette syndrome",
+    "genericCount": "4"
+  },
+  {
+    "id": "3853",
+    "name": "Topical antiseptic",
+    "genericCount": "4"
+  },
+  {
+    "id": "3492",
+    "name": "Total or partial gastrectomy",
+    "genericCount": "1"
+  },
+  {
+    "id": "3491",
+    "name": "Topical anesthesia",
+    "genericCount": "2"
+  },
+  {
+    "id": "3511",
+    "name": "Trigeminal neuralgia",
+    "genericCount": "10"
+  },
+  {
+    "id": "3510",
+    "name": "Trichuriasis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3509",
+    "name": "Trichotillomania",
+    "genericCount": "6"
+  },
+  {
+    "id": "3508",
+    "name": "Trichostrongyliasis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3507",
+    "name": "Trichomoniasis",
+    "genericCount": "5"
+  },
+  {
+    "id": "3506",
+    "name": "Trichinosis",
+    "genericCount": "4"
+  },
+  {
+    "id": "3505",
+    "name": "Trichinellosis",
+    "genericCount": "4"
+  },
+  {
+    "id": "3929",
+    "name": "Treatment or shock states",
+    "genericCount": "1"
+  },
+  {
+    "id": "4046",
+    "name": "Treatment and prophylaxis of mild chronic thiamine deficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "4071",
+    "name": "Treat and prevent chronic diseases like heart diseases, rheumatoid arthritis, COPD and cancer",
+    "genericCount": "1"
+  },
+  {
+    "id": "3502",
+    "name": "Traumatic hyphema",
+    "genericCount": "1"
+  },
+  {
+    "id": "3503",
+    "name": "Traveller’s diarrhea",
+    "genericCount": "2"
+  },
+  {
+    "id": "3490",
+    "name": "Toothache",
+    "genericCount": "5"
+  },
+  {
+    "id": "3489",
+    "name": "Tooth extraction",
+    "genericCount": "0"
+  },
+  {
+    "id": "3624",
+    "name": "Ulcerative Proctitis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3523",
+    "name": "Ulcerative colitis",
+    "genericCount": "15"
+  },
+  {
+    "id": "3971",
+    "name": "Ulcer resistant to H2 receptor antagonists",
+    "genericCount": "2"
+  },
+  {
+    "id": "3520",
+    "name": "Typhoid fever",
+    "genericCount": "11"
+  },
+  {
+    "id": "3519",
+    "name": "Type 2 DM",
+    "genericCount": "2"
+  },
+  {
+    "id": "3518",
+    "name": "Type 1 DM",
+    "genericCount": "1"
+  },
+  {
+    "id": "4143",
+    "name": "tympanoplasty",
+    "genericCount": "1"
+  },
+  {
+    "id": "3517",
+    "name": "Tumor lysis syndrome",
+    "genericCount": "3"
+  },
+  {
+    "id": "3516",
+    "name": "Tularaemia",
+    "genericCount": "5"
+  },
+  {
+    "id": "3515",
+    "name": "Tuberous sclerosis",
+    "genericCount": "2"
+  },
+  {
+    "id": "3514",
+    "name": "Tuberculous meningitis",
+    "genericCount": "5"
+  },
+  {
+    "id": "3457",
+    "name": "TSH suppression",
+    "genericCount": "0"
+  },
+  {
+    "id": "3513",
+    "name": "Tuberculosis",
+    "genericCount": "12"
+  },
+  {
+    "id": "3512",
+    "name": "Trophoblastic neoplasms",
+    "genericCount": "1"
+  },
+  {
+    "id": "3539",
+    "name": "Uric acid nephropathy",
+    "genericCount": "2"
+  },
+  {
+    "id": "3538",
+    "name": "Urge incontinence",
+    "genericCount": "6"
+  },
+  {
+    "id": "3537",
+    "name": "Urethritis",
+    "genericCount": "6"
+  },
+  {
+    "id": "3534",
+    "name": "Upper Gl bloating",
+    "genericCount": "4"
+  },
+  {
+    "id": "3536",
+    "name": "Upper gastrointestinal haemorrhage",
+    "genericCount": "1"
+  },
+  {
+    "id": "3535",
+    "name": "Upper and lower respiratory tract infections",
+    "genericCount": "9"
+  },
+  {
+    "id": "3900",
+    "name": "Unstable tear film",
+    "genericCount": "1"
+  },
+  {
+    "id": "3533",
+    "name": "Unstable angina",
+    "genericCount": "9"
+  },
+  {
+    "id": "3531",
+    "name": "Unipolar and bipolar depression",
+    "genericCount": "8"
+  },
+  {
+    "id": "3525",
+    "name": "Uncomplicated UTI",
+    "genericCount": "2"
+  },
+  {
+    "id": "3529",
+    "name": "Uncomplicated premature labour",
+    "genericCount": "1"
+  },
+  {
+    "id": "3530",
+    "name": "Uncomplicated skin infections",
+    "genericCount": "2"
+  },
+  {
+    "id": "3528",
+    "name": "Uncomplicated pneumococcal pneumonia",
+    "genericCount": "6"
+  },
+  {
+    "id": "3527",
+    "name": "Uncomplicated gonorrhoea",
+    "genericCount": "5"
+  },
+  {
+    "id": "3526",
+    "name": "Uncomplicated cystitis",
+    "genericCount": "4"
+  },
+  {
+    "id": "3524",
+    "name": "Ulcers",
+    "genericCount": "3"
+  },
+  {
+    "id": "3554",
+    "name": "Vaginal atrophy",
+    "genericCount": "3"
+  },
+  {
+    "id": "3553",
+    "name": "Uveitis",
+    "genericCount": "3"
+  },
+  {
+    "id": "3552",
+    "name": "Uveal tract inflammation",
+    "genericCount": "1"
+  },
+  {
+    "id": "3540",
+    "name": "UTI caused by Staphylococcus Aureus",
+    "genericCount": "1"
+  },
+  {
+    "id": "3551",
+    "name": "Uterine hemorrhage",
+    "genericCount": "2"
+  },
+  {
+    "id": "3550",
+    "name": "Uterine fibroids",
+    "genericCount": "6"
+  },
+  {
+    "id": "3549",
+    "name": "Uterine bleeding",
+    "genericCount": "7"
+  },
+  {
+    "id": "3548",
+    "name": "Uterine atony",
+    "genericCount": "2"
+  },
+  {
+    "id": "3547",
+    "name": "Urticaria",
+    "genericCount": "14"
+  },
+  {
+    "id": "3546",
+    "name": "Urothelial toxicity",
+    "genericCount": "1"
+  },
+  {
+    "id": "3545",
+    "name": "Urothelial bladder carcinoma",
+    "genericCount": "2"
+  },
+  {
+    "id": "3544",
+    "name": "Urine alkalinisation",
+    "genericCount": "2"
+  },
+  {
+    "id": "3542",
+    "name": "Urinary incontinence",
+    "genericCount": "9"
+  },
+  {
+    "id": "3543",
+    "name": "Urinary tract infection",
+    "genericCount": "36"
+  },
+  {
+    "id": "3541",
+    "name": "Urinary frequency and urgency",
+    "genericCount": "5"
+  },
+  {
+    "id": "3565",
+    "name": "Venous thromboembolism",
+    "genericCount": "4"
+  },
+  {
+    "id": "3661",
+    "name": "Vasomotor rhinitis",
+    "genericCount": "4"
+  },
+  {
+    "id": "3564",
+    "name": "Vasculitis",
+    "genericCount": "7"
+  },
+  {
+    "id": "3754",
+    "name": "Vascular complications (e. g., atherosclerosis)",
+    "genericCount": "1"
+  },
+  {
+    "id": "3563",
+    "name": "Varicella zoster (chickenpox)",
+    "genericCount": "5"
+  },
+  {
+    "id": "4016",
+    "name": "Varicose ulcers",
+    "genericCount": "1"
+  },
+  {
+    "id": "3562",
+    "name": "Varicella infection",
+    "genericCount": "1"
+  },
+  {
+    "id": "3561",
+    "name": "Variceal haemorrhage",
+    "genericCount": "1"
+  },
+  {
+    "id": "3560",
+    "name": "Vaginitis",
+    "genericCount": "11"
+  },
+  {
+    "id": "3559",
+    "name": "Vaginal trichomoniasis",
+    "genericCount": "3"
+  },
+  {
+    "id": "3807",
+    "name": "Vaginal thrush",
+    "genericCount": "2"
+  },
+  {
+    "id": "3558",
+    "name": "Vaginal or rectal irritation",
+    "genericCount": "1"
+  },
+  {
+    "id": "3557",
+    "name": "Vaginal leucorrhoea",
+    "genericCount": "9"
+  },
+  {
+    "id": "3556",
+    "name": "Vaginal dryness",
+    "genericCount": "3"
+  },
+  {
+    "id": "3555",
+    "name": "Vaginal candidiasis or thrush",
+    "genericCount": "5"
+  },
+  {
+    "id": "3580",
+    "name": "Visceral spasms",
+    "genericCount": "1"
+  },
+  {
+    "id": "3579",
+    "name": "Visceral muscle spasm",
+    "genericCount": "1"
+  },
+  {
+    "id": "4116",
+    "name": "Visceral leishmaniasis",
+    "genericCount": "3"
+  },
+  {
+    "id": "3947",
+    "name": "Viral conjunctivitis",
+    "genericCount": "1"
+  },
+  {
+    "id": "3578",
+    "name": "Vincent’s infection",
+    "genericCount": "1"
+  },
+  {
+    "id": "3577",
+    "name": "Vestibular neuritis",
+    "genericCount": "5"
+  },
+  {
+    "id": "3576",
+    "name": "Vestibular disorders",
+    "genericCount": "3"
+  },
+  {
+    "id": "3633",
+    "name": "Vestibular and visual disorders of ischaemic aetiology",
+    "genericCount": "1"
+  },
+  {
+    "id": "3574",
+    "name": "Vertigo and vestibular disorders",
+    "genericCount": "1"
+  },
+  {
+    "id": "3573",
+    "name": "Vertigo",
+    "genericCount": "9"
+  },
+  {
+    "id": "3572",
+    "name": "Verruca",
+    "genericCount": "1"
+  },
+  {
+    "id": "3570",
+    "name": "Ventricular tachycardia",
+    "genericCount": "2"
+  },
+  {
+    "id": "3568",
+    "name": "Ventricular fibrillation",
+    "genericCount": "1"
+  },
+  {
+    "id": "3567",
+    "name": "Ventricular arrhythmias",
+    "genericCount": "2"
+  },
+  {
+    "id": "3566",
+    "name": "Venous thrombosis",
+    "genericCount": "5"
+  },
+  {
+    "id": "3595",
+    "name": "Vitamin or mineral supplement",
+    "genericCount": "21"
+  },
+  {
+    "id": "3594",
+    "name": "Vitamin or mineral deficiency during pregnancy and lactation",
+    "genericCount": "5"
+  },
+  {
+    "id": "3593",
+    "name": "Vitamin or mineral deficiency",
+    "genericCount": "17"
+  },
+  {
+    "id": "3590",
+    "name": "Vitamin K deficiency bleeding",
+    "genericCount": "2"
+  },
+  {
+    "id": "3589",
+    "name": "Vitamin K deficiency",
+    "genericCount": "2"
+  },
+  {
+    "id": "3588",
+    "name": "Vitamin E deficiency and peripheral neuropathy",
+    "genericCount": "3"
+  },
+  {
+    "id": "3591",
+    "name": "Vitamin deficiency",
+    "genericCount": "22"
+  },
+  {
+    "id": "3586",
+    "name": "Vitamin D deficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "3592",
+    "name": "Vitamin C deficiency",
+    "genericCount": "5"
+  },
+  {
+    "id": "3585",
+    "name": "Vitamin B6 deficiency",
+    "genericCount": "6"
+  },
+  {
+    "id": "3584",
+    "name": "Vitamin B12 deficiency",
+    "genericCount": "12"
+  },
+  {
+    "id": "4079",
+    "name": "Vitamin B1 deficiency",
+    "genericCount": "1"
+  },
+  {
+    "id": "3845",
+    "name": "Vitamin B,Vitamin-C and Folic acid deficiencies",
+    "genericCount": "2"
+  },
+  {
+    "id": "3583",
+    "name": "Vitamin B deficiencies",
+    "genericCount": "7"
+  },
+  {
+    "id": "3581",
+    "name": "Vitamin A deficiency",
+    "genericCount": "2"
+  },
+  {
+    "id": "3604",
+    "name": "Wheezing",
+    "genericCount": "3"
+  },
+  {
+    "id": "3603",
+    "name": "Wet age-related macular degeneration",
+    "genericCount": "2"
+  },
+  {
+    "id": "4047",
+    "name": "Wernicke-Korsakoff syndrome",
+    "genericCount": "1"
+  },
+  {
+    "id": "3959",
+    "name": "Weight gain and calcium retention",
+    "genericCount": "1"
+  },
+  {
+    "id": "3602",
+    "name": "Watery eye",
+    "genericCount": "5"
+  },
+  {
+    "id": "3600",
+    "name": "Water purification",
+    "genericCount": "3"
+  },
+  {
+    "id": "3599",
+    "name": "Water disinfection",
+    "genericCount": "1"
+  },
+  {
+    "id": "3734",
+    "name": "Warts",
+    "genericCount": "5"
+  },
+  {
+    "id": "4140",
+    "name": "Waldenström's macroglobulinemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3598",
+    "name": "Vulvovaginal candidiasis",
+    "genericCount": "6"
+  },
+  {
+    "id": "3714",
+    "name": "Waldenstrom's macroglobulinaemia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3597",
+    "name": "Vomiting",
+    "genericCount": "17"
+  },
+  {
+    "id": "3596",
+    "name": "Vitiligo",
+    "genericCount": "7"
+  },
+  {
+    "id": "4078",
+    "name": "Vitamins B and Zinc deficiencies",
+    "genericCount": "1"
+  },
+  {
+    "id": "3619",
+    "name": "Yellow fever infection",
+    "genericCount": "4"
+  },
+  {
+    "id": "3617",
+    "name": "Xerophthalmia",
+    "genericCount": "1"
+  },
+  {
+    "id": "3616",
+    "name": "X-ray imaging",
+    "genericCount": "1"
+  },
+  {
+    "id": "3615",
+    "name": "Wounds",
+    "genericCount": "10"
+  },
+  {
+    "id": "3614",
+    "name": "Wound sepsis",
+    "genericCount": "0"
+  },
+  {
+    "id": "3613",
+    "name": "Wound infection",
+    "genericCount": "1"
+  },
+  {
+    "id": "3611",
+    "name": "Wound debribement and suturing",
+    "genericCount": "0"
+  },
+  {
+    "id": "3610",
+    "name": "Wound cleansing",
+    "genericCount": "1"
+  },
+  {
+    "id": "3609",
+    "name": "Wound and ulcer cleansing",
+    "genericCount": "0"
+  },
+  {
+    "id": "3608",
+    "name": "Wound and burn dressing",
+    "genericCount": "1"
+  },
+  {
+    "id": "3607",
+    "name": "Worm infections",
+    "genericCount": "3"
+  },
+  {
+    "id": "4050",
+    "name": "With percutaneous coronary intervention or coronary artery bypass graft",
+    "genericCount": "1"
+  },
+  {
+    "id": "3606",
+    "name": "Wiskott-Aldrich syndrome",
+    "genericCount": "2"
+  },
+  {
+    "id": "4063",
+    "name": "Wilm's tumour",
+    "genericCount": "1"
+  },
+  {
+    "id": "3689",
+    "name": "Whooping cough",
+    "genericCount": "2"
+  },
+  {
+    "id": "3605",
+    "name": "Whipple’s disease",
+    "genericCount": "1"
+  },
+  {
+    "id": "3622",
+    "name": "Zollinger-Ellison syndrome",
+    "genericCount": "5"
+  },
+  {
+    "id": "3621",
+    "name": "Zinc deficiency",
+    "genericCount": "2"
+  },
+  {
+    "id": "3620",
+    "name": "Zinc & folic acid deficiency",
+    "genericCount": "3"
+  }
+]

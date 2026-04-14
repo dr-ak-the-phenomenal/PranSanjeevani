@@ -1,0 +1,454 @@
+[
+  {
+    "id": "38",
+    "name": "Capsule (Sustained Release)"
+  },
+  {
+    "id": "109",
+    "name": "Capsule (Modified Release)"
+  },
+  {
+    "id": "80",
+    "name": "Capsule (Extended Release)"
+  },
+  {
+    "id": "60",
+    "name": "Capsule (Delayed Release)"
+  },
+  {
+    "id": "82",
+    "name": "Capsule (Controlled Release)"
+  },
+  {
+    "id": "2",
+    "name": "Capsule"
+  },
+  {
+    "id": "179",
+    "name": "Bolus Tablet"
+  },
+  {
+    "id": "12",
+    "name": "Injection"
+  },
+  {
+    "id": "14",
+    "name": "Inhaler"
+  },
+  {
+    "id": "136",
+    "name": "Inhalation Capsule"
+  },
+  {
+    "id": "105",
+    "name": "IM/SC Injection"
+  },
+  {
+    "id": "68",
+    "name": "IM/IV Injection"
+  },
+  {
+    "id": "147",
+    "name": "IM/IA Injection"
+  },
+  {
+    "id": "69",
+    "name": "IM Injection"
+  },
+  {
+    "id": "94",
+    "name": "Hand Rub"
+  },
+  {
+    "id": "6",
+    "name": "Gel"
+  },
+  {
+    "id": "140",
+    "name": "Viscous Eye Drop"
+  },
+  {
+    "id": "169",
+    "name": "Viscoelastic Solution"
+  },
+  {
+    "id": "86",
+    "name": "Vaginal Tablet"
+  },
+  {
+    "id": "113",
+    "name": "Vaginal Suppository"
+  },
+  {
+    "id": "65",
+    "name": "Vaginal Pessary"
+  },
+  {
+    "id": "112",
+    "name": "Vaginal Gel"
+  },
+  {
+    "id": "64",
+    "name": "Vaginal Cream"
+  },
+  {
+    "id": "62",
+    "name": "Transdermal Patch"
+  },
+  {
+    "id": "126",
+    "name": "Topical Suspension"
+  },
+  {
+    "id": "39",
+    "name": "Topical Spray"
+  },
+  {
+    "id": "93",
+    "name": "Topical Solution"
+  },
+  {
+    "id": "168",
+    "name": "Topical Powder"
+  },
+  {
+    "id": "138",
+    "name": "Topical Gel"
+  },
+  {
+    "id": "37",
+    "name": "Tablet (Sustained Release)"
+  },
+  {
+    "id": "160",
+    "name": "Tablet (Prolonged Release)"
+  },
+  {
+    "id": "42",
+    "name": "Tablet (Modified Release)"
+  },
+  {
+    "id": "154",
+    "name": "Tablet (Immediate Release)"
+  },
+  {
+    "id": "41",
+    "name": "Tablet (Extended Release)"
+  },
+  {
+    "id": "46",
+    "name": "Tablet (Enteric Coated)"
+  },
+  {
+    "id": "132",
+    "name": "Tablet (Delayed Release)"
+  },
+  {
+    "id": "43",
+    "name": "Tablet (Controlled Release)"
+  },
+  {
+    "id": "1",
+    "name": "Tablet"
+  },
+  {
+    "id": "3",
+    "name": "Syrup"
+  },
+  {
+    "id": "96",
+    "name": "Surgical Scrub"
+  },
+  {
+    "id": "4",
+    "name": "Suppository"
+  },
+  {
+    "id": "152",
+    "name": "Sublingual Tablet"
+  },
+  {
+    "id": "146",
+    "name": "Sprinkle Capsule"
+  },
+  {
+    "id": "48",
+    "name": "Solution for Inhalation"
+  },
+  {
+    "id": "85",
+    "name": "Solution"
+  },
+  {
+    "id": "125",
+    "name": "Shampoo"
+  },
+  {
+    "id": "90",
+    "name": "Scalp Solution"
+  },
+  {
+    "id": "127",
+    "name": "Scalp Ointment"
+  },
+  {
+    "id": "89",
+    "name": "Scalp Lotion"
+  },
+  {
+    "id": "67",
+    "name": "SC Injection"
+  },
+  {
+    "id": "79",
+    "name": "Retard Tablet"
+  },
+  {
+    "id": "172",
+    "name": "Respirator Solution"
+  },
+  {
+    "id": "131",
+    "name": "Rectal Saline"
+  },
+  {
+    "id": "36",
+    "name": "Rectal Ointment"
+  },
+  {
+    "id": "75",
+    "name": "Powder for Suspension"
+  },
+  {
+    "id": "33",
+    "name": "Powder for Solution"
+  },
+  {
+    "id": "44",
+    "name": "Powder for Injection"
+  },
+  {
+    "id": "21",
+    "name": "Pediatric Drops"
+  },
+  {
+    "id": "181",
+    "name": "OROS Tablet"
+  },
+  {
+    "id": "5",
+    "name": "Oral Suspension"
+  },
+  {
+    "id": "18",
+    "name": "Oral Solution"
+  },
+  {
+    "id": "144",
+    "name": "Oral Soluble Film"
+  },
+  {
+    "id": "20",
+    "name": "Oral Powder"
+  },
+  {
+    "id": "22",
+    "name": "Oral Paste"
+  },
+  {
+    "id": "78",
+    "name": "Oral Gel"
+  },
+  {
+    "id": "142",
+    "name": "Oral Emulsion"
+  },
+  {
+    "id": "118",
+    "name": "Ophthalmic Suspension"
+  },
+  {
+    "id": "148",
+    "name": "Ophthalmic Solution"
+  },
+  {
+    "id": "19",
+    "name": "Ophthalmic Ointment"
+  },
+  {
+    "id": "76",
+    "name": "Ophthalmic Gel"
+  },
+  {
+    "id": "157",
+    "name": "Ophthalmic Emulsion"
+  },
+  {
+    "id": "7",
+    "name": "Ointment"
+  },
+  {
+    "id": "170",
+    "name": "Ocular Spray"
+  },
+  {
+    "id": "139",
+    "name": "Nebuliser Suspension"
+  },
+  {
+    "id": "141",
+    "name": "Nebuliser Solution"
+  },
+  {
+    "id": "53",
+    "name": "Nasal Spray"
+  },
+  {
+    "id": "165",
+    "name": "Nasal Ointment"
+  },
+  {
+    "id": "10",
+    "name": "Nasal Drop"
+  },
+  {
+    "id": "174",
+    "name": "Nail Lacquer"
+  },
+  {
+    "id": "124",
+    "name": "Muscle Rub"
+  },
+  {
+    "id": "151",
+    "name": "MUPS Tablet"
+  },
+  {
+    "id": "95",
+    "name": "Mouthwash"
+  },
+  {
+    "id": "176",
+    "name": "Microgranules"
+  },
+  {
+    "id": "88",
+    "name": "Medicated Bar"
+  },
+  {
+    "id": "9",
+    "name": "Lotion"
+  },
+  {
+    "id": "63",
+    "name": "Long Acting Tablet"
+  },
+  {
+    "id": "166",
+    "name": "Long Acting Injection"
+  },
+  {
+    "id": "92",
+    "name": "Liquid Cleanser Soap"
+  },
+  {
+    "id": "162",
+    "name": "Liquid"
+  },
+  {
+    "id": "133",
+    "name": "IV/SC Injection"
+  },
+  {
+    "id": "134",
+    "name": "IV Injection or Infusion"
+  },
+  {
+    "id": "70",
+    "name": "IV Injection"
+  },
+  {
+    "id": "17",
+    "name": "IV Infusion"
+  },
+  {
+    "id": "108",
+    "name": "Irrigation Solution"
+  },
+  {
+    "id": "119",
+    "name": "Intravitreal Injection"
+  },
+  {
+    "id": "59",
+    "name": "Intratracheal Suspension"
+  },
+  {
+    "id": "107",
+    "name": "Intraspinal Injection"
+  },
+  {
+    "id": "180",
+    "name": "Intracameral Injection"
+  },
+  {
+    "id": "104",
+    "name": "Intra-articular Injection"
+  },
+  {
+    "id": "175",
+    "name": "Flash Tablet"
+  },
+  {
+    "id": "159",
+    "name": "Eye Capsule"
+  },
+  {
+    "id": "178",
+    "name": "Emulsion for infusion"
+  },
+  {
+    "id": "31",
+    "name": "Effervescent Tablet"
+  },
+  {
+    "id": "164",
+    "name": "Effervescent Powder"
+  },
+  {
+    "id": "27",
+    "name": "Effervescent Granules"
+  },
+  {
+    "id": "72",
+    "name": "Ear Drop"
+  },
+  {
+    "id": "28",
+    "name": "Dispersible Tablet"
+  },
+  {
+    "id": "110",
+    "name": "Dialysis Solution"
+  },
+  {
+    "id": "122",
+    "name": "Dental Gel"
+  },
+  {
+    "id": "8",
+    "name": "Cream"
+  },
+  {
+    "id": "149",
+    "name": "Chewing Gum Tablet"
+  },
+  {
+    "id": "24",
+    "name": "Chewable Tablet"
+  },
+  {
+    "id": "81",
+    "name": "Capsule (Timed Release)"
+  }
+]
